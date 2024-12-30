@@ -1,0 +1,417 @@
+{
+  "timestamp": "2024-12-29T19:43:58.029274",
+  "total_emails_compared": 97,
+  "model_counts": {
+    "OpenAI": 59,
+    "DeepSeek": 88,
+    "Llama": 36,
+    "Qwen": 28
+  },
+  "detailed_selections": {
+    "better_choice_18f6fef7ec95cb5c": [
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_18f924a987299d8d": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_18fe678380223406": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_18febcac2a05cf16": [
+      "DeepSeek"
+    ],
+    "better_choice_18febea25084aa94": [
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_1901e1be6d4b2dfb": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_1901e1d3340e613a": [
+      "DeepSeek"
+    ],
+    "better_choice_1902723e66f4eac9": [
+      "OpenAI"
+    ],
+    "better_choice_1902f3def2a9b305": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_1904d72deee53016": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_1905f0edb6c42abf": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_1905f18e265590c2": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_1905f6b02ef2f58e": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_1906a75dc2188234": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_19074e4198617737": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_190a51629638241f": [
+      "DeepSeek"
+    ],
+    "better_choice_190e1066baa11125": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_19114965b27eb33b": [
+      "DeepSeek"
+    ],
+    "better_choice_191177442664eb60": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_1911a21f6ff55c59": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_1913b886d4cbc848": [
+      "OpenAI"
+    ],
+    "better_choice_1913b8985d0a921e": [
+      "DeepSeek"
+    ],
+    "better_choice_1915e8ff7f829004": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_1915f7118677a8ed": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_19163247db47eef3": [
+      "DeepSeek"
+    ],
+    "better_choice_191636db3be1214e": [
+      "DeepSeek"
+    ],
+    "better_choice_1916db2af63b5ffa": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_191704314e946803": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_191f8f965132937e": [
+      "DeepSeek"
+    ],
+    "better_choice_192017092e1b4935": [
+      "OpenAI"
+    ],
+    "better_choice_192124fc66236e00": [
+      "DeepSeek"
+    ],
+    "better_choice_19221e49089695d5": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_19221f2c71f8d36e": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_19222379902e02e8": [
+      "DeepSeek"
+    ],
+    "better_choice_192223a50551b17f": [
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_1922a3e859b891b1": [
+      "DeepSeek"
+    ],
+    "better_choice_1922a965beb632df": [
+      "DeepSeek"
+    ],
+    "better_choice_1922cfe391bc3ff1": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_1922d09f40b85f3c": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_1922d0a64f799829": [
+      "DeepSeek"
+    ],
+    "better_choice_1922d0a8e8c01cc0": [
+      "DeepSeek"
+    ],
+    "better_choice_1922d0d014b9e3ae": [
+      "DeepSeek"
+    ],
+    "better_choice_1922fd75f4b1b31a": [
+      "Llama"
+    ],
+    "better_choice_19231470fd03d7dc": [
+      "DeepSeek"
+    ],
+    "better_choice_1923148621b83746": [
+      "DeepSeek"
+    ],
+    "better_choice_19236767ca6262b0": [
+      "OpenAI",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_19239720ee4d8e1a": [
+      "DeepSeek",
+      "Qwen"
+    ],
+    "better_choice_1923996e5a914c84": [
+      "DeepSeek",
+      "Qwen"
+    ],
+    "better_choice_1923998e7242c0be": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_192895e02386c8fd": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_1928e0d75a3a86bd": [
+      "DeepSeek"
+    ],
+    "better_choice_1928e2aef24d00cb": [
+      "Qwen"
+    ],
+    "better_choice_1929325d0bd814d6": [
+      "DeepSeek",
+      "Qwen"
+    ],
+    "better_choice_192932fe9e25be66": [
+      "DeepSeek"
+    ],
+    "better_choice_192a239e70ff38c7": [
+      "OpenAI"
+    ],
+    "better_choice_192aff7f75df9191": [
+      "DeepSeek"
+    ],
+    "better_choice_192b25ffe5cadfcb": [
+      "DeepSeek"
+    ],
+    "better_choice_192b260433731315": [
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_192b5400ca9339f7": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_192b5441bf9af40a": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_192b7826e44c98d1": [
+      "OpenAI",
+      "DeepSeek",
+      "Qwen"
+    ],
+    "better_choice_192bd0e74d6cf141": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_192c1d52c1896f13": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_192c6fb5e9da181b": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_192d185f6bde68e6": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_192d190af5002103": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_192d6bd3eb6f9a0d": [
+      "DeepSeek"
+    ],
+    "better_choice_192deef375b504b3": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_192def19a6b15af6": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_192eab0114bb7dc3": [
+      "DeepSeek"
+    ],
+    "better_choice_192eab2db6236874": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_192f3dbdcbf233dd": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_192facf148e7279f": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_192fad0282d9a104": [
+      "OpenAI",
+      "DeepSeek",
+      "Qwen"
+    ],
+    "better_choice_193070131f9b93fb": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_19309ff5d98bffba": [
+      "DeepSeek"
+    ],
+    "better_choice_1930f733da07e48b": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_1931a68971305413": [
+      "DeepSeek"
+    ],
+    "better_choice_1931cdfadb549992": [
+      "DeepSeek"
+    ],
+    "better_choice_1932bb33822de5e4": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_1932deb53555c3b8": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_19330972819b334c": [
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_193378b7a8487a78": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_193378cb0ed494b3": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_19337a37aa365f6b": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_193460a549478438": [
+      "OpenAI"
+    ],
+    "better_choice_1936c211dd9acd6f": [
+      "OpenAI",
+      "DeepSeek",
+      "Qwen"
+    ],
+    "better_choice_1937fa3373dc97e1": [
+      "DeepSeek"
+    ],
+    "better_choice_1938f161fa11850b": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_1939256722b39736": [
+      "OpenAI",
+      "DeepSeek",
+      "Qwen"
+    ],
+    "better_choice_1939c788ff081e3a": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_193b3651694b78cf": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_193b913a081e63aa": [
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ],
+    "better_choice_193bcbdddee5d289": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_193c0c0092687f54": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "better_choice_193c2d3e278fae79": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama"
+    ],
+    "better_choice_193c3827ce66e248": [
+      "OpenAI",
+      "DeepSeek",
+      "Llama",
+      "Qwen"
+    ]
+  }
+}

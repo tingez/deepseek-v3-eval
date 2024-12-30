@@ -1,0 +1,2062 @@
+{
+  "192eab2db6236874": {
+    "id": "192eab2db6236874",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_4668766328941702681",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Dörr (@tom_doerr) posted at 5:19 PM on Thu, Oct 31, 2024: Though I&#39;m sure 405B with 8GB vram won&#39;t be running at rocket speed https://t.co/1AztdJExTZ (https://x.com/tom_doerr/status/",
+    "internal_date": "1730514442000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 1 Nov 2024 19:27:22 -0700",
+      "subject": "Post from Tom Dörr (@tom_doerr)"
+    },
+    "plain_text": "Tom Dörr (@tom_doerr) posted at 5:19 PM on Thu, Oct 31, 2024:\r\nThough I'm sure 405B with 8GB vram won't be running at rocket speed\r\nhttps://t.co/1AztdJExTZ\r\n(\r\nhttps://x.com/tom_doerr/status/1852143317636780044?t=xpEu7KWNWjCXmHqHBnTc2g&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Dörr (@tom_doerr) posted at 5:19 PM on Thu, Oct 31, 2024:<br>Though I&#39;m sure 405B with 8GB vram won&#39;t be running at rocket speed <a href=\"https://t.co/1AztdJExTZ\">https://t.co/1AztdJExTZ</a><br>(<a href=\"https://x.com/tom_doerr/status/1852143317636780044?t=xpEu7KWNWjCXmHqHBnTc2g&amp;s=03\">https://x.com/tom_doerr/status/1852143317636780044?t=xpEu7KWNWjCXmHqHBnTc2g&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/inference",
+    "label_id": "Label_4668766328941702681"
+  },
+  "192f3dbdcbf233dd": {
+    "id": "192f3dbdcbf233dd",
+    "label_ids": [
+      "Label_8529411825313380021",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Read “Llama 3.2-Vision for High-Precision OCR with Ollama“ by Datadrifters on Medium: https://medium.com/@datadrifters/llama-3-2-vision-for-high-precision-ocr-with-ollama-472222da0ab5",
+    "internal_date": "1730668125000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sun, 3 Nov 2024 13:08:45 -0800",
+      "subject": "A story from Datadrifters on Medium"
+    },
+    "plain_text": "Read “Llama 3.2-Vision for High-Precision OCR with Ollama“ by Datadrifters\r\non Medium:\r\nhttps://medium.com/@datadrifters/llama-3-2-vision-for-high-precision-ocr-with-ollama-472222da0ab5\r\n",
+    "html": "<div dir=\"auto\">Read “Llama 3.2-Vision for High-Precision OCR with Ollama“ by Datadrifters on Medium: <a href=\"https://medium.com/@datadrifters/llama-3-2-vision-for-high-precision-ocr-with-ollama-472222da0ab5\">https://medium.com/@datadrifters/llama-3-2-vision-for-high-precision-ocr-with-ollama-472222da0ab5</a> </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/OCR",
+    "label_id": "Label_8529411825313380021"
+  },
+  "192895e02386c8fd": {
+    "id": "192895e02386c8fd",
+    "label_ids": [
+      "Label_8529411825313380021",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Dörr (@tom_doerr) posted at 11:08 AM on Sun, Oct 13, 2024: OCR toolkit https://t.co/ui7ScfoEFD (https://x.com/tom_doerr/status/1845527077795311623?t=YJ2DVR1JKU6RdtUvBMaN-w&amp;s=03)",
+    "internal_date": "1728881492000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sun, 13 Oct 2024 21:51:32 -0700",
+      "subject": "Post from Tom Dörr (@tom_doerr)"
+    },
+    "plain_text": "Tom Dörr (@tom_doerr) posted at 11:08 AM on Sun, Oct 13, 2024:\r\nOCR toolkit https://t.co/ui7ScfoEFD\r\n(\r\nhttps://x.com/tom_doerr/status/1845527077795311623?t=YJ2DVR1JKU6RdtUvBMaN-w&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Dörr (@tom_doerr) posted at 11:08 AM on Sun, Oct 13, 2024:<br>OCR toolkit <a href=\"https://t.co/ui7ScfoEFD\">https://t.co/ui7ScfoEFD</a><br>(<a href=\"https://x.com/tom_doerr/status/1845527077795311623?t=YJ2DVR1JKU6RdtUvBMaN-w&amp;s=03\">https://x.com/tom_doerr/status/1845527077795311623?t=YJ2DVR1JKU6RdtUvBMaN-w&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/OCR",
+    "label_id": "Label_8529411825313380021"
+  },
+  "192017092e1b4935": {
+    "id": "192017092e1b4935",
+    "label_ids": [
+      "Label_8529411825313380021",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Huang (@tuturetom) posted at 8:58 PM on Sat, Sep 14, 2024: 这个很有意思！基于 QWen2 0.5 B 模型。号称 OCR 2.0，580M 参数的端到端 OCR 模型，拿到了 BLEU 0.972 分数🔥 0.58B 模型，还是端到端的多模态🤔 这个效果有点离谱，感兴趣的可以试试 在线体验 👉 https://t.co/",
+    "internal_date": "1726601007000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 17 Sep 2024 12:23:27 -0700",
+      "subject": "Post from Tom Huang (@tuturetom)"
+    },
+    "plain_text": "Tom Huang (@tuturetom) posted at 8:58 PM on Sat, Sep 14, 2024:\r\n这个很有意思！基于 QWen2 0.5 B 模型。号称 OCR 2.0，580M 参数的端到端 OCR 模型，拿到了 BLEU 0.972 分数🔥\r\n\r\n0.58B 模型，还是端到端的多模态🤔 这个效果有点离谱，感兴趣的可以试试\r\n\r\n在线体验 👉  https://t.co/TxM511I8vV\r\n开源地址 https://t.co/WIiiaZEXxY https://t.co/YD9kAfMiBS\r\n(\r\nhttps://x.com/tuturetom/status/1835166243323887646?t=G3ScUkhJVkIyx5scb7oj-w&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Huang (@tuturetom) posted at 8:58 PM on Sat, Sep 14, 2024:<br>这个很有意思！基于 QWen2 0.5 B 模型。号称 OCR 2.0，580M 参数的端到端 OCR 模型，拿到了 BLEU 0.972 分数🔥<br><br>0.58B 模型，还是端到端的多模态🤔 这个效果有点离谱，感兴趣的可以试试<br><br>在线体验 👉  <a href=\"https://t.co/TxM511I8vV\">https://t.co/TxM511I8vV</a><br>开源地址 <a href=\"https://t.co/WIiiaZEXxY\">https://t.co/WIiiaZEXxY</a> <a href=\"https://t.co/YD9kAfMiBS\">https://t.co/YD9kAfMiBS</a><br>(<a href=\"https://x.com/tuturetom/status/1835166243323887646?t=G3ScUkhJVkIyx5scb7oj-w&amp;s=03\">https://x.com/tuturetom/status/1835166243323887646?t=G3ScUkhJVkIyx5scb7oj-w&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/OCR",
+    "label_id": "Label_8529411825313380021"
+  },
+  "1922d0d014b9e3ae": {
+    "id": "1922d0d014b9e3ae",
+    "label_ids": [
+      "Label_1869483012582813878",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 5:12 PM on Wed, Sep 25, 2024: 高通携手 Meta 推 Llama 3.2: 设备端 AI 的重大突破 @Qualcomm x @AIatMeta 高通与 Meta 合作, 优化了 Llama 3.2 系列模型, 使它能在搭载骁龙 @Snapdragon 平台的设备上运行, 这一合作旨在推进设备端 AI",
+    "internal_date": "1727332680000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 25 Sep 2024 23:38:00 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 5:12 PM on Wed, Sep 25, 2024:\r\n高通携手 Meta 推 Llama 3.2: 设备端 AI 的重大突破\r\n@Qualcomm x @AIatMeta\r\n\r\n高通与 Meta 合作, 优化了 Llama 3.2 系列模型, 使它能在搭载骁龙 @Snapdragon 平台的设备上运行, 这一合作旨在推进设备端\r\nAI 的发展。\r\n\r\n高通提供了多种工具和资源, 帮助开发者在骁龙平台上优化和部署 Llama 3.2:\r\n- Ollama https://t.co/yNjiw0hBDs\r\n(\r\nhttps://x.com/shao__meng/status/1839095670571151753?t=3VzOSQaBw1PJSIc8mTGnFw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 5:12 PM on Wed, Sep 25, 2024:<br>高通携手 Meta 推 Llama 3.2: 设备端 AI 的重大突破<br>@Qualcomm x @AIatMeta <br><br>高通与 Meta 合作, 优化了 Llama 3.2 系列模型, 使它能在搭载骁龙 @Snapdragon 平台的设备上运行, 这一合作旨在推进设备端 AI 的发展。<br><br>高通提供了多种工具和资源, 帮助开发者在骁龙平台上优化和部署 Llama 3.2:<br>- Ollama <a href=\"https://t.co/yNjiw0hBDs\">https://t.co/yNjiw0hBDs</a><br>(<a href=\"https://x.com/shao__meng/status/1839095670571151753?t=3VzOSQaBw1PJSIc8mTGnFw&amp;s=03\">https://x.com/shao__meng/status/1839095670571151753?t=3VzOSQaBw1PJSIc8mTGnFw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/edge",
+    "label_id": "Label_1869483012582813878"
+  },
+  "1911a21f6ff55c59": {
+    "id": "1911a21f6ff55c59",
+    "label_ids": [
+      "Label_1869483012582813878",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Huang (@tuturetom) posted at 9:12 AM on Sat, Aug 03, 2024: 直接在树莓派上运行端侧向量数据库并进行端侧的 「语义相似度匹配」🤯🤯 SQLite-vec 也太酷了！兼容 OpenAI Embedding 接口的实现，支持离线 Embedding https://t.co/jccppCPBX6 (https://x.com/",
+    "internal_date": "1722720315000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 3 Aug 2024 14:25:15 -0700",
+      "subject": "Post from Tom Huang (@tuturetom)"
+    },
+    "plain_text": "Tom Huang (@tuturetom) posted at 9:12 AM on Sat, Aug 03, 2024:\r\n直接在树莓派上运行端侧向量数据库并进行端侧的 「语义相似度匹配」🤯🤯\r\n\r\nSQLite-vec 也太酷了！兼容 OpenAI Embedding 接口的实现，支持离线 Embedding\r\n\r\nhttps://t.co/jccppCPBX6\r\n(\r\nhttps://x.com/tuturetom/status/1819768397900681355?t=scoy-2K5x_I5bxaZ4Qomzg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Huang (@tuturetom) posted at 9:12 AM on Sat, Aug 03, 2024:<br>直接在树莓派上运行端侧向量数据库并进行端侧的 「语义相似度匹配」🤯🤯<br><br>SQLite-vec 也太酷了！兼容 OpenAI Embedding 接口的实现，支持离线 Embedding<br><br><a href=\"https://t.co/jccppCPBX6\">https://t.co/jccppCPBX6</a><br>(<a href=\"https://x.com/tuturetom/status/1819768397900681355?t=scoy-2K5x_I5bxaZ4Qomzg&amp;s=03\">https://x.com/tuturetom/status/1819768397900681355?t=scoy-2K5x_I5bxaZ4Qomzg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/edge",
+    "label_id": "Label_1869483012582813878"
+  },
+  "192eab0114bb7dc3": {
+    "id": "192eab0114bb7dc3",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_6849508884976831793",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "AIGCLINK (@aigclink) posted at 0:32 AM on Fri, Nov 01, 2024: 一款基于Langflow、Groq、OpenAI构建的智能会议分析助手：meetingmind，它可以用30秒分析一小时的会议，自动生成会议记录和关键信息 特点： 1、提供仪表板查看分析结果 2、支持音频录制和文件上传，自动转录 3、自动提取关键信息，任务、决策、问题、洞察、截止",
+    "internal_date": "1730514260000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 1 Nov 2024 19:24:20 -0700",
+      "subject": "Post from AIGCLINK (@aigclink)"
+    },
+    "plain_text": "AIGCLINK (@aigclink) posted at 0:32 AM on Fri, Nov 01, 2024:\r\n一款基于Langflow、Groq、OpenAI构建的智能会议分析助手：meetingmind，它可以用30秒分析一小时的会议，自动生成会议记录和关键信息\r\n\r\n特点：\r\n1、提供仪表板查看分析结果\r\n2、支持音频录制和文件上传，自动转录\r\n3、自动提取关键信息，任务、决策、问题、洞察、截止日期、参与者、后续行动、风险和议程等 https://t.co/5qHx8eY9Pi\r\n(\r\nhttps://x.com/aigclink/status/1852252263877873898?t=HVSOB8RG7YQ2AKgKTfRMlQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">AIGCLINK (@aigclink) posted at 0:32 AM on Fri, Nov 01, 2024:<br>一款基于Langflow、Groq、OpenAI构建的智能会议分析助手：meetingmind，它可以用30秒分析一小时的会议，自动生成会议记录和关键信息<br><br>特点：<br>1、提供仪表板查看分析结果<br>2、支持音频录制和文件上传，自动转录<br>3、自动提取关键信息，任务、决策、问题、洞察、截止日期、参与者、后续行动、风险和议程等 <a href=\"https://t.co/5qHx8eY9Pi\">https://t.co/5qHx8eY9Pi</a><br>(<a href=\"https://x.com/aigclink/status/1852252263877873898?t=HVSOB8RG7YQ2AKgKTfRMlQ&amp;s=03\">https://x.com/aigclink/status/1852252263877873898?t=HVSOB8RG7YQ2AKgKTfRMlQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/meeting",
+    "label_id": "Label_6849508884976831793"
+  },
+  "192fad0282d9a104": {
+    "id": "192fad0282d9a104",
+    "label_ids": [
+      "Label_5481673792619934138",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Dörr (@tom_doerr) posted at 7:39 AM on Mon, Nov 04, 2024: &quot;Label Studio is a multi-type data labeling and annotation tool with standardized output format&quot; https://t.co/l8jmkviFfd (https:/",
+    "internal_date": "1730784800000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 4 Nov 2024 21:33:20 -0800",
+      "subject": "Post from Tom Dörr (@tom_doerr)"
+    },
+    "plain_text": "Tom Dörr (@tom_doerr) posted at 7:39 AM on Mon, Nov 04, 2024:\r\n\"Label Studio is a multi-type data labeling and annotation tool with\r\nstandardized output format\" https://t.co/l8jmkviFfd\r\n(\r\nhttps://x.com/tom_doerr/status/1853462058387583234?t=v0RtFooqGnIyJ327Ggzo0w&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Dörr (@tom_doerr) posted at 7:39 AM on Mon, Nov 04, 2024:<br>&quot;Label Studio is a multi-type data labeling and annotation tool with standardized output format&quot; <a href=\"https://t.co/l8jmkviFfd\">https://t.co/l8jmkviFfd</a><br>(<a href=\"https://x.com/tom_doerr/status/1853462058387583234?t=v0RtFooqGnIyJ327Ggzo0w&amp;s=03\">https://x.com/tom_doerr/status/1853462058387583234?t=v0RtFooqGnIyJ327Ggzo0w&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/annotation",
+    "label_id": "Label_5481673792619934138"
+  },
+  "1936c211dd9acd6f": {
+    "id": "1936c211dd9acd6f",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_8613979590361187613",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "AIGCLINK (@aigclink) posted at 6:13 PM on Tue, Nov 26, 2024: 蚂蚁集团开源的一个可以快速构建AI聊天界面的工具包：Ant Design X，用它可以快速搭建出类似ChatGPT那种专业的对话界面，且可以轻松接入AI模型 不用从零开始写代码，界面设计已经做好了，直接用就行支持自定义样式 它可以用于各种需要和AI对话的应用，比如智能客服系统、",
+    "internal_date": "1732685930000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 26 Nov 2024 21:38:50 -0800",
+      "subject": "Post from AIGCLINK (@aigclink)"
+    },
+    "plain_text": "AIGCLINK (@aigclink) posted at 6:13 PM on Tue, Nov 26, 2024:\r\n蚂蚁集团开源的一个可以快速构建AI聊天界面的工具包：Ant Design\r\nX，用它可以快速搭建出类似ChatGPT那种专业的对话界面，且可以轻松接入AI模型\r\n\r\n不用从零开始写代码，界面设计已经做好了，直接用就行\r\n支持自定义样式\r\n\r\n它可以用于各种需要和AI对话的应用，比如智能客服系统、AI助手、智能问答系统等 https://t.co/XqYqi9nbSN\r\n(\r\nhttps://x.com/aigclink/status/1861594072743583942?t=-W8h4dOt5c3ZoQy7L4EEQg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">AIGCLINK (@aigclink) posted at 6:13 PM on Tue, Nov 26, 2024:<br>蚂蚁集团开源的一个可以快速构建AI聊天界面的工具包：Ant Design X，用它可以快速搭建出类似ChatGPT那种专业的对话界面，且可以轻松接入AI模型<br><br>不用从零开始写代码，界面设计已经做好了，直接用就行<br>支持自定义样式<br><br>它可以用于各种需要和AI对话的应用，比如智能客服系统、AI助手、智能问答系统等 <a href=\"https://t.co/XqYqi9nbSN\">https://t.co/XqYqi9nbSN</a><br>(<a href=\"https://x.com/aigclink/status/1861594072743583942?t=-W8h4dOt5c3ZoQy7L4EEQg&amp;s=03\">https://x.com/aigclink/status/1861594072743583942?t=-W8h4dOt5c3ZoQy7L4EEQg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/front-end",
+    "label_id": "Label_8613979590361187613"
+  },
+  "19074e4198617737": {
+    "id": "19074e4198617737",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_8613979590361187613",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Read “Did Google Just Kill Streamlit?“ by Om Kamath on Medium: https://medium.com/google-cloud/did-google-just-kill-streamlit-76f719d9e275",
+    "internal_date": "1719948025000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 2 Jul 2024 12:20:25 -0700",
+      "subject": "A story from Om Kamath on Medium"
+    },
+    "plain_text": "Read “Did Google Just Kill Streamlit?“ by Om Kamath on Medium:\r\nhttps://medium.com/google-cloud/did-google-just-kill-streamlit-76f719d9e275\r\n",
+    "html": "<div dir=\"auto\">Read “Did Google Just Kill Streamlit?“ by Om Kamath on Medium: <a href=\"https://medium.com/google-cloud/did-google-just-kill-streamlit-76f719d9e275\">https://medium.com/google-cloud/did-google-just-kill-streamlit-76f719d9e275</a> </div>\r\n",
+    "attachments": [
+      {
+        "filename": "shared_image.jpg",
+        "mime_type": "image/jpeg",
+        "size": 76234
+      }
+    ],
+    "label_name": "LLM/front-end",
+    "label_id": "Label_8613979590361187613"
+  },
+  "1905f6b02ef2f58e": {
+    "id": "1905f6b02ef2f58e",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_8613979590361187613",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Read “Streamlit vs HTMX — LLM Streaming Chatbots“ by Preston Blackburn on Medium: https://medium.com/@prestonblckbrn/streamlit-vs-htmx-llm-streaming-chatbots-783708e3cddb",
+    "internal_date": "1719587766000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 28 Jun 2024 08:16:06 -0700",
+      "subject": "A story from Preston Blackburn on Medium"
+    },
+    "plain_text": "Read “Streamlit vs HTMX — LLM Streaming Chatbots“ by Preston Blackburn on\r\nMedium:\r\nhttps://medium.com/@prestonblckbrn/streamlit-vs-htmx-llm-streaming-chatbots-783708e3cddb\r\n",
+    "html": "<div dir=\"auto\">Read “Streamlit vs HTMX — LLM Streaming Chatbots“ by Preston Blackburn on Medium: <a href=\"https://medium.com/@prestonblckbrn/streamlit-vs-htmx-llm-streaming-chatbots-783708e3cddb\">https://medium.com/@prestonblckbrn/streamlit-vs-htmx-llm-streaming-chatbots-783708e3cddb</a> </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/front-end",
+    "label_id": "Label_8613979590361187613"
+  },
+  "18fe678380223406": {
+    "id": "18fe678380223406",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "Label_8613979590361187613",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Jintao Zhang (@zhangjintao9020) posted at 5:50 AM on Tue, Jun 04, 2024: Google 开源了个基于 Python 的 UI 框架 Mesop, 有点类似于 streamlit 和 Gradio 之类的组件。其中的示例看起来就是 Gemini 的样子了。这类组件可能更多就是为了能让人 快速构建一个使用 #LLM API 的应用吧",
+    "internal_date": "1717558590000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 4 Jun 2024 20:36:30 -0700",
+      "subject": "Post from Jintao Zhang (@zhangjintao9020)"
+    },
+    "plain_text": "Jintao Zhang (@zhangjintao9020) posted at 5:50 AM on Tue, Jun 04, 2024:\r\nGoogle 开源了个基于 Python 的 UI 框架 Mesop, 有点类似于 streamlit 和 Gradio\r\n之类的组件。其中的示例看起来就是 Gemini 的样子了。这类组件可能更多就是为了能让人 快速构建一个使用 #LLM API 的应用吧\r\n\r\nhttps://t.co/yWksBInzPh\r\n(\r\nhttps://x.com/zhangjintao9020/status/1797974187375821287?t=drGARnhWrdR5g0HPLsPeLg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Jintao Zhang (@zhangjintao9020) posted at 5:50 AM on Tue, Jun 04, 2024:<br>Google 开源了个基于 Python 的 UI 框架 Mesop, 有点类似于 streamlit 和 Gradio 之类的组件。其中的示例看起来就是 Gemini 的样子了。这类组件可能更多就是为了能让人 快速构建一个使用 #LLM API 的应用吧 <br><br><a href=\"https://t.co/yWksBInzPh\">https://t.co/yWksBInzPh</a><br>(<a href=\"https://x.com/zhangjintao9020/status/1797974187375821287?t=drGARnhWrdR5g0HPLsPeLg&amp;s=03\">https://x.com/zhangjintao9020/status/1797974187375821287?t=drGARnhWrdR5g0HPLsPeLg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "193070131f9b93fb": {
+    "id": "193070131f9b93fb",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Read “How to Create a RAG Evaluation Dataset From Documents“ by Dr. Leon Eversberg on Medium: https://towardsdatascience.com/how-to-create-a-rag-evaluation-dataset-from-documents-140daa3cbe71",
+    "internal_date": "1730989340000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Thu, 7 Nov 2024 06:22:20 -0800",
+      "subject": "A story from Dr. Leon Eversberg on Medium"
+    },
+    "plain_text": "Read “How to Create a RAG Evaluation Dataset From Documents“ by Dr. Leon\r\nEversberg on Medium:\r\nhttps://towardsdatascience.com/how-to-create-a-rag-evaluation-dataset-from-documents-140daa3cbe71\r\n",
+    "html": "<div dir=\"auto\">Read “How to Create a RAG Evaluation Dataset From Documents“ by Dr. Leon Eversberg on Medium: <a href=\"https://towardsdatascience.com/how-to-create-a-rag-evaluation-dataset-from-documents-140daa3cbe71\">https://towardsdatascience.com/how-to-create-a-rag-evaluation-dataset-from-documents-140daa3cbe71</a> </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "192def19a6b15af6": {
+    "id": "192def19a6b15af6",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Braintrust (@braintrustdata) posted at 9:17 AM on Tue, Oct 29, 2024: https://t.co/fdU8HG6Lql (https://x.com/braintrustdata/status/1851297307775623465?t=xtQh7SFyixLynAebI9FVMg&amp;s=03)",
+    "internal_date": "1730317229000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 30 Oct 2024 12:40:29 -0700",
+      "subject": "Post from Braintrust (@braintrustdata)"
+    },
+    "plain_text": "Braintrust (@braintrustdata) posted at 9:17 AM on Tue, Oct 29, 2024:\r\nhttps://t.co/fdU8HG6Lql\r\n(\r\nhttps://x.com/braintrustdata/status/1851297307775623465?t=xtQh7SFyixLynAebI9FVMg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Braintrust (@braintrustdata) posted at 9:17 AM on Tue, Oct 29, 2024:<br><a href=\"https://t.co/fdU8HG6Lql\">https://t.co/fdU8HG6Lql</a><br>(<a href=\"https://x.com/braintrustdata/status/1851297307775623465?t=xtQh7SFyixLynAebI9FVMg&amp;s=03\">https://x.com/braintrustdata/status/1851297307775623465?t=xtQh7SFyixLynAebI9FVMg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "192deef375b504b3": {
+    "id": "192deef375b504b3",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Jason Wei (@_jasonwei) posted at 10:45 AM on Wed, Oct 30, 2024: Excited to open-source a new hallucinations eval called SimpleQA! For a while it felt like there was no great benchmark for factuality,",
+    "internal_date": "1730317072000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 30 Oct 2024 12:37:52 -0700",
+      "subject": "Post from Jason Wei (@_jasonwei)"
+    },
+    "plain_text": "Jason Wei (@_jasonwei) posted at 10:45 AM on Wed, Oct 30, 2024:\r\nExcited to open-source a new hallucinations eval called SimpleQA! For a\r\nwhile it felt like there was no great benchmark for factuality, and so we\r\ncreated an eval that was simple, reliable, and easy-to-use for researchers.\r\nMain features of SimpleQA:\r\n\r\n1. Very simple setup: there https://t.co/ffsC9yshiF\r\n(\r\nhttps://x.com/_jasonwei/status/1851681730845118799?t=LOpHX_GGQJDKXjzpVIgunA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Jason Wei (@_jasonwei) posted at 10:45 AM on Wed, Oct 30, 2024:<br>Excited to open-source a new hallucinations eval called SimpleQA! For a while it felt like there was no great benchmark for factuality, and so we created an eval that was simple, reliable, and easy-to-use for researchers. Main features of SimpleQA:<br><br>1. Very simple setup: there <a href=\"https://t.co/ffsC9yshiF\">https://t.co/ffsC9yshiF</a><br>(<a href=\"https://x.com/_jasonwei/status/1851681730845118799?t=LOpHX_GGQJDKXjzpVIgunA&amp;s=03\">https://x.com/_jasonwei/status/1851681730845118799?t=LOpHX_GGQJDKXjzpVIgunA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "192d6bd3eb6f9a0d": {
+    "id": "192d6bd3eb6f9a0d",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 0:31 AM on Mon, Oct 28, 2024: 让 AI 更懂指令: RAG 系统的智能对齐方案 这个项目包含了论文、数据和代码实现, 主要是 RAG 领域的指令对齐管道系统和自动评估基准测试系统: ※ VIF-RAG: 一个创新的指令对齐管道系统※ FollowRAG: 一个自动评估基准测试系统 主要内容: - VIF",
+    "internal_date": "1730179580000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 28 Oct 2024 22:26:20 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 0:31 AM on Mon, Oct 28, 2024:\r\n让 AI 更懂指令: RAG 系统的智能对齐方案\r\n\r\n这个项目包含了论文、数据和代码实现, 主要是 RAG 领域的指令对齐管道系统和自动评估基准测试系统:\r\n※ VIF-RAG: 一个创新的指令对齐管道系统\r\n※ FollowRAG: 一个自动评估基准测试系统\r\n\r\n主要内容:\r\n- VIF-RAG 是首个自动化、可扩展、可验证的数据合成管道, https://t.co/fiviPvzQSv\r\n(\r\nhttps://x.com/shao__meng/status/1850802644761391420?t=imDLlCeUMOP_I-6jnNJ7Qg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 0:31 AM on Mon, Oct 28, 2024:<br>让 AI 更懂指令: RAG 系统的智能对齐方案<br><br>这个项目包含了论文、数据和代码实现, 主要是 RAG 领域的指令对齐管道系统和自动评估基准测试系统:<br>※ VIF-RAG: 一个创新的指令对齐管道系统<br>※ FollowRAG: 一个自动评估基准测试系统<br><br>主要内容:<br>- VIF-RAG 是首个自动化、可扩展、可验证的数据合成管道, <a href=\"https://t.co/fiviPvzQSv\">https://t.co/fiviPvzQSv</a><br>(<a href=\"https://x.com/shao__meng/status/1850802644761391420?t=imDLlCeUMOP_I-6jnNJ7Qg&amp;s=03\">https://x.com/shao__meng/status/1850802644761391420?t=imDLlCeUMOP_I-6jnNJ7Qg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "192d185f6bde68e6": {
+    "id": "192d185f6bde68e6",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 5:20 AM on Sun, Oct 27, 2024: RAGChecker: 细粒度 RAG 诊断评估框架 @AmazonScience 开源的一个专门用于评估 RAG 系统的综合性自动评估框架, 提供了一套完整的指标和工具, 用于深入分析 RAG 性能。 ※ 主要特色功能 ※ 全面的评估体系: - 整体指标: 评估完整",
+    "internal_date": "1730092070000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sun, 27 Oct 2024 22:07:50 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 5:20 AM on Sun, Oct 27, 2024:\r\nRAGChecker: 细粒度 RAG 诊断评估框架\r\n\r\n@AmazonScience 开源的一个专门用于评估 RAG 系统的综合性自动评估框架, 提供了一套完整的指标和工具, 用于深入分析 RAG 性能。\r\n\r\n※ 主要特色功能 ※\r\n\r\n全面的评估体系:\r\n- 整体指标: 评估完整 RAG 流程\r\n- 诊断性指标: 分别针对检索组件和生成组件\r\n- 细粒度评估: https://t.co/0qX6oZOO5j\r\n(\r\nhttps://x.com/shao__meng/status/1850512837711659211?t=gMoftwD44-YANOdjqYhHow&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 5:20 AM on Sun, Oct 27, 2024:<br>RAGChecker: 细粒度 RAG 诊断评估框架<br><br>@AmazonScience 开源的一个专门用于评估 RAG 系统的综合性自动评估框架, 提供了一套完整的指标和工具, 用于深入分析 RAG 性能。<br><br>※ 主要特色功能 ※<br><br>全面的评估体系:<br>- 整体指标: 评估完整 RAG 流程<br>- 诊断性指标: 分别针对检索组件和生成组件<br>- 细粒度评估: <a href=\"https://t.co/0qX6oZOO5j\">https://t.co/0qX6oZOO5j</a><br>(<a href=\"https://x.com/shao__meng/status/1850512837711659211?t=gMoftwD44-YANOdjqYhHow&amp;s=03\">https://x.com/shao__meng/status/1850512837711659211?t=gMoftwD44-YANOdjqYhHow&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "192c6fb5e9da181b": {
+    "id": "192c6fb5e9da181b",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 5:16 PM on Thu, Oct 24, 2024: 子问题覆盖驱动的 RAG 系统优化 来自 @SFResearch 的论文提出了一个新颖的评估框架, 主要聚焦于 &quot;子问题覆盖率&quot; 这个维度来评估 RAG 系统, 主要内容: - 将复杂问题分解为核心、背景和后续三类子问题 - 提出了一个基于子问题覆盖的细",
+    "internal_date": "1729915216000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 25 Oct 2024 21:00:16 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 5:16 PM on Thu, Oct 24, 2024:\r\n子问题覆盖驱动的 RAG 系统优化\r\n\r\n来自 @SFResearch 的论文提出了一个新颖的评估框架, 主要聚焦于 \"子问题覆盖率\" 这个维度来评估 RAG 系统, 主要内容:\r\n- 将复杂问题分解为核心、背景和后续三类子问题\r\n- 提出了一个基于子问题覆盖的细粒度评估协议\r\n- https://t.co/9lLn0EAFhe\r\n(\r\nhttps://x.com/shao__meng/status/1849605989894672821?t=Lo2Sv_lmVyNroW9J2HA6BA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 5:16 PM on Thu, Oct 24, 2024:<br>子问题覆盖驱动的 RAG 系统优化<br><br>来自 @SFResearch 的论文提出了一个新颖的评估框架, 主要聚焦于 &quot;子问题覆盖率&quot; 这个维度来评估 RAG 系统, 主要内容:<br>- 将复杂问题分解为核心、背景和后续三类子问题<br>- 提出了一个基于子问题覆盖的细粒度评估协议<br>- <a href=\"https://t.co/9lLn0EAFhe\">https://t.co/9lLn0EAFhe</a><br>(<a href=\"https://x.com/shao__meng/status/1849605989894672821?t=Lo2Sv_lmVyNroW9J2HA6BA&amp;s=03\">https://x.com/shao__meng/status/1849605989894672821?t=Lo2Sv_lmVyNroW9J2HA6BA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "192c1d52c1896f13": {
+    "id": "192c1d52c1896f13",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 5:16 PM on Thu, Oct 24, 2024: 子问题覆盖驱动的 RAG 系统优化 来自 @SFResearch 的论文提出了一个新颖的评估框架, 主要聚焦于 &quot;子问题覆盖率&quot; 这个维度来评估 RAG 系统, 主要内容: - 将复杂问题分解为核心、背景和后续三类子问题 - 提出了一个基于子问题覆盖的细",
+    "internal_date": "1729828827000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Thu, 24 Oct 2024 21:00:27 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 5:16 PM on Thu, Oct 24, 2024:\r\n子问题覆盖驱动的 RAG 系统优化\r\n\r\n来自 @SFResearch 的论文提出了一个新颖的评估框架, 主要聚焦于 \"子问题覆盖率\" 这个维度来评估 RAG 系统, 主要内容:\r\n- 将复杂问题分解为核心、背景和后续三类子问题\r\n- 提出了一个基于子问题覆盖的细粒度评估协议\r\n- https://t.co/9lLn0EAFhe\r\n(\r\nhttps://x.com/shao__meng/status/1849605989894672821?t=-AZKGS_2LX-TgL5Vwtde-A&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 5:16 PM on Thu, Oct 24, 2024:<br>子问题覆盖驱动的 RAG 系统优化<br><br>来自 @SFResearch 的论文提出了一个新颖的评估框架, 主要聚焦于 &quot;子问题覆盖率&quot; 这个维度来评估 RAG 系统, 主要内容:<br>- 将复杂问题分解为核心、背景和后续三类子问题<br>- 提出了一个基于子问题覆盖的细粒度评估协议<br>- <a href=\"https://t.co/9lLn0EAFhe\">https://t.co/9lLn0EAFhe</a><br>(<a href=\"https://x.com/shao__meng/status/1849605989894672821?t=-AZKGS_2LX-TgL5Vwtde-A&amp;s=03\">https://x.com/shao__meng/status/1849605989894672821?t=-AZKGS_2LX-TgL5Vwtde-A&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "192bd0e74d6cf141": {
+    "id": "192bd0e74d6cf141",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 5:07 PM on Wed, Oct 23, 2024: RAG 评估工程实践: Ragas 指标体系与 Comet Opik 集成 @Cometml @ragas_io 这篇文档主要介绍了如何将 Ragas 与 Opik 平台结合使用来监控和评估 RAG pipeline. 两种评估方法 1. 对追踪(Traces)进行评分 -",
+    "internal_date": "1729748694000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 23 Oct 2024 22:44:54 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 5:07 PM on Wed, Oct 23, 2024:\r\nRAG 评估工程实践: Ragas 指标体系与 Comet Opik 集成\r\n@Cometml @ragas_io\r\n\r\n这篇文档主要介绍了如何将 Ragas 与 Opik 平台结合使用来监控和评估 RAG pipeline.\r\n\r\n两种评估方法\r\n\r\n1. 对追踪(Traces)进行评分\r\n- 适用于生产环境中的实时评估\r\n- 可以追踪单个查询的完整处理流程\r\n- 能够实时获取评分结果\r\n- https://t.co/sFPDbPHxdG\r\n(\r\nhttps://x.com/shao__meng/status/1849241214635356232?t=QNGdK49fbYqo_uH17Agg6A&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 5:07 PM on Wed, Oct 23, 2024:<br>RAG 评估工程实践: Ragas 指标体系与 Comet Opik 集成<br>@Cometml @ragas_io <br><br>这篇文档主要介绍了如何将 Ragas 与 Opik 平台结合使用来监控和评估 RAG pipeline.<br><br>两种评估方法<br><br>1. 对追踪(Traces)进行评分<br>- 适用于生产环境中的实时评估<br>- 可以追踪单个查询的完整处理流程<br>- 能够实时获取评分结果<br>- <a href=\"https://t.co/sFPDbPHxdG\">https://t.co/sFPDbPHxdG</a><br>(<a href=\"https://x.com/shao__meng/status/1849241214635356232?t=QNGdK49fbYqo_uH17Agg6A&amp;s=03\">https://x.com/shao__meng/status/1849241214635356232?t=QNGdK49fbYqo_uH17Agg6A&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "192b5441bf9af40a": {
+    "id": "192b5441bf9af40a",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 11:51 PM on Mon, Oct 21, 2024: Ragas v0.2 发布: 从 RAG 迈向全方位 LLM 应用评估 LLM 应用评估框架 Ragas @ragas_io 于 2023 年中期开源, 最初目标是为 RAG 应用提供评估工具, 一年后 LLM 应用已经发展超越了 RAG 的范畴。 Ragas v0.2",
+    "internal_date": "1729617994000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 22 Oct 2024 10:26:34 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 11:51 PM on Mon, Oct 21, 2024:\r\nRagas v0.2 发布: 从 RAG 迈向全方位 LLM 应用评估\r\n\r\nLLM 应用评估框架 Ragas @ragas_io 于 2023 年中期开源, 最初目标是为 RAG 应用提供评估工具, 一年后 LLM\r\n应用已经发展超越了 RAG 的范畴。\r\n\r\nRagas v0.2 开始扩展以支持更广泛的 LLM 应用评估需求, 特别是 Agentic 工作流, 主要更新 👇👇\r\n\r\n🆕 https://t.co/IZErsBN7b3\r\n(\r\nhttps://x.com/shao__meng/status/1848618137044062224?t=pJXbYaZEkh5ZXy-xxvD42A&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 11:51 PM on Mon, Oct 21, 2024:<br>Ragas v0.2 发布: 从 RAG 迈向全方位 LLM 应用评估<br><br>LLM 应用评估框架 Ragas @ragas_io 于 2023 年中期开源, 最初目标是为 RAG 应用提供评估工具, 一年后 LLM 应用已经发展超越了 RAG 的范畴。<br><br>Ragas v0.2 开始扩展以支持更广泛的 LLM 应用评估需求, 特别是 Agentic 工作流, 主要更新 👇👇<br><br>🆕 <a href=\"https://t.co/IZErsBN7b3\">https://t.co/IZErsBN7b3</a><br>(<a href=\"https://x.com/shao__meng/status/1848618137044062224?t=pJXbYaZEkh5ZXy-xxvD42A&amp;s=03\">https://x.com/shao__meng/status/1848618137044062224?t=pJXbYaZEkh5ZXy-xxvD42A&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "191f8f965132937e": {
+    "id": "191f8f965132937e",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "Label_5589029841599571230",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "orange.ai (@oran_ge) posted at 6:42 AM on Sun, Sep 15, 2024: RAG 和 Long Context 之争，终于有了量化的结论： In Defense of RAG in the Era of Long-Context Language Models 为长上下文语言模型时代的 RAG 辩护 https://t.co/5tEacB9LJn",
+    "internal_date": "1726458979000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sun, 15 Sep 2024 20:56:19 -0700",
+      "subject": "Post from orange.ai (@oran_ge)"
+    },
+    "plain_text": "orange.ai (@oran_ge) posted at 6:42 AM on Sun, Sep 15, 2024:\r\nRAG 和 Long Context 之争，终于有了量化的结论：\r\n\r\nIn Defense of RAG in the Era of Long-Context Language Models\r\n为长上下文语言模型时代的 RAG 辩护\r\nhttps://t.co/5tEacB9LJn https://t.co/djTITRMcVh\r\n(\r\nhttps://x.com/oran_ge/status/1835313228416696371?t=j1_1XWSUaHH7SdzQuV3huA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\"><a href=\"http://orange.ai\">orange.ai</a> (@oran_ge) posted at 6:42 AM on Sun, Sep 15, 2024:<br>RAG 和 Long Context 之争，终于有了量化的结论：<br><br>In Defense of RAG in the Era of Long-Context Language Models<br>为长上下文语言模型时代的 RAG 辩护<br><a href=\"https://t.co/5tEacB9LJn\">https://t.co/5tEacB9LJn</a> <a href=\"https://t.co/djTITRMcVh\">https://t.co/djTITRMcVh</a><br>(<a href=\"https://x.com/oran_ge/status/1835313228416696371?t=j1_1XWSUaHH7SdzQuV3huA&amp;s=03\">https://x.com/oran_ge/status/1835313228416696371?t=j1_1XWSUaHH7SdzQuV3huA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG",
+    "label_id": "Label_5589029841599571230"
+  },
+  "1915f7118677a8ed": {
+    "id": "1915f7118677a8ed",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Kalyan KS (@kalyan_kpl) posted at 9:47 AM on Fri, Aug 16, 2024: RAGChecker - Diagnosing RAG Systems RAGChecker Framework RAGChecker is a fine-grained evaluation framework for Retrieval-Augmented",
+    "internal_date": "1723883134000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 17 Aug 2024 01:25:34 -0700",
+      "subject": "Post from Kalyan KS (@kalyan_kpl)"
+    },
+    "plain_text": "Kalyan KS (@kalyan_kpl) posted at 9:47 AM on Fri, Aug 16, 2024:\r\nRAGChecker - Diagnosing RAG Systems\r\n\r\nRAGChecker Framework\r\n\r\nRAGChecker is a fine-grained evaluation framework for Retrieval-Augmented\r\nGeneration (RAG) systems.\r\n\r\nThis framwork includes diagnostic metrics for both retrieval and generation\r\nmodules.\r\n\r\nImproved Evaluation Accuracy https://t.co/MnBLtV1GVE\r\n(\r\nhttps://x.com/kalyan_kpl/status/1824488109637243094?t=Gln7pJSw5qA7Y8CSa4Tygw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Kalyan KS (@kalyan_kpl) posted at 9:47 AM on Fri, Aug 16, 2024:<br>RAGChecker - Diagnosing RAG Systems<br><br>RAGChecker Framework<br><br>RAGChecker is a fine-grained evaluation framework for Retrieval-Augmented Generation (RAG) systems. <br><br>This framwork includes diagnostic metrics for both retrieval and generation modules.<br><br>Improved Evaluation Accuracy <a href=\"https://t.co/MnBLtV1GVE\">https://t.co/MnBLtV1GVE</a><br>(<a href=\"https://x.com/kalyan_kpl/status/1824488109637243094?t=Gln7pJSw5qA7Y8CSa4Tygw&amp;s=03\">https://x.com/kalyan_kpl/status/1824488109637243094?t=Gln7pJSw5qA7Y8CSa4Tygw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "1915e8ff7f829004": {
+    "id": "1915e8ff7f829004",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "elvis (@omarsar0) posted at 7:56 AM on Fri, Aug 16, 2024: RAGChecker: a fine-grained evaluation framework for diagnosing retrieval and generation modules in RAG. Shows that RAGChecker has better",
+    "internal_date": "1723868380000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 16 Aug 2024 21:19:40 -0700",
+      "subject": "Post from elvis (@omarsar0)"
+    },
+    "plain_text": "elvis (@omarsar0) posted at 7:56 AM on Fri, Aug 16, 2024:\r\nRAGChecker: a fine-grained evaluation framework for diagnosing retrieval\r\nand generation modules in RAG.\r\n\r\nShows that RAGChecker has better correlations with human judgment.\r\n\r\nReports several revealing insightful patterns and trade-offs in design\r\nchoices of RAG architectures. https://t.co/ZgwCJQszVM\r\n(\r\nhttps://x.com/omarsar0/status/1824460245051081216?t=OCzDcZdcdJqpdueMzu5xnw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">elvis (@omarsar0) posted at 7:56 AM on Fri, Aug 16, 2024:<br>RAGChecker: a fine-grained evaluation framework for diagnosing retrieval and generation modules in RAG.<br><br>Shows that RAGChecker has better correlations with human judgment.<br><br>Reports several revealing insightful patterns and trade-offs in design choices of RAG architectures. <a href=\"https://t.co/ZgwCJQszVM\">https://t.co/ZgwCJQszVM</a><br>(<a href=\"https://x.com/omarsar0/status/1824460245051081216?t=OCzDcZdcdJqpdueMzu5xnw&amp;s=03\">https://x.com/omarsar0/status/1824460245051081216?t=OCzDcZdcdJqpdueMzu5xnw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "1913b8985d0a921e": {
+    "id": "1913b8985d0a921e",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Kalyan KS (@kalyan_kpl) posted at 9:11 AM on Fri, Aug 09, 2024: WalledEval - LLM Safety Evaluation Toolkit WalledEval is a comprehensive AI safety testing toolkit designed to evaluate large language",
+    "internal_date": "1723280755000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 10 Aug 2024 02:05:55 -0700",
+      "subject": "Post from Kalyan KS (@kalyan_kpl)"
+    },
+    "plain_text": "Kalyan KS (@kalyan_kpl) posted at 9:11 AM on Fri, Aug 09, 2024:\r\nWalledEval - LLM Safety Evaluation Toolkit\r\n\r\nWalledEval is a comprehensive AI safety testing toolkit designed to\r\nevaluate large language models (LLMs).\r\n\r\nThe toolkit is versatile, accommodating a wide range of models.\r\n\r\nIt can evaluate both open-weight models and those accessed via\r\nhttps://t.co/e4VRmnDYxa\r\n(\r\nhttps://x.com/kalyan_kpl/status/1821942405970772397?t=wBmtMR3AafpOGZ457r7fiQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Kalyan KS (@kalyan_kpl) posted at 9:11 AM on Fri, Aug 09, 2024:<br>WalledEval - LLM Safety Evaluation Toolkit<br><br>WalledEval is a comprehensive AI safety testing toolkit designed to evaluate large language models (LLMs).<br><br>The toolkit is versatile, accommodating a wide range of models. <br><br>It can evaluate both open-weight models and those accessed via <a href=\"https://t.co/e4VRmnDYxa\">https://t.co/e4VRmnDYxa</a><br>(<a href=\"https://x.com/kalyan_kpl/status/1821942405970772397?t=wBmtMR3AafpOGZ457r7fiQ&amp;s=03\">https://x.com/kalyan_kpl/status/1821942405970772397?t=wBmtMR3AafpOGZ457r7fiQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "1913b886d4cbc848": {
+    "id": "1913b886d4cbc848",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Kalyan KS (@kalyan_kpl) posted at 11:57 PM on Thu, Aug 08, 2024: RAGEval - Novel framework for automatically generating LLM evaluation datasets Limitations of existing RAG benchmarks Current RAG",
+    "internal_date": "1723280683000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 10 Aug 2024 02:04:43 -0700",
+      "subject": "Post from Kalyan KS (@kalyan_kpl)"
+    },
+    "plain_text": "Kalyan KS (@kalyan_kpl) posted at 11:57 PM on Thu, Aug 08, 2024:\r\nRAGEval - Novel framework for automatically generating LLM evaluation\r\ndatasets\r\n\r\nLimitations of existing RAG benchmarks\r\n\r\nCurrent RAG benchmarks primarily assess LLMs' ability to answer general\r\nknowledge questions.\r\n\r\nThey don't effectively evaluate RAG systems' performance across\r\nhttps://t.co/CocwzlCkRM\r\n(\r\nhttps://x.com/kalyan_kpl/status/1821803072177516736?t=JkUU25223YbEsNAAGZYLCQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Kalyan KS (@kalyan_kpl) posted at 11:57 PM on Thu, Aug 08, 2024:<br>RAGEval - Novel framework for automatically generating LLM evaluation datasets<br><br>Limitations of existing RAG benchmarks<br><br>Current RAG benchmarks primarily assess LLMs&#39; ability to answer general knowledge questions.<br><br>They don&#39;t effectively evaluate RAG systems&#39; performance across <a href=\"https://t.co/CocwzlCkRM\">https://t.co/CocwzlCkRM</a><br>(<a href=\"https://x.com/kalyan_kpl/status/1821803072177516736?t=JkUU25223YbEsNAAGZYLCQ&amp;s=03\">https://x.com/kalyan_kpl/status/1821803072177516736?t=JkUU25223YbEsNAAGZYLCQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "1906a75dc2188234": {
+    "id": "1906a75dc2188234",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Simon (@YRSM_Simon) posted at 6:23 PM on Sat, May 11, 2024: 本周，我们继续测评各 ai search 产品的准确率。 本次测评，重点关注各产品在《复杂查询》下的表现，即多语言环境下的多实体或多目标的查询。例如， - 臺灣2022年GDP總量相比2012年增加了多少美元？ - Which movie is longer, Hamlet or",
+    "internal_date": "1719773029000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sun, 30 Jun 2024 11:43:49 -0700",
+      "subject": "Post from Simon (@YRSM_Simon)"
+    },
+    "plain_text": "Simon (@YRSM_Simon) posted at 6:23 PM on Sat, May 11, 2024:\r\n本周，我们继续测评各 ai search 产品的准确率。\r\n\r\n本次测评，重点关注各产品在《复杂查询》下的表现，即多语言环境下的多实体或多目标的查询。例如，\r\n\r\n- 臺灣2022年GDP總量相比2012年增加了多少美元？\r\n- Which movie is longer, Hamlet or Gone with the Wind\r\nhttps://t.co/Ymv6Qm5SX5\r\n(\r\nhttps://x.com/YRSM_Simon/status/1789466458772378085?t=U5NqRxmd3Uoc6AdTMxPyrA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Simon (@YRSM_Simon) posted at 6:23 PM on Sat, May 11, 2024:<br>本周，我们继续测评各 ai search 产品的准确率。<br><br>本次测评，重点关注各产品在《复杂查询》下的表现，即多语言环境下的多实体或多目标的查询。例如，<br><br>- 臺灣2022年GDP總量相比2012年增加了多少美元？<br>- Which movie is longer, Hamlet or Gone with the Wind <a href=\"https://t.co/Ymv6Qm5SX5\">https://t.co/Ymv6Qm5SX5</a><br>(<a href=\"https://x.com/YRSM_Simon/status/1789466458772378085?t=U5NqRxmd3Uoc6AdTMxPyrA&amp;s=03\">https://x.com/YRSM_Simon/status/1789466458772378085?t=U5NqRxmd3Uoc6AdTMxPyrA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "1902f3def2a9b305": {
+    "id": "1902f3def2a9b305",
+    "label_ids": [
+      "Label_6418831726540908147",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "LangChain (@LangChainAI) posted at 11:18 AM on Tue, Jun 18, 2024: Agent evaluations 🤖: Evaluating an agent&#39;s end-to-end performance Productionizing LLM-powered automated agents is challenging. With",
+    "internal_date": "1718779508000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 18 Jun 2024 23:45:08 -0700",
+      "subject": "Post from LangChain (@LangChainAI)"
+    },
+    "plain_text": "LangChain (@LangChainAI) posted at 11:18 AM on Tue, Jun 18, 2024:\r\nAgent evaluations 🤖: Evaluating an agent's end-to-end performance\r\n\r\nProductionizing LLM-powered automated agents is challenging. With improved\r\ntool-calling LLMs and agent orchestration tools, developers need systematic\r\nways to evaluate agent performance.\r\n\r\nWe've added a tutorial,… https://t.co/1bhUjNJC1n\r\n(\r\nhttps://x.com/LangChainAI/status/1803130164718739573?t=e0Wk2D1cpq0M7CH98raNTg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">LangChain (@LangChainAI) posted at 11:18 AM on Tue, Jun 18, 2024:<br>Agent evaluations 🤖: Evaluating an agent&#39;s end-to-end performance<br><br>Productionizing LLM-powered automated agents is challenging. With improved tool-calling LLMs and agent orchestration tools, developers need systematic ways to evaluate agent performance. <br><br>We&#39;ve added a tutorial,… <a href=\"https://t.co/1bhUjNJC1n\">https://t.co/1bhUjNJC1n</a><br>(<a href=\"https://x.com/LangChainAI/status/1803130164718739573?t=e0Wk2D1cpq0M7CH98raNTg&amp;s=03\">https://x.com/LangChainAI/status/1803130164718739573?t=e0Wk2D1cpq0M7CH98raNTg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/RAG/evaluation",
+    "label_id": "Label_6418831726540908147"
+  },
+  "193c3827ce66e248": {
+    "id": "193c3827ce66e248",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Will (@FinanceYF5) posted at 7:43 PM on Fri, Dec 13, 2024: 以下是近期AI代理领域发生的所有事情 🧵 （收藏以备后用） https://t.co/GAieNzErQC (https://x.com/FinanceYF5/status/1867777385653055823?t=-VF3zdFhHVkhUsIv_esTeQ&amp;s=03)",
+    "internal_date": "1734151928000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 13 Dec 2024 20:52:08 -0800",
+      "subject": "Post from Will (@FinanceYF5)"
+    },
+    "plain_text": "Will (@FinanceYF5) posted at 7:43 PM on Fri, Dec 13, 2024:\r\n以下是近期AI代理领域发生的所有事情 🧵\r\n\r\n（收藏以备后用） https://t.co/GAieNzErQC\r\n(\r\nhttps://x.com/FinanceYF5/status/1867777385653055823?t=-VF3zdFhHVkhUsIv_esTeQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Will (@FinanceYF5) posted at 7:43 PM on Fri, Dec 13, 2024:<br>以下是近期AI代理领域发生的所有事情 🧵  <br><br>（收藏以备后用） <a href=\"https://t.co/GAieNzErQC\">https://t.co/GAieNzErQC</a><br>(<a href=\"https://x.com/FinanceYF5/status/1867777385653055823?t=-VF3zdFhHVkhUsIv_esTeQ&amp;s=03\">https://x.com/FinanceYF5/status/1867777385653055823?t=-VF3zdFhHVkhUsIv_esTeQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "193c0c0092687f54": {
+    "id": "193c0c0092687f54",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Dörr (@tom_doerr) posted at 11:09 AM on Wed, Dec 11, 2024: Wren AI is an open-source SQL AI agent that converts natural language questions into SQL queries, integrates with various databases and",
+    "internal_date": "1734105632000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 13 Dec 2024 08:00:32 -0800",
+      "subject": "Post from Tom Dörr (@tom_doerr)"
+    },
+    "plain_text": "Tom Dörr (@tom_doerr) posted at 11:09 AM on Wed, Dec 11, 2024:\r\nWren AI is an open-source SQL AI agent that converts natural language\r\nquestions into SQL  queries, integrates with various databases and LLMs,\r\nand provides a user interface for  data analysis and query generation\r\nhttps://t.co/nGehrQTWjk\r\n(\r\nhttps://x.com/tom_doerr/status/1866923282081124684?t=QW9PMhOH-UrPYwUTUV0URg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Dörr (@tom_doerr) posted at 11:09 AM on Wed, Dec 11, 2024:<br>Wren AI is an open-source SQL AI agent that converts natural language questions into SQL  queries, integrates with various databases and LLMs, and provides a user interface for  data analysis and query generation <a href=\"https://t.co/nGehrQTWjk\">https://t.co/nGehrQTWjk</a><br>(<a href=\"https://x.com/tom_doerr/status/1866923282081124684?t=QW9PMhOH-UrPYwUTUV0URg&amp;s=03\">https://x.com/tom_doerr/status/1866923282081124684?t=QW9PMhOH-UrPYwUTUV0URg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "193bcbdddee5d289": {
+    "id": "193bcbdddee5d289",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Daily Dose of Data Science (@DailyDoseOfDS_) posted at 5:09 AM on Thu, Dec 12, 2024: Finetuning RAG using DSPy, clearly explained: https://t.co/MKuLx5Y9hN (https://x.com/DailyDoseOfDS_/status/",
+    "internal_date": "1734038380000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Thu, 12 Dec 2024 13:19:40 -0800",
+      "subject": "Post from Daily Dose of Data Science (@DailyDoseOfDS_)"
+    },
+    "plain_text": "Daily Dose of Data Science (@DailyDoseOfDS_) posted at 5:09 AM on Thu, Dec\r\n12, 2024:\r\nFinetuning RAG using DSPy, clearly explained: https://t.co/MKuLx5Y9hN\r\n(\r\nhttps://x.com/DailyDoseOfDS_/status/1867195101002584355?t=1TzYsZRk8CivgPBFniY6XQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Daily Dose of Data Science (@DailyDoseOfDS_) posted at 5:09 AM on Thu, Dec 12, 2024:<br>Finetuning RAG using DSPy, clearly explained: <a href=\"https://t.co/MKuLx5Y9hN\">https://t.co/MKuLx5Y9hN</a><br>(<a href=\"https://x.com/DailyDoseOfDS_/status/1867195101002584355?t=1TzYsZRk8CivgPBFniY6XQ&amp;s=03\">https://x.com/DailyDoseOfDS_/status/1867195101002584355?t=1TzYsZRk8CivgPBFniY6XQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "193b913a081e63aa": {
+    "id": "193b913a081e63aa",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Michael Ryan (@michaelryan207) posted at 8:34 AM on Tue, Dec 10, 2024: Visualize your Language Program Optimization with @_rchaves_&#39;s LangWatch! Super cool interface for viewing and optimizing",
+    "internal_date": "1733976890000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 11 Dec 2024 20:14:50 -0800",
+      "subject": "Post from Michael Ryan (@michaelryan207)"
+    },
+    "plain_text": "Michael Ryan (@michaelryan207) posted at 8:34 AM on Tue, Dec 10, 2024:\r\nVisualize your Language Program Optimization with @_rchaves_’s LangWatch!\r\nSuper cool interface for viewing and optimizing Language Programs with\r\n#DSPy!\r\n\r\nMIPROv2 makes an appearance in the launch video 👀\r\n(\r\nhttps://x.com/michaelryan207/status/1866521952086823138?t=T0g8-8g-S3S1hJt2zql8iQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Michael Ryan (@michaelryan207) posted at 8:34 AM on Tue, Dec 10, 2024:<br>Visualize your Language Program Optimization with @_rchaves_’s LangWatch!  Super cool interface for viewing and optimizing Language Programs with #DSPy!<br><br>MIPROv2 makes an appearance in the launch video 👀<br>(<a href=\"https://x.com/michaelryan207/status/1866521952086823138?t=T0g8-8g-S3S1hJt2zql8iQ&amp;s=03\">https://x.com/michaelryan207/status/1866521952086823138?t=T0g8-8g-S3S1hJt2zql8iQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "1939c788ff081e3a": {
+    "id": "1939c788ff081e3a",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "idoubi (@idoubicc) posted at 6:57 PM on Thu, Dec 05, 2024: 上了一个 MCP Servers 应用商店，欢迎来查找和提交好玩的 MCP Servers👇 https://t.co/uZVqggsjnN (https://x.com/idoubicc/status/1864866694302437503?t=FxEeLb8EArA3-",
+    "internal_date": "1733496967000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 6 Dec 2024 06:56:07 -0800",
+      "subject": "Post from idoubi (@idoubicc)"
+    },
+    "plain_text": "idoubi (@idoubicc) posted at 6:57 PM on Thu, Dec 05, 2024:\r\n上了一个 MCP Servers 应用商店，欢迎来查找和提交好玩的 MCP Servers👇 https://t.co/uZVqggsjnN\r\n(\r\nhttps://x.com/idoubicc/status/1864866694302437503?t=FxEeLb8EArA3-tZsJL71NA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">idoubi (@idoubicc) posted at 6:57 PM on Thu, Dec 05, 2024:<br>上了一个 MCP Servers 应用商店，欢迎来查找和提交好玩的 MCP Servers👇 <a href=\"https://t.co/uZVqggsjnN\">https://t.co/uZVqggsjnN</a><br>(<a href=\"https://x.com/idoubicc/status/1864866694302437503?t=FxEeLb8EArA3-tZsJL71NA&amp;s=03\">https://x.com/idoubicc/status/1864866694302437503?t=FxEeLb8EArA3-tZsJL71NA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "19337a37aa365f6b": {
+    "id": "19337a37aa365f6b",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 1:21 AM on Sat, Nov 16, 2024: AI Agents 技术栈全景：从 LLM 到 Agents 的技术演进 // @Letta_AI 团队发布的深度分析，AI Agents 正从简单的 LLM 应用演变为集状态管理、工具调用和自主决策于一体的完整技术栈，这一演进过程正重塑 AI 应用的开发模式，并将推动下",
+    "internal_date": "1731805280000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 16 Nov 2024 17:01:20 -0800",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 1:21 AM on Sat, Nov 16, 2024:\r\nAI Agents 技术栈全景：从 LLM 到 Agents 的技术演进\r\n\r\n// @Letta_AI 团队发布的深度分析，AI Agents 正从简单的 LLM\r\n应用演变为集状态管理、工具调用和自主决策于一体的完整技术栈，这一演进过程正重塑 AI 应用的开发模式，并将推动下一代 AI 服务的标准化部署\r\n\r\n// AI Agents 的演进：\r\n- 2022-2023 https://t.co/guBG6CKIZu\r\n(\r\nhttps://x.com/shao__meng/status/1857715647217807712?t=AavHyWDG2LcGCamFiLegNw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 1:21 AM on Sat, Nov 16, 2024:<br>AI Agents 技术栈全景：从 LLM 到 Agents 的技术演进<br><br>// @Letta_AI 团队发布的深度分析，AI Agents 正从简单的 LLM 应用演变为集状态管理、工具调用和自主决策于一体的完整技术栈，这一演进过程正重塑 AI 应用的开发模式，并将推动下一代 AI 服务的标准化部署<br><br>// AI Agents 的演进：<br>- 2022-2023 <a href=\"https://t.co/guBG6CKIZu\">https://t.co/guBG6CKIZu</a><br>(<a href=\"https://x.com/shao__meng/status/1857715647217807712?t=AavHyWDG2LcGCamFiLegNw&amp;s=03\">https://x.com/shao__meng/status/1857715647217807712?t=AavHyWDG2LcGCamFiLegNw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "193378cb0ed494b3": {
+    "id": "193378cb0ed494b3",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "elvis (@omarsar0) posted at 4:30 AM on Fri, Nov 15, 2024: A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents New research analyzes AgentOps platforms and tools,",
+    "internal_date": "1731803786000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 16 Nov 2024 16:36:26 -0800",
+      "subject": "Post from elvis (@omarsar0)"
+    },
+    "plain_text": "elvis (@omarsar0) posted at 4:30 AM on Fri, Nov 15, 2024:\r\nA Taxonomy of AgentOps for Enabling Observability of Foundation Model based\r\nAgents\r\n\r\nNew research analyzes AgentOps platforms and tools, highlighting the need\r\nfor comprehensive observability and traceability features to ensure\r\nreliability in foundation model-based autonomous agent\r\nhttps://t.co/pHmey3pcWC\r\n(\r\nhttps://x.com/omarsar0/status/1857400667318702118?t=7ZAi5P3KyezavFd_EkQpxw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">elvis (@omarsar0) posted at 4:30 AM on Fri, Nov 15, 2024:<br>A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents<br><br>New research analyzes AgentOps platforms and tools, highlighting the need for comprehensive observability and traceability features to ensure reliability in foundation model-based autonomous agent <a href=\"https://t.co/pHmey3pcWC\">https://t.co/pHmey3pcWC</a><br>(<a href=\"https://x.com/omarsar0/status/1857400667318702118?t=7ZAi5P3KyezavFd_EkQpxw&amp;s=03\">https://x.com/omarsar0/status/1857400667318702118?t=7ZAi5P3KyezavFd_EkQpxw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "193378b7a8487a78": {
+    "id": "193378b7a8487a78",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 6:40 AM on Fri, Nov 15, 2024: 提示词工程全景图：AI 提示词设计与管理的系统框架 // 来自 AWS GenAI Lead @ordax 分享的框架图全面涵盖了提示词工程的各个环节，从设计、优化到部署和维护，是一个系统性的方法论参考，对于想要系统学习和应用提示工程的朋友们来说是很有价值的指导。 1.",
+    "internal_date": "1731803707000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 16 Nov 2024 16:35:07 -0800",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 6:40 AM on Fri, Nov 15, 2024:\r\n提示词工程全景图：AI 提示词设计与管理的系统框架\r\n\r\n// 来自 AWS GenAI Lead @ordax\r\n分享的框架图全面涵盖了提示词工程的各个环节，从设计、优化到部署和维护，是一个系统性的方法论参考，对于想要系统学习和应用提示工程的朋友们来说是很有价值的指导。\r\n\r\n1. 提示设计(Prompt Design)\r\n- https://t.co/tWyLPjL6JR\r\n(\r\nhttps://x.com/shao__meng/status/1857433449298296956?t=84ziroLJ2ApfnPjWerMx5w&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 6:40 AM on Fri, Nov 15, 2024:<br>提示词工程全景图：AI 提示词设计与管理的系统框架<br><br>// 来自 AWS GenAI Lead @ordax 分享的框架图全面涵盖了提示词工程的各个环节，从设计、优化到部署和维护，是一个系统性的方法论参考，对于想要系统学习和应用提示工程的朋友们来说是很有价值的指导。<br><br>1. 提示设计(Prompt Design)<br>- <a href=\"https://t.co/tWyLPjL6JR\">https://t.co/tWyLPjL6JR</a><br>(<a href=\"https://x.com/shao__meng/status/1857433449298296956?t=84ziroLJ2ApfnPjWerMx5w&amp;s=03\">https://x.com/shao__meng/status/1857433449298296956?t=84ziroLJ2ApfnPjWerMx5w&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "19330972819b334c": {
+    "id": "19330972819b334c",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Read “Magentic-One, AutoGen, LangGraph, CrewAI, or OpenAI Swarm: Which Multi-AI Agent Framework is Best?“ by Mehul Gupta on Medium: https://medium.com/data-science-in-your-pocket/magentic-one-autogen-",
+    "internal_date": "1731687031000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 15 Nov 2024 08:10:31 -0800",
+      "subject": "A story from Mehul Gupta on Medium"
+    },
+    "plain_text": "Read “Magentic-One, AutoGen, LangGraph, CrewAI, or OpenAI Swarm: Which\r\nMulti-AI Agent Framework is Best?“ by Mehul Gupta on Medium:\r\nhttps://medium.com/data-science-in-your-pocket/magentic-one-autogen-langgraph-crewai-or-openai-swarm-which-multi-ai-agent-framework-is-best-6629d8bd9509\r\n",
+    "html": "<div dir=\"auto\">Read “Magentic-One, AutoGen, LangGraph, CrewAI, or OpenAI Swarm: Which Multi-AI Agent Framework is Best?“ by Mehul Gupta on Medium: <a href=\"https://medium.com/data-science-in-your-pocket/magentic-one-autogen-langgraph-crewai-or-openai-swarm-which-multi-ai-agent-framework-is-best-6629d8bd9509\">https://medium.com/data-science-in-your-pocket/magentic-one-autogen-langgraph-crewai-or-openai-swarm-which-multi-ai-agent-framework-is-best-6629d8bd9509</a> </div>\r\n",
+    "attachments": [
+      {
+        "filename": "shared_image.jpg",
+        "mime_type": "image/jpeg",
+        "size": 118044
+      }
+    ],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "1932deb53555c3b8": {
+    "id": "1932deb53555c3b8",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Harrison Chase (@hwchase17) posted at 1:14 PM on Thu, Nov 14, 2024: Top agent use cases: - research and summarization - personal assistant - customer service - code gen interesting that most agent",
+    "internal_date": "1731642216000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Thu, 14 Nov 2024 19:43:36 -0800",
+      "subject": "Post from Harrison Chase (@hwchase17)"
+    },
+    "plain_text": "Harrison Chase (@hwchase17) posted at 1:14 PM on Thu, Nov 14, 2024:\r\nTop agent use cases:\r\n\r\n- research and summarization\r\n- personal assistant\r\n- customer service\r\n- code gen\r\n\r\ninteresting that most agent startups popping up seem to be in customer\r\nservice and coding\r\n\r\nFull report: https://t.co/4oqJmPNBj3 https://t.co/lbRa1PRCEE\r\n(\r\nhttps://x.com/hwchase17/status/1857170293061742743?t=3bVDdniynzynGTo4GkNNuw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Harrison Chase (@hwchase17) posted at 1:14 PM on Thu, Nov 14, 2024:<br>Top agent use cases: <br><br>- research and summarization<br>- personal assistant<br>- customer service<br>- code gen<br><br>interesting that most agent startups popping up seem to be in customer service and coding<br><br>Full report: <a href=\"https://t.co/4oqJmPNBj3\">https://t.co/4oqJmPNBj3</a> <a href=\"https://t.co/lbRa1PRCEE\">https://t.co/lbRa1PRCEE</a><br>(<a href=\"https://x.com/hwchase17/status/1857170293061742743?t=3bVDdniynzynGTo4GkNNuw&amp;s=03\">https://x.com/hwchase17/status/1857170293061742743?t=3bVDdniynzynGTo4GkNNuw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "1932bb33822de5e4": {
+    "id": "1932bb33822de5e4",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 3:18 PM on Wed, Nov 13, 2024: 告别 RPA: 智能自动化的新纪元作者 - @kimberlywtan(@a16z) // 随着 AI 技术的成熟，特别是 LLM 的出现，新一代智能自动化正在取代传统的 RPA 流程自动化工具，这不仅能真正实现企业内部运营的全面自动化，更开创了一个估值超过2500亿美元的",
+    "internal_date": "1731604985000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Thu, 14 Nov 2024 09:23:05 -0800",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 3:18 PM on Wed, Nov 13, 2024:\r\n告别 RPA: 智能自动化的新纪元\r\n作者 - @kimberlywtan(@a16z)\r\n\r\n// 随着 AI 技术的成熟，特别是 LLM 的出现，新一代智能自动化正在取代传统的 RPA\r\n流程自动化工具，这不仅能真正实现企业内部运营的全面自动化，更开创了一个估值超过2500亿美元的全新创业蓝海市场\r\n\r\n// 传统 RPA 的局限性\r\n- 虽然像 UiPath https://t.co/xX72THYqj7\r\n(\r\nhttps://x.com/shao__meng/status/1856839145412596001?t=54tsROvBBai9YvjKWLMgWA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 3:18 PM on Wed, Nov 13, 2024:<br>告别 RPA: 智能自动化的新纪元<br>作者 - @kimberlywtan(@a16z)<br><br>// 随着 AI 技术的成熟，特别是 LLM 的出现，新一代智能自动化正在取代传统的 RPA 流程自动化工具，这不仅能真正实现企业内部运营的全面自动化，更开创了一个估值超过2500亿美元的全新创业蓝海市场<br><br>// 传统 RPA 的局限性<br>- 虽然像 UiPath <a href=\"https://t.co/xX72THYqj7\">https://t.co/xX72THYqj7</a><br>(<a href=\"https://x.com/shao__meng/status/1856839145412596001?t=54tsROvBBai9YvjKWLMgWA&amp;s=03\">https://x.com/shao__meng/status/1856839145412596001?t=54tsROvBBai9YvjKWLMgWA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "1931cdfadb549992": {
+    "id": "1931cdfadb549992",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 8:09 AM on Sun, Nov 10, 2024: RD-Agent: 微软开源的研发自动化工具, 专注于数据驱动的 AI 研发流程, 用 AI 来自动化 AI 相关的研发工作 # 核心框架组成 - &quot;R&quot;(Research)模块: 负责提出新想法 - &quot;D&quot;(Development)",
+    "internal_date": "1731356242000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 11 Nov 2024 12:17:22 -0800",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 8:09 AM on Sun, Nov 10, 2024:\r\nRD-Agent: 微软开源的研发自动化工具, 专注于数据驱动的 AI 研发流程, 用 AI 来自动化 AI 相关的研发工作\r\n\r\n# 核心框架组成\r\n- \"R\"(Research)模块: 负责提出新想法\r\n- \"D\"(Development)模块: 负责实现这些想法\r\n- 支持持续进化: 通过反馈不断改进性能\r\n\r\n# 主要应用场景\r\n- 🤖 数据挖掘Agent: https://t.co/SfeEwdtND4\r\n(\r\nhttps://x.com/shao__meng/status/1855643962679472215?t=_ZstkgKp4YLmBR1AOR7EWQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 8:09 AM on Sun, Nov 10, 2024:<br>RD-Agent: 微软开源的研发自动化工具, 专注于数据驱动的 AI 研发流程, 用 AI 来自动化 AI 相关的研发工作<br><br># 核心框架组成<br>- &quot;R&quot;(Research)模块: 负责提出新想法<br>- &quot;D&quot;(Development)模块: 负责实现这些想法<br>- 支持持续进化: 通过反馈不断改进性能<br><br># 主要应用场景<br>- 🤖 数据挖掘Agent: <a href=\"https://t.co/SfeEwdtND4\">https://t.co/SfeEwdtND4</a><br>(<a href=\"https://x.com/shao__meng/status/1855643962679472215?t=_ZstkgKp4YLmBR1AOR7EWQ&amp;s=03\">https://x.com/shao__meng/status/1855643962679472215?t=_ZstkgKp4YLmBR1AOR7EWQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "1931a68971305413": {
+    "id": "1931a68971305413",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Noise (@liangwenhao3) posted at 8:59 AM on Sun, Nov 10, 2024: #AI #数字人 实时语音交互数字人，支持端到端语音方案（GLM-4-Voice - THG）和级联方案（ASR-LLM-TTS-THG）。可自定义形象与音色，无须训练，支持音色克隆，首包延迟低至3s https://t.co/8TjVCQzxjV (https://x.com",
+    "internal_date": "1731314883000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 11 Nov 2024 00:48:03 -0800",
+      "subject": "Post from Noise (@liangwenhao3)"
+    },
+    "plain_text": "Noise (@liangwenhao3) posted at 8:59 AM on Sun, Nov 10, 2024:\r\n#AI #数字人 实时语音交互数字人，支持端到端语音方案（GLM-4-Voice -\r\nTHG）和级联方案（ASR-LLM-TTS-THG）。可自定义形象与音色，无须训练，支持音色克隆，首包延迟低至3s\r\nhttps://t.co/8TjVCQzxjV\r\n(\r\nhttps://x.com/liangwenhao3/status/1855656585072177364?t=s45_eqfjOD2qBsySS38kbA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Noise (@liangwenhao3) posted at 8:59 AM on Sun, Nov 10, 2024:<br>#AI #数字人 实时语音交互数字人，支持端到端语音方案（GLM-4-Voice - THG）和级联方案（ASR-LLM-TTS-THG）。可自定义形象与音色，无须训练，支持音色克隆，首包延迟低至3s<br><a href=\"https://t.co/8TjVCQzxjV\">https://t.co/8TjVCQzxjV</a><br>(<a href=\"https://x.com/liangwenhao3/status/1855656585072177364?t=s45_eqfjOD2qBsySS38kbA&amp;s=03\">https://x.com/liangwenhao3/status/1855656585072177364?t=s45_eqfjOD2qBsySS38kbA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "19309ff5d98bffba": {
+    "id": "19309ff5d98bffba",
+    "label_ids": [
+      "Label_3073023072546508130",
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 3:53 PM on Thu, Nov 07, 2024: LLM 智能 Agent: 构建具有持久记忆的 AI 系统 # 掌握如何让 AI Agent 像操作系统般智能管理记忆, 从而构建能持续学习、自主决策的下一代 LLM 应用 @DeepLearningAI x @Letta_AI # 课程讲师: @charlespacker",
+    "internal_date": "1731039550000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Thu, 7 Nov 2024 20:19:10 -0800",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 3:53 PM on Thu, Nov 07, 2024:\r\nLLM 智能 Agent: 构建具有持久记忆的 AI 系统\r\n# 掌握如何让 AI Agent 像操作系统般智能管理记忆, 从而构建能持续学习、自主决策的下一代 LLM 应用\r\n@DeepLearningAI x @Letta_AI\r\n# 课程讲师: @charlespacker @sarahwooders\r\n\r\n# 主要学习内容\r\n- 学习如何构建具有长期、持久性记忆的 Agent\r\n- 了解如何将 https://t.co/P0Q5aGUNCg\r\n(\r\nhttps://x.com/shao__meng/status/1854673617898160297?t=rTUcYTD-Uk1OqE2pG4RYzg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 3:53 PM on Thu, Nov 07, 2024:<br>LLM 智能 Agent: 构建具有持久记忆的 AI 系统<br># 掌握如何让 AI Agent 像操作系统般智能管理记忆, 从而构建能持续学习、自主决策的下一代 LLM 应用<br>@DeepLearningAI x @Letta_AI <br># 课程讲师: @charlespacker @sarahwooders  <br><br># 主要学习内容<br>- 学习如何构建具有长期、持久性记忆的 Agent<br>- 了解如何将 <a href=\"https://t.co/P0Q5aGUNCg\">https://t.co/P0Q5aGUNCg</a><br>(<a href=\"https://x.com/shao__meng/status/1854673617898160297?t=rTUcYTD-Uk1OqE2pG4RYzg&amp;s=03\">https://x.com/shao__meng/status/1854673617898160297?t=rTUcYTD-Uk1OqE2pG4RYzg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/tutorial",
+    "label_id": "Label_3073023072546508130"
+  },
+  "192facf148e7279f": {
+    "id": "192facf148e7279f",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "AIGCLINK (@aigclink) posted at 5:58 PM on Mon, Nov 04, 2024: AFLOW的代码总算是开源了，手动工作流变自动智能工作流的神器 github：https://t.co/gPJJg8T8tV https://t.co/HJ2jLZBXaK (https://x.com/aigclink/status/1853617774901551395?t=",
+    "internal_date": "1730784729000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 4 Nov 2024 21:32:09 -0800",
+      "subject": "Post from AIGCLINK (@aigclink)"
+    },
+    "plain_text": "AIGCLINK (@aigclink) posted at 5:58 PM on Mon, Nov 04, 2024:\r\nAFLOW的代码总算是开源了，手动工作流变自动智能工作流的神器\r\ngithub：https://t.co/gPJJg8T8tV https://t.co/HJ2jLZBXaK\r\n(\r\nhttps://x.com/aigclink/status/1853617774901551395?t=CM0vmGkrkh9p2VckZGiMSA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">AIGCLINK (@aigclink) posted at 5:58 PM on Mon, Nov 04, 2024:<br>AFLOW的代码总算是开源了，手动工作流变自动智能工作流的神器<br>github：<a href=\"https://t.co/gPJJg8T8tV\">https://t.co/gPJJg8T8tV</a> <a href=\"https://t.co/HJ2jLZBXaK\">https://t.co/HJ2jLZBXaK</a><br>(<a href=\"https://x.com/aigclink/status/1853617774901551395?t=CM0vmGkrkh9p2VckZGiMSA&amp;s=03\">https://x.com/aigclink/status/1853617774901551395?t=CM0vmGkrkh9p2VckZGiMSA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "192b7826e44c98d1": {
+    "id": "192b7826e44c98d1",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "orange.ai (@oran_ge) posted at 8:25 PM on Tue, Oct 22, 2024: Dify 发布了 NotebookLM 工作流！ 开发者直接 Copy，不用重复劳动了 😂 (https://x.com/oran_ge/status/1848928586264416551?t=9cL3hXhm7ko9RnEZSizveg&amp;s=03)",
+    "internal_date": "1729655630000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 22 Oct 2024 20:53:50 -0700",
+      "subject": "Post from orange.ai (@oran_ge)"
+    },
+    "plain_text": "orange.ai (@oran_ge) posted at 8:25 PM on Tue, Oct 22, 2024:\r\nDify 发布了 NotebookLM 工作流！\r\n开发者直接 Copy，不用重复劳动了 😂\r\n(\r\nhttps://x.com/oran_ge/status/1848928586264416551?t=9cL3hXhm7ko9RnEZSizveg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\"><a href=\"http://orange.ai\">orange.ai</a> (@oran_ge) posted at 8:25 PM on Tue, Oct 22, 2024:<br>Dify 发布了 NotebookLM 工作流！<br>开发者直接 Copy，不用重复劳动了 😂<br>(<a href=\"https://x.com/oran_ge/status/1848928586264416551?t=9cL3hXhm7ko9RnEZSizveg&amp;s=03\">https://x.com/oran_ge/status/1848928586264416551?t=9cL3hXhm7ko9RnEZSizveg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "192b260433731315": {
+    "id": "192b260433731315",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 3:22 AM on Mon, Oct 21, 2024: 从新手到专家: 12 步掌握 AI Agent 开发 文章提供了一个全面的 AI Agent 学习路径, 涵盖从生成式 AI 基础到高级 Agentic RAG 系统的 12 个关键步骤。它为读者提供了理论知识和实践指导, 包括编程基础、大语言模型、提示工程、各种框架的使用",
+    "internal_date": "1729569507000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 21 Oct 2024 20:58:27 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 3:22 AM on Mon, Oct 21, 2024:\r\n从新手到专家: 12 步掌握 AI Agent 开发\r\n\r\n文章提供了一个全面的 AI Agent 学习路径, 涵盖从生成式 AI 基础到高级 Agentic RAG 系统的 12\r\n个关键步骤。它为读者提供了理论知识和实践指导, 包括编程基础、大语言模型、提示工程、各种框架的使用，以及从无代码工具到 Python\r\n编程的实际开发经验 👇👇👇 https://t.co/6M7RymhsKh\r\n(\r\nhttps://x.com/shao__meng/status/1848308814715437317?t=5-2xeS5KJ5Hx3jemYGO0Ww&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 3:22 AM on Mon, Oct 21, 2024:<br>从新手到专家: 12 步掌握 AI Agent 开发<br><br>文章提供了一个全面的 AI Agent 学习路径, 涵盖从生成式 AI 基础到高级 Agentic RAG 系统的 12 个关键步骤。它为读者提供了理论知识和实践指导, 包括编程基础、大语言模型、提示工程、各种框架的使用，以及从无代码工具到 Python 编程的实际开发经验 👇👇👇 <a href=\"https://t.co/6M7RymhsKh\">https://t.co/6M7RymhsKh</a><br>(<a href=\"https://x.com/shao__meng/status/1848308814715437317?t=5-2xeS5KJ5Hx3jemYGO0Ww&amp;s=03\">https://x.com/shao__meng/status/1848308814715437317?t=5-2xeS5KJ5Hx3jemYGO0Ww&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "192b25ffe5cadfcb": {
+    "id": "192b25ffe5cadfcb",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Ningyu Zhang@ZJU (@zxlzr) posted at 9:12 AM on Sun, Oct 20, 2024: Introducing our latest paper, &quot;Benchmarking Agentic Workflow Generation&quot;! 🚀 ArXiv: https://t.co/WtzU8Ep87A Website: https://t",
+    "internal_date": "1729569489000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 21 Oct 2024 20:58:09 -0700",
+      "subject": "Post from Ningyu Zhang@ZJU (@zxlzr)"
+    },
+    "plain_text": "Ningyu Zhang@ZJU (@zxlzr) posted at 9:12 AM on Sun, Oct 20, 2024:\r\nIntroducing our latest paper, \"Benchmarking Agentic Workflow Generation\"! 🚀\r\n\r\nArXiv: https://t.co/WtzU8Ep87A\r\n\r\nWebsite: https://t.co/71cauFyyYJ\r\n\r\nData: https://t.co/qlWNnNPA9D\r\n\r\nGithub: https://t.co/fNGNGYjJUu\r\n\r\n🧠 Large Language Models (LLMs) play a crucial role in breaking down\r\nhttps://t.co/nYLGmb3NOh\r\n(\r\nhttps://x.com/zxlzr/status/1848034469506330759?t=0cEg2uWx_N3z_rnnZcNGbw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Ningyu Zhang@ZJU (@zxlzr) posted at 9:12 AM on Sun, Oct 20, 2024:<br>Introducing our latest paper, &quot;Benchmarking Agentic Workflow Generation&quot;! 🚀<br><br>ArXiv: <a href=\"https://t.co/WtzU8Ep87A\">https://t.co/WtzU8Ep87A</a><br><br>Website: <a href=\"https://t.co/71cauFyyYJ\">https://t.co/71cauFyyYJ</a><br><br>Data: <a href=\"https://t.co/qlWNnNPA9D\">https://t.co/qlWNnNPA9D</a><br><br>Github: <a href=\"https://t.co/fNGNGYjJUu\">https://t.co/fNGNGYjJUu</a><br><br>🧠 Large Language Models (LLMs) play a crucial role in breaking down <a href=\"https://t.co/nYLGmb3NOh\">https://t.co/nYLGmb3NOh</a><br>(<a href=\"https://x.com/zxlzr/status/1848034469506330759?t=0cEg2uWx_N3z_rnnZcNGbw&amp;s=03\">https://x.com/zxlzr/status/1848034469506330759?t=0cEg2uWx_N3z_rnnZcNGbw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "192a239e70ff38c7": {
+    "id": "192a239e70ff38c7",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "elvis (@omarsar0) posted at 8:05 AM on Thu, Oct 17, 2024: Agent S is a new open agentic framework that enables autonomous interaction with computers through a GUI. Agent S tackles challenges such as",
+    "internal_date": "1729298556000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 18 Oct 2024 17:42:36 -0700",
+      "subject": "Post from elvis (@omarsar0)"
+    },
+    "plain_text": "elvis (@omarsar0) posted at 8:05 AM on Thu, Oct 17, 2024:\r\nAgent S is a new open agentic framework that enables autonomous interaction\r\nwith computers through a GUI.\r\n\r\nAgent S tackles challenges such as acquiring knowledge, planning over\r\nlong-task horizons, and handling dynamic interfaces.\r\n\r\nIt introduces experience-augmented hierarchical https://t.co/EMisz54euk\r\n(\r\nhttps://x.com/omarsar0/status/1846930425849303424?t=VjOHRe_EG_x4A6p0Ht7TLw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">elvis (@omarsar0) posted at 8:05 AM on Thu, Oct 17, 2024:<br>Agent S is a new open agentic framework that enables autonomous interaction with computers through a GUI.<br><br>Agent S tackles challenges such as acquiring knowledge, planning over long-task horizons, and handling dynamic interfaces.<br><br>It introduces experience-augmented hierarchical <a href=\"https://t.co/EMisz54euk\">https://t.co/EMisz54euk</a><br>(<a href=\"https://x.com/omarsar0/status/1846930425849303424?t=VjOHRe_EG_x4A6p0Ht7TLw&amp;s=03\">https://x.com/omarsar0/status/1846930425849303424?t=VjOHRe_EG_x4A6p0Ht7TLw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "192932fe9e25be66": {
+    "id": "192932fe9e25be66",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Jeffery Kaneda 金田達也 (@JefferyTatsuya) posted at 11:18 PM on Mon, Oct 14, 2024: 我认为swarm还没有一个UI界面，一旦做好了这样的交互，普通用户其实靠自然语言就能做成一群Agent。 而且不需要拖拖放放。会更加的简单。 一句话：LLM-based Agent will eat Rule-based Agent. (",
+    "internal_date": "1729046245000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 15 Oct 2024 19:37:25 -0700",
+      "subject": "Post from Jeffery Kaneda　金田達也 (@JefferyTatsuya)"
+    },
+    "plain_text": "Jeffery Kaneda 金田達也 (@JefferyTatsuya) posted at 11:18 PM on Mon, Oct 14,\r\n2024:\r\n我认为swarm还没有一个UI界面，一旦做好了这样的交互，普通用户其实靠自然语言就能做成一群Agent。\r\n\r\n而且不需要拖拖放放。会更加的简单。\r\n\r\n一句话：LLM-based Agent will eat Rule-based Agent.\r\n(\r\nhttps://x.com/JefferyTatsuya/status/1846073241619910656?t=jUcp_bYxBrzTeakGvFNCVQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Jeffery Kaneda　金田達也 (@JefferyTatsuya) posted at 11:18 PM on Mon, Oct 14, 2024:<br>我认为swarm还没有一个UI界面，一旦做好了这样的交互，普通用户其实靠自然语言就能做成一群Agent。<br><br>而且不需要拖拖放放。会更加的简单。<br><br>一句话：LLM-based Agent will eat Rule-based Agent.<br>(<a href=\"https://x.com/JefferyTatsuya/status/1846073241619910656?t=jUcp_bYxBrzTeakGvFNCVQ&amp;s=03\">https://x.com/JefferyTatsuya/status/1846073241619910656?t=jUcp_bYxBrzTeakGvFNCVQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "1929325d0bd814d6": {
+    "id": "1929325d0bd814d6",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 3:27 AM on Tue, Oct 15, 2024: # OpenAI o1 可能改变 AI Agent 架构方式 感谢 @JefferyTatsuya 分享的这篇文章, 探讨了一种新的 AI Agent 架构, 它利用了 OpenAI o1 模型的强大能力, 为企业决策和复杂问题解决提供新的方法。这种方法结合了自动化的效率和",
+    "internal_date": "1729045583000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 15 Oct 2024 19:26:23 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 3:27 AM on Tue, Oct 15, 2024:\r\n# OpenAI o1 可能改变 AI Agent 架构方式\r\n\r\n感谢 @JefferyTatsuya 分享的这篇文章, 探讨了一种新的 AI Agent 架构, 它利用了 OpenAI o1 模型的强大能力,\r\n为企业决策和复杂问题解决提供新的方法。这种方法结合了自动化的效率和人类智慧的灵活性, 可能对未来的 AI 应用产生重大影响。\r\n\r\n# OpenAI o1 模型的 https://t.co/vbwX59bXjB\r\n(\r\nhttps://x.com/shao__meng/status/1846135706923814975?t=vtv3RTzdS4tf_mi82BXytQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 3:27 AM on Tue, Oct 15, 2024:<br># OpenAI o1 可能改变 AI Agent 架构方式<br><br>感谢 @JefferyTatsuya 分享的这篇文章, 探讨了一种新的 AI Agent 架构, 它利用了 OpenAI o1 模型的强大能力, 为企业决策和复杂问题解决提供新的方法。这种方法结合了自动化的效率和人类智慧的灵活性, 可能对未来的 AI 应用产生重大影响。<br><br># OpenAI o1 模型的 <a href=\"https://t.co/vbwX59bXjB\">https://t.co/vbwX59bXjB</a><br>(<a href=\"https://x.com/shao__meng/status/1846135706923814975?t=vtv3RTzdS4tf_mi82BXytQ&amp;s=03\">https://x.com/shao__meng/status/1846135706923814975?t=vtv3RTzdS4tf_mi82BXytQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "1928e0d75a3a86bd": {
+    "id": "1928e0d75a3a86bd",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 5:53 PM on Mon, Oct 14, 2024: AutoGen 实现 Handoff Multi-Agents @pyautogen Handoff 模式的核心思想是允许 Agents 将任务委托给其他 Agents, 使用特殊的工具调用来实现, 使用 AutoGen Core API 来实现 Handoff 模式,",
+    "internal_date": "1728960100000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 14 Oct 2024 19:41:40 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 5:53 PM on Mon, Oct 14, 2024:\r\nAutoGen 实现 Handoff Multi-Agents @pyautogen\r\n\r\nHandoff 模式的核心思想是允许 Agents 将任务委托给其他 Agents, 使用特殊的工具调用来实现, 使用 AutoGen Core\r\nAPI 来实现 Handoff 模式, 发挥 AutoGen 可扩展性、灵活性和易于集成的优势。\r\n\r\n# 实现思想:\r\n- Multi-Agents 协作: https://t.co/StuAo9LoSP\r\n(\r\nhttps://x.com/shao__meng/status/1845991257161847071?t=_rWqa2qoE2mTzlbc0eZhCw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 5:53 PM on Mon, Oct 14, 2024:<br>AutoGen 实现 Handoff Multi-Agents @pyautogen <br><br>Handoff 模式的核心思想是允许 Agents 将任务委托给其他 Agents, 使用特殊的工具调用来实现, 使用 AutoGen Core API 来实现 Handoff 模式, 发挥 AutoGen 可扩展性、灵活性和易于集成的优势。<br><br># 实现思想:<br>- Multi-Agents 协作: <a href=\"https://t.co/StuAo9LoSP\">https://t.co/StuAo9LoSP</a><br>(<a href=\"https://x.com/shao__meng/status/1845991257161847071?t=_rWqa2qoE2mTzlbc0eZhCw&amp;s=03\">https://x.com/shao__meng/status/1845991257161847071?t=_rWqa2qoE2mTzlbc0eZhCw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "192223a50551b17f": {
+    "id": "192223a50551b17f",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 1:18 AM on Mon, Sep 23, 2024: GenAI Agents @NirDiamantAI GenAI Agents 开发的综合性资源，涵盖了从基础到高级的各种理论结合实现的开源项目。 主要特点： - 提供各种难度级别的 GenAI Agents 构建教程 - 探索多种 Agents 架构和应用 - 包含实用的",
+    "internal_date": "1727151101000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 23 Sep 2024 21:11:41 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 1:18 AM on Mon, Sep 23, 2024:\r\nGenAI Agents @NirDiamantAI\r\n\r\nGenAI Agents 开发的综合性资源，涵盖了从基础到高级的各种理论结合实现的开源项目。\r\n\r\n主要特点：\r\n- 提供各种难度级别的 GenAI Agents 构建教程\r\n- 探索多种 Agents 架构和应用\r\n- 包含实用的、随时可用的 Agents 实现\r\n- 定期更新最新的 GenAI 进展\r\n- https://t.co/3f1z0Ak1ST\r\n(\r\nhttps://x.com/shao__meng/status/1838130687322566699?t=wtqigjMDrdZvBz4GY64nbw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 1:18 AM on Mon, Sep 23, 2024:<br>GenAI Agents @NirDiamantAI <br><br>GenAI Agents 开发的综合性资源，涵盖了从基础到高级的各种理论结合实现的开源项目。<br><br>主要特点：<br>- 提供各种难度级别的 GenAI Agents 构建教程<br>- 探索多种 Agents 架构和应用<br>- 包含实用的、随时可用的 Agents 实现<br>- 定期更新最新的 GenAI 进展<br>- <a href=\"https://t.co/3f1z0Ak1ST\">https://t.co/3f1z0Ak1ST</a><br>(<a href=\"https://x.com/shao__meng/status/1838130687322566699?t=wtqigjMDrdZvBz4GY64nbw&amp;s=03\">https://x.com/shao__meng/status/1838130687322566699?t=wtqigjMDrdZvBz4GY64nbw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "191636db3be1214e": {
+    "id": "191636db3be1214e",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "AIGCLINK (@aigclink) posted at 6:45 PM on Sat, Aug 17, 2024: 一款轻量级、结合LLM进行网页数据抓取的工具：parsera 支持多种 LLM 支持提取多种类型文本数据使用LLM识别所需提取的信息 github：https://t.co/7RWmke3Of2 #数据提取 #parsera https://t.co/qFWst9lFjx (",
+    "internal_date": "1723950019000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 17 Aug 2024 20:00:19 -0700",
+      "subject": "Post from AIGCLINK (@aigclink)"
+    },
+    "plain_text": "AIGCLINK (@aigclink) posted at 6:45 PM on Sat, Aug 17, 2024:\r\n一款轻量级、结合LLM进行网页数据抓取的工具：parsera\r\n\r\n支持多种 LLM\r\n支持提取多种类型文本数据\r\n使用LLM识别所需提取的信息\r\ngithub：https://t.co/7RWmke3Of2\r\n\r\n#数据提取 #parsera https://t.co/qFWst9lFjx\r\n(\r\nhttps://x.com/aigclink/status/1824985974323229166?t=aSV0TwYqP7TaBJh59Vqlqw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">AIGCLINK (@aigclink) posted at 6:45 PM on Sat, Aug 17, 2024:<br>一款轻量级、结合LLM进行网页数据抓取的工具：parsera<br><br>支持多种 LLM<br>支持提取多种类型文本数据<br>使用LLM识别所需提取的信息<br>github：<a href=\"https://t.co/7RWmke3Of2\">https://t.co/7RWmke3Of2</a><br><br>#数据提取 #parsera <a href=\"https://t.co/qFWst9lFjx\">https://t.co/qFWst9lFjx</a><br>(<a href=\"https://x.com/aigclink/status/1824985974323229166?t=aSV0TwYqP7TaBJh59Vqlqw&amp;s=03\">https://x.com/aigclink/status/1824985974323229166?t=aSV0TwYqP7TaBJh59Vqlqw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "19163247db47eef3": {
+    "id": "19163247db47eef3",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 5:17 PM on Fri, Aug 16, 2024: 多模态报告生成 AI Agent @llama_index LlamaIndex 关于多模态模型的 Cookbook，展示了如何从一组研究报告库中构建一个多模态报告生成 AI Agent，作者是 LlamaIndex 创始人 Jerry Liu @jerryjliu0 作者",
+    "internal_date": "1723945221000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 17 Aug 2024 18:40:21 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 5:17 PM on Fri, Aug 16, 2024:\r\n多模态报告生成 AI Agent @llama_index\r\n\r\nLlamaIndex 关于多模态模型的 Cookbook，展示了如何从一组研究报告库中构建一个多模态报告生成 AI Agent，作者是\r\nLlamaIndex 创始人 Jerry Liu @jerryjliu0\r\n\r\n作者使用了一组 ICLR 论文，借助 Llama-Parse 工作流抽象来定义一个 Agent https://t.co/CdQfHezrDU\r\n(\r\nhttps://x.com/shao__meng/status/1824601351621578896?t=NNh-IiU5nr4RvUp07tafQA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 5:17 PM on Fri, Aug 16, 2024:<br>多模态报告生成 AI Agent @llama_index<br>  <br>LlamaIndex 关于多模态模型的 Cookbook，展示了如何从一组研究报告库中构建一个多模态报告生成 AI Agent，作者是 LlamaIndex 创始人 Jerry Liu @jerryjliu0 <br><br>作者使用了一组 ICLR 论文，借助 Llama-Parse 工作流抽象来定义一个 Agent <a href=\"https://t.co/CdQfHezrDU\">https://t.co/CdQfHezrDU</a><br>(<a href=\"https://x.com/shao__meng/status/1824601351621578896?t=NNh-IiU5nr4RvUp07tafQA&amp;s=03\">https://x.com/shao__meng/status/1824601351621578896?t=NNh-IiU5nr4RvUp07tafQA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "19114965b27eb33b": {
+    "id": "19114965b27eb33b",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "小互 (@imxiaohu) posted at 6:51 AM on Fri, Aug 02, 2024: MindSearch：能够模仿人类在网络上寻找和整合信息的AI搜索引擎 MindSearch能够在3分钟内从超过300个网页中收集和整合信息，这相当于人类专家大约3小时的工作量。 在深度、广度和生成响应的准确性三个方面，其在人类专家评估中都超越了； Perplexity AI和",
+    "internal_date": "1722627284000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 2 Aug 2024 12:34:44 -0700",
+      "subject": "Post from 小互 (@imxiaohu)"
+    },
+    "plain_text": "小互 (@imxiaohu) posted at 6:51 AM on Fri, Aug 02, 2024:\r\nMindSearch：能够模仿人类在网络上寻找和整合信息的AI搜索引擎\r\n\r\nMindSearch能够在3分钟内从超过300个网页中收集和整合信息，这相当于人类专家大约3小时的工作量。\r\n\r\n在深度、广度和生成响应的准确性三个方面，其在人类专家评估中都超越了； Perplexity AI和 ChatGPT。\r\nhttps://t.co/xIPzlIgCb0\r\n(\r\nhttps://x.com/imxiaohu/status/1819370552848761191?t=2MXWmCp_sbP2DJrJjZP5uA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">小互 (@imxiaohu) posted at 6:51 AM on Fri, Aug 02, 2024:<br>MindSearch：能够模仿人类在网络上寻找和整合信息的AI搜索引擎<br><br>MindSearch能够在3分钟内从超过300个网页中收集和整合信息，这相当于人类专家大约3小时的工作量。<br><br>在深度、广度和生成响应的准确性三个方面，其在人类专家评估中都超越了； Perplexity AI和 ChatGPT。 <a href=\"https://t.co/xIPzlIgCb0\">https://t.co/xIPzlIgCb0</a><br>(<a href=\"https://x.com/imxiaohu/status/1819370552848761191?t=2MXWmCp_sbP2DJrJjZP5uA&amp;s=03\">https://x.com/imxiaohu/status/1819370552848761191?t=2MXWmCp_sbP2DJrJjZP5uA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "190e1066baa11125": {
+    "id": "190e1066baa11125",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "AIGCLINK (@aigclink) posted at 3:48 AM on Tue, Jul 23, 2024: 一个灵活易用的 LLM 路由框架：RouteLLM RouteLLM解决了大模型性能强价格贵，价格便宜但性能弱的问题，其能够在推理过程中动态选择更强或更弱的LLM，做到降低成本的同时不影响质量 在MT Bench基准上成本降低 85%，同时可以达到 95% 的 GPT-4 性能",
+    "internal_date": "1721762212000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 23 Jul 2024 12:16:52 -0700",
+      "subject": "Post from AIGCLINK (@aigclink)"
+    },
+    "plain_text": "AIGCLINK (@aigclink) posted at 3:48 AM on Tue, Jul 23, 2024:\r\n一个灵活易用的 LLM 路由框架：RouteLLM\r\nRouteLLM解决了大模型性能强价格贵，价格便宜但性能弱的问题，其能够在推理过程中动态选择更强或更弱的LLM，做到降低成本的同时不影响质量\r\n\r\n在MT Bench基准上成本降低 85%，同时可以达到 95% 的 GPT-4 性能\r\n\r\n功能:\r\n1、替代OpenAI https://t.co/KwcP0e2RJ5\r\n(\r\nhttps://x.com/aigclink/status/1815700556914331662?t=bIygVtB2QBx9mk9eVC14VA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">AIGCLINK (@aigclink) posted at 3:48 AM on Tue, Jul 23, 2024:<br>一个灵活易用的 LLM 路由框架：RouteLLM<br>RouteLLM解决了大模型性能强价格贵，价格便宜但性能弱的问题，其能够在推理过程中动态选择更强或更弱的LLM，做到降低成本的同时不影响质量<br><br>在MT Bench基准上成本降低 85%，同时可以达到 95% 的 GPT-4 性能<br><br>功能:<br>1、替代OpenAI <a href=\"https://t.co/KwcP0e2RJ5\">https://t.co/KwcP0e2RJ5</a><br>(<a href=\"https://x.com/aigclink/status/1815700556914331662?t=bIygVtB2QBx9mk9eVC14VA&amp;s=03\">https://x.com/aigclink/status/1815700556914331662?t=bIygVtB2QBx9mk9eVC14VA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "1905f18e265590c2": {
+    "id": "1905f18e265590c2",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Huang (@tuturetom) posted at 6:31 AM on Thu, Jun 27, 2024: TuGraph、OpenSPG、DB-GPT，感觉集齐了构建 AI Native Agentic Data App 的核心要素！🔥 - DB-GPT：图形化界面管理资源、Embedding、图存储、AWEL（Agentic Workflow 表达语言）、构建 Agent、兼容",
+    "internal_date": "1719582387000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 28 Jun 2024 06:46:27 -0700",
+      "subject": "Post from Tom Huang (@tuturetom)"
+    },
+    "plain_text": "Tom Huang (@tuturetom) posted at 6:31 AM on Thu, Jun 27, 2024:\r\nTuGraph、OpenSPG、DB-GPT，感觉集齐了构建 AI Native Agentic Data App 的核心要素！🔥\r\n\r\n- DB-GPT：图形化界面管理资源、Embedding、图存储、AWEL（Agentic Workflow 表达语言）、构建\r\nAgent、兼容开源模型、收集数据集和自动微调\r\n\r\n参考基于 AWEL 构建的 Agentic Workflow：https://t.co/77DjjH15kx\r\nhttps://t.co/yuWr76LkJ4\r\n(\r\nhttps://x.com/tuturetom/status/1806319351609606470?t=OR-HKm6gOY9eOsq-QZfSQQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Huang (@tuturetom) posted at 6:31 AM on Thu, Jun 27, 2024:<br>TuGraph、OpenSPG、DB-GPT，感觉集齐了构建 AI Native Agentic Data App 的核心要素！🔥<br><br>- DB-GPT：图形化界面管理资源、Embedding、图存储、AWEL（Agentic Workflow 表达语言）、构建 Agent、兼容开源模型、收集数据集和自动微调<br><br>参考基于 AWEL 构建的 Agentic Workflow：<a href=\"https://t.co/77DjjH15kx\">https://t.co/77DjjH15kx</a> <a href=\"https://t.co/yuWr76LkJ4\">https://t.co/yuWr76LkJ4</a><br>(<a href=\"https://x.com/tuturetom/status/1806319351609606470?t=OR-HKm6gOY9eOsq-QZfSQQ&amp;s=03\">https://x.com/tuturetom/status/1806319351609606470?t=OR-HKm6gOY9eOsq-QZfSQQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1904d72deee53016": {
+    "id": "1904d72deee53016",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "AIGCLINK (@aigclink) posted at 2:14 AM on Mon, Jun 24, 2024: 硅基智能将其DUIX（Dialogue User Interface System）开源了 DUIX是2D 真人级、AIGC 实时渲染数字人模型！ 开发者可自行接入多方大模型、语音识别（ASR）、语音合成（TTS）能力实现数字人实时交互 可在Android和iOS多终端一键部署，",
+    "internal_date": "1719286292000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 24 Jun 2024 20:31:32 -0700",
+      "subject": "Post from AIGCLINK (@aigclink)"
+    },
+    "plain_text": "AIGCLINK (@aigclink) posted at 2:14 AM on Mon, Jun 24, 2024:\r\n硅基智能将其DUIX（Dialogue User Interface System）开源了\r\nDUIX是2D 真人级、AIGC 实时渲染数字人模型！\r\n\r\n开发者可自行接入多方大模型、语音识别（ASR）、语音合成（TTS）能力实现数字人实时交互\r\n\r\n可在Android和iOS多终端一键部署，DUIX还提供了 14 个数字人模板\r\n\r\n支持低成本快速部署在 https://t.co/oD6KffFCNR\r\n(\r\nhttps://x.com/aigclink/status/1805167554174021830?t=j9DhkQ3qiDz2PSt_KXW1Pg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">AIGCLINK (@aigclink) posted at 2:14 AM on Mon, Jun 24, 2024:<br>硅基智能将其DUIX（Dialogue User Interface System）开源了<br>DUIX是2D 真人级、AIGC 实时渲染数字人模型！<br><br>开发者可自行接入多方大模型、语音识别（ASR）、语音合成（TTS）能力实现数字人实时交互<br><br>可在Android和iOS多终端一键部署，DUIX还提供了 14 个数字人模板<br><br>支持低成本快速部署在 <a href=\"https://t.co/oD6KffFCNR\">https://t.co/oD6KffFCNR</a><br>(<a href=\"https://x.com/aigclink/status/1805167554174021830?t=j9DhkQ3qiDz2PSt_KXW1Pg&amp;s=03\">https://x.com/aigclink/status/1805167554174021830?t=j9DhkQ3qiDz2PSt_KXW1Pg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "1901e1d3340e613a": {
+    "id": "1901e1d3340e613a",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "ginobefun (@hongming731) posted at 2:26 AM on Fri, Jun 14, 2024: 有点爱上 dify 了，今天自己部署了一套服务，尝试写了几个流程，边开发边调试，相比原先通过代码编排和调试效率高太多了，整个页面非常丝滑，后面会逐步将 https://t.co/gLQOSl6U7V 上的一些自动化流程切换到 dify 上来。 https://t.co/",
+    "internal_date": "1718492148000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 15 Jun 2024 15:55:48 -0700",
+      "subject": "Post from ginobefun (@hongming731)"
+    },
+    "plain_text": "ginobefun (@hongming731) posted at 2:26 AM on Fri, Jun 14, 2024:\r\n有点爱上 dify 了，今天自己部署了一套服务，尝试写了几个流程，边开发边调试，相比原先通过代码编排和调试效率高太多了，整个页面非常丝滑，后面会逐步将\r\nhttps://t.co/gLQOSl6U7V 上的一些自动化流程切换到 dify 上来。 https://t.co/Ww3bDvm4lC\r\n(\r\nhttps://x.com/hongming731/status/1801546636126208043?t=yvRcRVnltN9qqOvmaXPXkg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">ginobefun (@hongming731) posted at 2:26 AM on Fri, Jun 14, 2024:<br>有点爱上 dify 了，今天自己部署了一套服务，尝试写了几个流程，边开发边调试，相比原先通过代码编排和调试效率高太多了，整个页面非常丝滑，后面会逐步将 <a href=\"https://t.co/gLQOSl6U7V\">https://t.co/gLQOSl6U7V</a> 上的一些自动化流程切换到 dify 上来。 <a href=\"https://t.co/Ww3bDvm4lC\">https://t.co/Ww3bDvm4lC</a><br>(<a href=\"https://x.com/hongming731/status/1801546636126208043?t=yvRcRVnltN9qqOvmaXPXkg&amp;s=03\">https://x.com/hongming731/status/1801546636126208043?t=yvRcRVnltN9qqOvmaXPXkg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "1901e1be6d4b2dfb": {
+    "id": "1901e1be6d4b2dfb",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Leo Xiang (@leeoxiang) posted at 2:14 AM on Sat, Jun 15, 2024: 又关注到一批 voice agent 方向的产品，这个方向创业的产品越来越多： 1、https://t.co/puwWf1grAN 2、https://t.co/6ZF2AGHWBp 3、https://t.co/3pGCO7mZfP 需要思考的一个问题是：将来你如何分辨电话",
+    "internal_date": "1718492064000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 15 Jun 2024 15:54:24 -0700",
+      "subject": "Post from Leo Xiang (@leeoxiang)"
+    },
+    "plain_text": "Leo Xiang (@leeoxiang) posted at 2:14 AM on Sat, Jun 15, 2024:\r\n又关注到一批 voice agent 方向的产品，这个方向创业的产品越来越多：\r\n\r\n1、https://t.co/puwWf1grAN\r\n2、https://t.co/6ZF2AGHWBp\r\n3、https://t.co/3pGCO7mZfP\r\n\r\n需要思考的一个问题是：将来你如何分辨电话那头是真人还是 AI？\r\n(\r\nhttps://x.com/leeoxiang/status/1801905998736883917?t=eMp57fTPTRyRO49M_nAlFQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Leo Xiang (@leeoxiang) posted at 2:14 AM on Sat, Jun 15, 2024:<br>又关注到一批 voice agent 方向的产品，这个方向创业的产品越来越多：<br><br>1、<a href=\"https://t.co/puwWf1grAN\">https://t.co/puwWf1grAN</a>  <br>2、<a href=\"https://t.co/6ZF2AGHWBp\">https://t.co/6ZF2AGHWBp</a><br>3、<a href=\"https://t.co/3pGCO7mZfP\">https://t.co/3pGCO7mZfP</a><br><br>需要思考的一个问题是：将来你如何分辨电话那头是真人还是 AI？<br>(<a href=\"https://x.com/leeoxiang/status/1801905998736883917?t=eMp57fTPTRyRO49M_nAlFQ&amp;s=03\">https://x.com/leeoxiang/status/1801905998736883917?t=eMp57fTPTRyRO49M_nAlFQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "18febea25084aa94": {
+    "id": "18febea25084aa94",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Read this story from Dr. Varshita Sher on Medium: https://towardsdatascience.com/using-langchain-react-agents-for-answering-multi-hop-questions-in-rag-systems-893208c1847e",
+    "internal_date": "1717649941000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 5 Jun 2024 21:59:01 -0700",
+      "subject": "A story from Dr. Varshita Sher on Medium"
+    },
+    "plain_text": "Read this story from Dr. Varshita Sher on Medium:\r\nhttps://towardsdatascience.com/using-langchain-react-agents-for-answering-multi-hop-questions-in-rag-systems-893208c1847e\r\n",
+    "html": "<div dir=\"auto\">Read this story from Dr. Varshita Sher on Medium: <a href=\"https://towardsdatascience.com/using-langchain-react-agents-for-answering-multi-hop-questions-in-rag-systems-893208c1847e\">https://towardsdatascience.com/using-langchain-react-agents-for-answering-multi-hop-questions-in-rag-systems-893208c1847e</a> </div>\r\n",
+    "attachments": [
+      {
+        "filename": "shared_image.jpg",
+        "mime_type": "image/jpeg",
+        "size": 129366
+      }
+    ],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "18febcac2a05cf16": {
+    "id": "18febcac2a05cf16",
+    "label_ids": [
+      "Label_3073786821964400643",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "AIGCLINK (@aigclink) posted at 8:50 PM on Wed, Jun 05, 2024: Cohere的使用指南可以全面了解如何在 Cohere 生成式 AI 平台上构建应用，比如Agent、开源软件集成、搜索/嵌入、云服务、检索增强生成（RAG）、摘要以及用例等 https://t.co/K3bRZBQXKj https://t.co/4reZhjQlZ0 (",
+    "internal_date": "1717647884000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 5 Jun 2024 21:24:44 -0700",
+      "subject": "Post from AIGCLINK (@aigclink)"
+    },
+    "plain_text": "AIGCLINK (@aigclink) posted at 8:50 PM on Wed, Jun 05, 2024:\r\nCohere的使用指南\r\n可以全面了解如何在 Cohere 生成式 AI 平台上构建应用，比如Agent、开源软件集成、搜索/嵌入、云服务、检索增强生成（RAG）、摘要以及用例等\r\n\r\nhttps://t.co/K3bRZBQXKj https://t.co/4reZhjQlZ0\r\n(\r\nhttps://x.com/aigclink/status/1798563171000824173?t=7a1Aetqo-DGhQy4obJdRnQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">AIGCLINK (@aigclink) posted at 8:50 PM on Wed, Jun 05, 2024:<br>Cohere的使用指南<br>可以全面了解如何在 Cohere 生成式 AI 平台上构建应用，比如Agent、开源软件集成、搜索/嵌入、云服务、检索增强生成（RAG）、摘要以及用例等<br><br><a href=\"https://t.co/K3bRZBQXKj\">https://t.co/K3bRZBQXKj</a> <a href=\"https://t.co/4reZhjQlZ0\">https://t.co/4reZhjQlZ0</a><br>(<a href=\"https://x.com/aigclink/status/1798563171000824173?t=7a1Aetqo-DGhQy4obJdRnQ&amp;s=03\">https://x.com/aigclink/status/1798563171000824173?t=7a1Aetqo-DGhQy4obJdRnQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/agent",
+    "label_id": "Label_3073786821964400643"
+  },
+  "191177442664eb60": {
+    "id": "191177442664eb60",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_8931596026764801504",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 1:12 AM on Sat, Aug 03, 2024: 🗒txtai @neumll 8.3k✨ txtai 是一个用于语义搜索、 LLM 编排和工作流的全能嵌入数据库 (embeddings db) 嵌入数据库是向量索引、图网络和关系数据库的结合体，这使得可以使用 SQL 进行向量搜索、主题建模、RAG 等。 它可以独立存在，",
+    "internal_date": "1722675382000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 3 Aug 2024 01:56:22 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 1:12 AM on Sat, Aug 03, 2024:\r\n🗒txtai  @neumll  8.3k✨\r\n\r\ntxtai 是一个用于语义搜索、 LLM 编排和工作流的全能嵌入数据库 (embeddings db)\r\n\r\n嵌入数据库是向量索引、图网络和关系数据库的结合体，这使得可以使用 SQL 进行向量搜索、主题建模、RAG 等。\r\n它可以独立存在，或者作为 LLM prompts 的强大知识源。\r\n\r\n🗒txtai 功能总结\r\n\r\n🔎 https://t.co/ljDXKwBAyI\r\n(\r\nhttps://x.com/shao__meng/status/1819647434362151110?t=ZH-gMRb8LIdjatDmV2sIWQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 1:12 AM on Sat, Aug 03, 2024:<br>🗒txtai  @neumll  8.3k✨<br><br>txtai 是一个用于语义搜索、 LLM 编排和工作流的全能嵌入数据库 (embeddings db)<br><br>嵌入数据库是向量索引、图网络和关系数据库的结合体，这使得可以使用 SQL 进行向量搜索、主题建模、RAG 等。<br>它可以独立存在，或者作为 LLM prompts 的强大知识源。<br><br>🗒txtai 功能总结<br><br>🔎 <a href=\"https://t.co/ljDXKwBAyI\">https://t.co/ljDXKwBAyI</a><br>(<a href=\"https://x.com/shao__meng/status/1819647434362151110?t=ZH-gMRb8LIdjatDmV2sIWQ&amp;s=03\">https://x.com/shao__meng/status/1819647434362151110?t=ZH-gMRb8LIdjatDmV2sIWQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "NLP",
+    "label_id": "Label_8931596026764801504"
+  },
+  "190a51629638241f": {
+    "id": "190a51629638241f",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_8931596026764801504",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "“custom lemmatization“ Read “NLP: Text Summarization and Keyword Extraction on Property Rental Listings — Part 1“ by Daniel Kristiyanto on Medium: https://towardsdatascience.com/nlp-text-summarization-",
+    "internal_date": "1720756612000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Thu, 11 Jul 2024 20:56:52 -0700",
+      "subject": "A story from Daniel Kristiyanto on Medium"
+    },
+    "plain_text": "“custom lemmatization“\r\n\r\nRead “NLP: Text Summarization and Keyword Extraction on Property Rental\r\nListings — Part 1“ by Daniel Kristiyanto on Medium:\r\nhttps://towardsdatascience.com/nlp-text-summarization-and-keyword-extraction-on-property-rental-listings-part-1-f1b760cc7bbb\r\n",
+    "html": "<div dir=\"auto\">“custom lemmatization“<br><br>Read “NLP: Text Summarization and Keyword Extraction on Property Rental Listings — Part 1“ by Daniel Kristiyanto on Medium: <a href=\"https://towardsdatascience.com/nlp-text-summarization-and-keyword-extraction-on-property-rental-listings-part-1-f1b760cc7bbb\">https://towardsdatascience.com/nlp-text-summarization-and-keyword-extraction-on-property-rental-listings-part-1-f1b760cc7bbb</a> </div>\r\n",
+    "attachments": [],
+    "label_name": "NLP",
+    "label_id": "Label_8931596026764801504"
+  },
+  "1902723e66f4eac9": {
+    "id": "1902723e66f4eac9",
+    "label_ids": [
+      "Label_8931596026764801504",
+      "SENT"
+    ],
+    "snippet": "https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30 https://medium.com/aimonks/coreference-resolution-in-natural-language-processing-nlp-5ba4f570bffe",
+    "internal_date": "1718643582000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 17 Jun 2024 09:59:42 -0700",
+      "subject": "reference"
+    },
+    "plain_text": "https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30\r\nhttps://medium.com/aimonks/coreference-resolution-in-natural-language-processing-nlp-5ba4f570bffe\r\n",
+    "html": "<div dir=\"ltr\"><a href=\"https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30\">https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30</a><div><a href=\"https://medium.com/aimonks/coreference-resolution-in-natural-language-processing-nlp-5ba4f570bffe\">https://medium.com/aimonks/coreference-resolution-in-natural-language-processing-nlp-5ba4f570bffe</a><br><div><br></div></div></div>\r\n",
+    "attachments": [],
+    "label_name": "NLP",
+    "label_id": "Label_8931596026764801504"
+  },
+  "193c2d3e278fae79": {
+    "id": "193c2d3e278fae79",
+    "label_ids": [
+      "Label_6768821389323611731",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "orange.ai (@oran_ge) posted at 5:02 PM on Fri, Dec 13, 2024: NotebookLM 新版试用地址：https://t.co/mUE4qYfqlx (https://x.com/oran_ge/status/1867736778087772657?t=yQhn2FDuPCpJ4vukJgqa_Q&amp;s=03)",
+    "internal_date": "1734140487000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 13 Dec 2024 17:41:27 -0800",
+      "subject": "Post from orange.ai (@oran_ge)"
+    },
+    "plain_text": "orange.ai (@oran_ge) posted at 5:02 PM on Fri, Dec 13, 2024:\r\nNotebookLM 新版试用地址：https://t.co/mUE4qYfqlx\r\n(\r\nhttps://x.com/oran_ge/status/1867736778087772657?t=yQhn2FDuPCpJ4vukJgqa_Q&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\"><a href=\"http://orange.ai\">orange.ai</a> (@oran_ge) posted at 5:02 PM on Fri, Dec 13, 2024:<br>NotebookLM 新版试用地址：<a href=\"https://t.co/mUE4qYfqlx\">https://t.co/mUE4qYfqlx</a><br>(<a href=\"https://x.com/oran_ge/status/1867736778087772657?t=yQhn2FDuPCpJ4vukJgqa_Q&amp;s=03\">https://x.com/oran_ge/status/1867736778087772657?t=yQhn2FDuPCpJ4vukJgqa_Q&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/NotebookLM",
+    "label_id": "Label_6768821389323611731"
+  },
+  "1938f161fa11850b": {
+    "id": "1938f161fa11850b",
+    "label_ids": [
+      "Label_6768821389323611731",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 7:18 PM on Mon, Dec 02, 2024: Ollama 即将支持 LLM 结构化输出 🎉 在 @github 办公室举办的 @ollama meetup 中，@thanosthinking 宣布 Ollama 即将支持 LLM 结构化输出，通过 Github 提交记录可以看到 👇👇 1. 新功能 - 支持传入",
+    "internal_date": "1733272412000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 3 Dec 2024 16:33:32 -0800",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 7:18 PM on Mon, Dec 02, 2024:\r\nOllama 即将支持 LLM 结构化输出 🎉\r\n\r\n在 @github 办公室举办的 @ollama meetup 中，@thanosthinking 宣布 Ollama 即将支持 LLM\r\n结构化输出，通过 Github 提交记录可以看到 👇👇\r\n\r\n1. 新功能\r\n\r\n- 支持传入 JSON schema, 并将其转换为语法规则来进行采样\r\n- 平衡易用性和功能性 - 通过支持 JSON schema https://t.co/8fDxyk74BW\r\n(\r\nhttps://x.com/shao__meng/status/1863784874509017298?t=2f2Tp1_lRUWdsvon6GscZg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 7:18 PM on Mon, Dec 02, 2024:<br>Ollama 即将支持 LLM 结构化输出 🎉<br><br>在 @github 办公室举办的 @ollama meetup 中，@thanosthinking 宣布 Ollama 即将支持 LLM 结构化输出，通过 Github 提交记录可以看到 👇👇<br><br>1. 新功能<br><br>- 支持传入 JSON schema, 并将其转换为语法规则来进行采样<br>- 平衡易用性和功能性 - 通过支持 JSON schema <a href=\"https://t.co/8fDxyk74BW\">https://t.co/8fDxyk74BW</a><br>(<a href=\"https://x.com/shao__meng/status/1863784874509017298?t=2f2Tp1_lRUWdsvon6GscZg&amp;s=03\">https://x.com/shao__meng/status/1863784874509017298?t=2f2Tp1_lRUWdsvon6GscZg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/NotebookLM",
+    "label_id": "Label_6768821389323611731"
+  },
+  "192d190af5002103": {
+    "id": "192d190af5002103",
+    "label_ids": [
+      "Label_6768821389323611731",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "熊布朗 (@Stephen4171127) posted at 9:19 AM on Sun, Oct 27, 2024: Meta 发布了一个开源的 NotebookLM https://t.co/S4RgHd2Aef 步骤 1：预处理 PDF。使用 Llama-3.2-1B-Instruct 来预处理 PDF 并保存为 .txt 文件。 步骤 2：脚本编写。使用 Llama-3.1-70B-",
+    "internal_date": "1730092773000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sun, 27 Oct 2024 22:19:33 -0700",
+      "subject": "Post from 熊布朗 (@Stephen4171127)"
+    },
+    "plain_text": "熊布朗 (@Stephen4171127) posted at 9:19 AM on Sun, Oct 27, 2024:\r\nMeta 发布了一个开源的 NotebookLM\r\nhttps://t.co/S4RgHd2Aef\r\n步骤 1：预处理 PDF。使用 Llama-3.2-1B-Instruct 来预处理 PDF 并保存为 .txt 文件。\r\n步骤 2：脚本编写。使用 Llama-3.1-70B-Instruct 来从文本中编写播客脚本。\r\n步骤 3：戏剧化重写。使用 Llama-3.1-8B-Instruct 模型使脚本更加戏剧化。 https://t.co/s2PShRSpMu\r\n(\r\nhttps://x.com/Stephen4171127/status/1850572995426717916?t=SNs3S-cNFzqCF36rOQqCFg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">熊布朗 (@Stephen4171127) posted at 9:19 AM on Sun, Oct 27, 2024:<br>Meta 发布了一个开源的 NotebookLM<br><a href=\"https://t.co/S4RgHd2Aef\">https://t.co/S4RgHd2Aef</a><br>步骤 1：预处理 PDF。使用 Llama-3.2-1B-Instruct 来预处理 PDF 并保存为 .txt 文件。<br>步骤 2：脚本编写。使用 Llama-3.1-70B-Instruct 来从文本中编写播客脚本。  <br>步骤 3：戏剧化重写。使用 Llama-3.1-8B-Instruct 模型使脚本更加戏剧化。 <a href=\"https://t.co/s2PShRSpMu\">https://t.co/s2PShRSpMu</a><br>(<a href=\"https://x.com/Stephen4171127/status/1850572995426717916?t=SNs3S-cNFzqCF36rOQqCFg&amp;s=03\">https://x.com/Stephen4171127/status/1850572995426717916?t=SNs3S-cNFzqCF36rOQqCFg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/NotebookLM",
+    "label_id": "Label_6768821389323611731"
+  },
+  "19231470fd03d7dc": {
+    "id": "19231470fd03d7dc",
+    "label_ids": [
+      "Label_6768821389323611731",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "AIGCLINK (@aigclink) posted at 7:16 PM on Thu, Sep 26, 2024: 赞，NotebookLM新增了音频和YouTube支持功能！这么用起来就方便多了～ 1、支持添加YouTube链接和音频文件到笔记本中 2、改进了Audio Overviews的分享功能 可以做为视频和讲座分析助手：总结关键概念，并提供内联引用音频助手：可以让NotebookLM",
+    "internal_date": "1727403593000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Thu, 26 Sep 2024 19:19:53 -0700",
+      "subject": "Post from AIGCLINK (@aigclink)"
+    },
+    "plain_text": "AIGCLINK (@aigclink) posted at 7:16 PM on Thu, Sep 26, 2024:\r\n赞，NotebookLM新增了音频和YouTube支持功能！这么用起来就方便多了～\r\n\r\n1、支持添加YouTube链接和音频文件到笔记本中\r\n2、改进了Audio Overviews的分享功能\r\n\r\n可以做为\r\n视频和讲座分析助手：总结关键概念，并提供内联引用\r\n音频助手：可以让NotebookLM 在转录的对话中搜索查找特定信息 https://t.co/SyhYnl30Kx\r\n(\r\nhttps://x.com/aigclink/status/1839489300393869696?t=aBeZDqEwt34C_VTy9wFIwA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">AIGCLINK (@aigclink) posted at 7:16 PM on Thu, Sep 26, 2024:<br>赞，NotebookLM新增了音频和YouTube支持功能！这么用起来就方便多了～<br><br>1、支持添加YouTube链接和音频文件到笔记本中 <br>2、改进了Audio Overviews的分享功能 <br><br>可以做为<br>视频和讲座分析助手：总结关键概念，并提供内联引用<br>音频助手：可以让NotebookLM 在转录的对话中搜索查找特定信息 <a href=\"https://t.co/SyhYnl30Kx\">https://t.co/SyhYnl30Kx</a><br>(<a href=\"https://x.com/aigclink/status/1839489300393869696?t=aBeZDqEwt34C_VTy9wFIwA&amp;s=03\">https://x.com/aigclink/status/1839489300393869696?t=aBeZDqEwt34C_VTy9wFIwA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/NotebookLM",
+    "label_id": "Label_6768821389323611731"
+  },
+  "19221e49089695d5": {
+    "id": "19221e49089695d5",
+    "label_ids": [
+      "Label_6768821389323611731",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "AIGCLINK (@aigclink) posted at 7:56 AM on Mon, Sep 23, 2024: PDF转音频工具：PDF2Audio，NotebookLM的开源替代方案可以PDF转播客、讲座、讨论、短/长文摘要等 支持上传多个 PDF 文件支持不同指令模板，包括播客、讲座、摘要等自定义文本生成和音频模型支持不同声音选择支持自定义音频长度、语气、风格等 github：",
+    "internal_date": "1727145481000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 23 Sep 2024 19:38:01 -0700",
+      "subject": "Post from AIGCLINK (@aigclink)"
+    },
+    "plain_text": "AIGCLINK (@aigclink) posted at 7:56 AM on Mon, Sep 23, 2024:\r\nPDF转音频工具：PDF2Audio，NotebookLM的开源替代方案\r\n可以PDF转播客、讲座、讨论、短/长文摘要等\r\n\r\n支持上传多个 PDF 文件\r\n支持不同指令模板，包括播客、讲座、摘要等\r\n自定义文本生成和音频模型\r\n支持不同声音选择\r\n支持自定义音频长度、语气、风格等\r\n\r\ngithub：https://t.co/lywPfFAHzg\r\n\r\n#PDF2Audio https://t.co/tdwWRDiYXw\r\n(\r\nhttps://x.com/aigclink/status/1838231005800624372?t=RKGMCNlu7-IljkjW8tB_Tw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">AIGCLINK (@aigclink) posted at 7:56 AM on Mon, Sep 23, 2024:<br>PDF转音频工具：PDF2Audio，NotebookLM的开源替代方案<br>可以PDF转播客、讲座、讨论、短/长文摘要等<br><br>支持上传多个 PDF 文件<br>支持不同指令模板，包括播客、讲座、摘要等<br>自定义文本生成和音频模型<br>支持不同声音选择<br>支持自定义音频长度、语气、风格等<br><br>github：<a href=\"https://t.co/lywPfFAHzg\">https://t.co/lywPfFAHzg</a><br><br>#PDF2Audio <a href=\"https://t.co/tdwWRDiYXw\">https://t.co/tdwWRDiYXw</a><br>(<a href=\"https://x.com/aigclink/status/1838231005800624372?t=RKGMCNlu7-IljkjW8tB_Tw&amp;s=03\">https://x.com/aigclink/status/1838231005800624372?t=RKGMCNlu7-IljkjW8tB_Tw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/NotebookLM",
+    "label_id": "Label_6768821389323611731"
+  },
+  "1923996e5a914c84": {
+    "id": "1923996e5a914c84",
+    "label_ids": [
+      "Label_825654087034554419",
+      "Label_6007220211453868299",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Jeffery Kaneda 金田達也 (@JefferyTatsuya) posted at 11:32 PM on Fri, Sep 27, 2024: 谁还需要office呢😛 (https://x.com/JefferyTatsuya/status/1839916194243195345?t=8l6rAjSo1TS0jF958oEfMQ&amp;s=03)",
+    "internal_date": "1727543045000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 28 Sep 2024 10:04:05 -0700",
+      "subject": "Post from Jeffery Kaneda　金田達也 (@JefferyTatsuya)"
+    },
+    "plain_text": "Jeffery Kaneda 金田達也 (@JefferyTatsuya) posted at 11:32 PM on Fri, Sep 27,\r\n2024:\r\n谁还需要office呢😛\r\n(\r\nhttps://x.com/JefferyTatsuya/status/1839916194243195345?t=8l6rAjSo1TS0jF958oEfMQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Jeffery Kaneda　金田達也 (@JefferyTatsuya) posted at 11:32 PM on Fri, Sep 27, 2024:<br>谁还需要office呢😛<br>(<a href=\"https://x.com/JefferyTatsuya/status/1839916194243195345?t=8l6rAjSo1TS0jF958oEfMQ&amp;s=03\">https://x.com/JefferyTatsuya/status/1839916194243195345?t=8l6rAjSo1TS0jF958oEfMQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "life",
+    "label_id": "Label_6007220211453868299"
+  },
+  "19236767ca6262b0": {
+    "id": "19236767ca6262b0",
+    "label_ids": [
+      "Label_825654087034554419",
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 4:45 PM on Fri, Sep 27, 2024: AI PPT 助手 @KaranVaidya6 基于 Google Sheets 数据构建 PPT 文稿的 AI Agent, 利用了 LlamaIndex @llama_index、Composio @composiohq、CrewAI @crewAIInc、",
+    "internal_date": "1727490588000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 27 Sep 2024 19:29:48 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 4:45 PM on Fri, Sep 27, 2024:\r\nAI PPT 助手 @KaranVaidya6\r\n\r\n基于 Google Sheets 数据构建 PPT 文稿的 AI Agent, 利用了 LlamaIndex\r\n@llama_index、Composio @composiohq、CrewAI @crewAIInc、AgentOps @AgentOpsAI 和\r\nChatGPT 等技术\r\n\r\n功能包括读取表格、绘制图表、发现关键洞察并创建 PPT 文稿。\r\n\r\nNotebook:\r\n(\r\nhttps://x.com/shao__meng/status/1839813614263517295?t=e24CpHpjE5MqkIz9jt62uA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 4:45 PM on Fri, Sep 27, 2024:<br>AI PPT 助手 @KaranVaidya6 <br><br>基于 Google Sheets 数据构建 PPT 文稿的 AI Agent, 利用了 LlamaIndex @llama_index、Composio @composiohq、CrewAI @crewAIInc、AgentOps @AgentOpsAI 和 ChatGPT 等技术<br><br>功能包括读取表格、绘制图表、发现关键洞察并创建 PPT 文稿。<br><br>Notebook:<br>(<a href=\"https://x.com/shao__meng/status/1839813614263517295?t=e24CpHpjE5MqkIz9jt62uA&amp;s=03\">https://x.com/shao__meng/status/1839813614263517295?t=e24CpHpjE5MqkIz9jt62uA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1905f0edb6c42abf": {
+    "id": "1905f0edb6c42abf",
+    "label_ids": [
+      "Label_825654087034554419",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "orange.ai (@oran_ge) posted at 7:53 PM on Wed, Jun 26, 2024: Figma 也杀入 PPT 了 PPT 是海内外通杀的刚需 (https://x.com/oran_ge/status/1806158860593528922?t=uE6LPFvrGWwSg1ERBn94nQ&amp;s=03)",
+    "internal_date": "1719581729000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 28 Jun 2024 06:35:29 -0700",
+      "subject": "Post from orange.ai (@oran_ge)"
+    },
+    "plain_text": "orange.ai (@oran_ge) posted at 7:53 PM on Wed, Jun 26, 2024:\r\nFigma 也杀入 PPT 了\r\nPPT 是海内外通杀的刚需\r\n(\r\nhttps://x.com/oran_ge/status/1806158860593528922?t=uE6LPFvrGWwSg1ERBn94nQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\"><a href=\"http://orange.ai\">orange.ai</a> (@oran_ge) posted at 7:53 PM on Wed, Jun 26, 2024:<br>Figma 也杀入 PPT 了<br>PPT 是海内外通杀的刚需<br>(<a href=\"https://x.com/oran_ge/status/1806158860593528922?t=uE6LPFvrGWwSg1ERBn94nQ&amp;s=03\">https://x.com/oran_ge/status/1806158860593528922?t=uE6LPFvrGWwSg1ERBn94nQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/ppt-generation",
+    "label_id": "Label_825654087034554419"
+  },
+  "18f924a987299d8d": {
+    "id": "18f924a987299d8d",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_3635754816720239444",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "飛鳥 (@askaiwy) posted at 5:29 PM on Sat, May 18, 2024: 《角鲨肝油的知识》 写这篇关于角鲨肝油的介绍的时候， 光是查资料就用了差不多大半个月的时间。 其间为了准确查出对应的专业名词， 中、日、英三国的网站里面反复切换。 所以， 诸位一定要有耐心看到最后啊！ 首先我们要分清楚， 鱼油跟鱼肝油的不同。 鱼油，… https://t.co/",
+    "internal_date": "1716146313000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sun, 19 May 2024 12:18:33 -0700",
+      "subject": "Post from 飛鳥 (@askaiwy)"
+    },
+    "plain_text": "飛鳥 (@askaiwy) posted at 5:29 PM on Sat, May 18, 2024:\r\n《角鲨肝油的知识》\r\n\r\n写这篇关于角鲨肝油的介绍的时候，\r\n光是查资料就用了差不多大半个月的时间。\r\n其间为了准确查出对应的专业名词，\r\n中、日、英三国的网站里面反复切换。\r\n所以，\r\n诸位一定要有耐心看到最后啊！\r\n\r\n首先我们要分清楚，\r\n鱼油跟鱼肝油的不同。\r\n鱼油，… https://t.co/eM82FWxyRm\r\n(\r\nhttps://x.com/askaiwy/status/1791989619753640168?t=fkURtChNKqWSXinAmtR7lQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">飛鳥 (@askaiwy) posted at 5:29 PM on Sat, May 18, 2024:<br>《角鲨肝油的知识》<br><br>写这篇关于角鲨肝油的介绍的时候，<br>光是查资料就用了差不多大半个月的时间。<br>其间为了准确查出对应的专业名词，<br>中、日、英三国的网站里面反复切换。<br>所以，<br>诸位一定要有耐心看到最后啊！<br><br>首先我们要分清楚，<br>鱼油跟鱼肝油的不同。<br>鱼油，… <a href=\"https://t.co/eM82FWxyRm\">https://t.co/eM82FWxyRm</a><br>(<a href=\"https://x.com/askaiwy/status/1791989619753640168?t=fkURtChNKqWSXinAmtR7lQ&amp;s=03\">https://x.com/askaiwy/status/1791989619753640168?t=fkURtChNKqWSXinAmtR7lQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "kids",
+    "label_id": "Label_3635754816720239444"
+  },
+  "18f6fef7ec95cb5c": {
+    "id": "18f6fef7ec95cb5c",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_556300343136219378",
+      "Label_3635754816720239444",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "https://twitter.com/essen_ai/status/1789471688121274678 https://immersivemath.com/ila/index.html#",
+    "internal_date": "1715569917000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sun, 12 May 2024 20:11:57 -0700",
+      "subject": "家里有小孩在念书的家长，建议收藏这个沉浸式数学网站immersivemath，对海外华人尤其有帮助"
+    },
+    "plain_text": "https://twitter.com/essen_ai/status/1789471688121274678\r\nhttps://immersivemath.com/ila/index.html#\r\n",
+    "html": "<div dir=\"ltr\"><a href=\"https://twitter.com/essen_ai/status/1789471688121274678\">https://twitter.com/essen_ai/status/1789471688121274678</a><br><div><a href=\"https://immersivemath.com/ila/index.html#\">https://immersivemath.com/ila/index.html#</a><br></div></div>\r\n",
+    "attachments": [],
+    "label_name": "kids",
+    "label_id": "Label_3635754816720239444"
+  },
+  "1922a3e859b891b1": {
+    "id": "1922a3e859b891b1",
+    "label_ids": [
+      "Label_2178937561106964915",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "AIGCLINK (@aigclink) posted at 7:03 PM on Tue, Sep 24, 2024: Markdown文本转思维导图工具：markmap 通过解析Markdown语法，实时生成结构化思维导图 轻量级，可与VS Code、Vim/Neovim、Emacs集成支持实时渲染、可定制可交互，嵌入性强 github：https://t.co/lPYJJ0X8mu https",
+    "internal_date": "1727285594000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 25 Sep 2024 10:33:14 -0700",
+      "subject": "Post from AIGCLINK (@aigclink)"
+    },
+    "plain_text": "AIGCLINK (@aigclink) posted at 7:03 PM on Tue, Sep 24, 2024:\r\nMarkdown文本转思维导图工具：markmap\r\n通过解析Markdown语法，实时生成结构化思维导图\r\n\r\n轻量级，可与VS Code、Vim/Neovim、Emacs集成\r\n支持实时渲染、可定制可交互，嵌入性强\r\n\r\ngithub：https://t.co/lPYJJ0X8mu https://t.co/X0FtksjoTV\r\n(\r\nhttps://x.com/aigclink/status/1838761274420900103?t=9f2VNJK7kFQIDpbLp_pG6w&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">AIGCLINK (@aigclink) posted at 7:03 PM on Tue, Sep 24, 2024:<br>Markdown文本转思维导图工具：markmap<br>通过解析Markdown语法，实时生成结构化思维导图<br><br>轻量级，可与VS Code、Vim/Neovim、Emacs集成<br>支持实时渲染、可定制可交互，嵌入性强<br><br>github：<a href=\"https://t.co/lPYJJ0X8mu\">https://t.co/lPYJJ0X8mu</a> <a href=\"https://t.co/X0FtksjoTV\">https://t.co/X0FtksjoTV</a><br>(<a href=\"https://x.com/aigclink/status/1838761274420900103?t=9f2VNJK7kFQIDpbLp_pG6w&amp;s=03\">https://x.com/aigclink/status/1838761274420900103?t=9f2VNJK7kFQIDpbLp_pG6w&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/git-project",
+    "label_id": "Label_2178937561106964915"
+  },
+  "191704314e946803": {
+    "id": "191704314e946803",
+    "label_ids": [
+      "Label_2178937561106964915",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "AIGCLINK (@aigclink) posted at 1:14 AM on Tue, Aug 20, 2024: 一个基于知识图谱的智能问答系统：fact-finder 利用LLM和 Neo4j 数据库实现自动化查询与回答，实现了从用户问题到自然语言答案的自动化转换过程 特点： 1、基于知识图谱：使用Neo4j 数据库存储和管理知识图谱，并利用它来回答问题 https://t.co/",
+    "internal_date": "1724165330000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 20 Aug 2024 07:48:50 -0700",
+      "subject": "Post from AIGCLINK (@aigclink)"
+    },
+    "plain_text": "AIGCLINK (@aigclink) posted at 1:14 AM on Tue, Aug 20, 2024:\r\n一个基于知识图谱的智能问答系统：fact-finder\r\n利用LLM和 Neo4j 数据库实现自动化查询与回答，实现了从用户问题到自然语言答案的自动化转换过程\r\n\r\n特点：\r\n1、基于知识图谱：使用Neo4j 数据库存储和管理知识图谱，并利用它来回答问题 https://t.co/MdTaBB3CBf\r\n(\r\nhttps://x.com/aigclink/status/1825808691075100687?t=wjaCDJi7PUSj_VlUZeYnug&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">AIGCLINK (@aigclink) posted at 1:14 AM on Tue, Aug 20, 2024:<br>一个基于知识图谱的智能问答系统：fact-finder<br>利用LLM和 Neo4j 数据库实现自动化查询与回答，实现了从用户问题到自然语言答案的自动化转换过程<br><br>特点：<br>1、基于知识图谱：使用Neo4j 数据库存储和管理知识图谱，并利用它来回答问题 <a href=\"https://t.co/MdTaBB3CBf\">https://t.co/MdTaBB3CBf</a><br>(<a href=\"https://x.com/aigclink/status/1825808691075100687?t=wjaCDJi7PUSj_VlUZeYnug&amp;s=03\">https://x.com/aigclink/status/1825808691075100687?t=wjaCDJi7PUSj_VlUZeYnug&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/git-project",
+    "label_id": "Label_2178937561106964915"
+  },
+  "1916db2af63b5ffa": {
+    "id": "1916db2af63b5ffa",
+    "label_ids": [
+      "Label_2178937561106964915",
+      "IMPORTANT",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Huang (@tuturetom) posted at 6:13 PM on Sun, Aug 18, 2024: 更快，同时性能损失降到最低？800 行代码轻量级 GraphRAG 来了 ⚡️ 🤯🤯 nano-GraphRAG 抽离 GraphRAG 最核心实现并允许你替换 LLM、Embedding 模块，提供异步和类型安全的实现，非常适合研究学习 GraphRAG 源码并适配自身业务",
+    "internal_date": "1724122314000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 19 Aug 2024 19:51:54 -0700",
+      "subject": "Post from Tom Huang (@tuturetom)"
+    },
+    "plain_text": "Tom Huang (@tuturetom) posted at 6:13 PM on Sun, Aug 18, 2024:\r\n更快，同时性能损失降到最低？800 行代码轻量级 GraphRAG 来了 ⚡️ 🤯🤯\r\n\r\nnano-GraphRAG 抽离 GraphRAG 最核心实现并允许你替换 LLM、Embedding\r\n模块，提供异步和类型安全的实现，非常适合研究学习 GraphRAG 源码并适配自身业务🔥\r\n\r\n开源地址👉：https://t.co/FpWEV0viyU https://t.co/eohTiVAaUJ\r\n(\r\nhttps://x.com/tuturetom/status/1825340242578317732?t=1QSmehD__de6w8LbAkBr-g&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Huang (@tuturetom) posted at 6:13 PM on Sun, Aug 18, 2024:<br>更快，同时性能损失降到最低？800 行代码轻量级 GraphRAG 来了 ⚡️ 🤯🤯<br><br>nano-GraphRAG 抽离 GraphRAG 最核心实现并允许你替换 LLM、Embedding 模块，提供异步和类型安全的实现，非常适合研究学习 GraphRAG 源码并适配自身业务🔥<br><br>开源地址👉：<a href=\"https://t.co/FpWEV0viyU\">https://t.co/FpWEV0viyU</a> <a href=\"https://t.co/eohTiVAaUJ\">https://t.co/eohTiVAaUJ</a><br>(<a href=\"https://x.com/tuturetom/status/1825340242578317732?t=1QSmehD__de6w8LbAkBr-g&amp;s=03\">https://x.com/tuturetom/status/1825340242578317732?t=1QSmehD__de6w8LbAkBr-g&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM/git-project",
+    "label_id": "Label_2178937561106964915"
+  },
+  "193b3651694b78cf": {
+    "id": "193b3651694b78cf",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "宝玉 (@dotey) posted at 11:24 PM on Sat, Dec 07, 2024: 很多人还不知道 AIStudio 可以免费体验 Gemini 的 https://t.co/nitrFrnNP9 (https://x.com/dotey/status/1865658660703068195?t=9OG5PDRYFx5WPKUGae5FQg&amp;s=03)",
+    "internal_date": "1733881568000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 10 Dec 2024 17:46:08 -0800",
+      "subject": "Post from 宝玉 (@dotey)"
+    },
+    "plain_text": "宝玉 (@dotey) posted at 11:24 PM on Sat, Dec 07, 2024:\r\n很多人还不知道 AIStudio 可以免费体验 Gemini 的\r\n\r\nhttps://t.co/nitrFrnNP9\r\n(\r\nhttps://x.com/dotey/status/1865658660703068195?t=9OG5PDRYFx5WPKUGae5FQg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">宝玉 (@dotey) posted at 11:24 PM on Sat, Dec 07, 2024:<br>很多人还不知道 AIStudio 可以免费体验 Gemini 的<br><br><a href=\"https://t.co/nitrFrnNP9\">https://t.co/nitrFrnNP9</a><br>(<a href=\"https://x.com/dotey/status/1865658660703068195?t=9OG5PDRYFx5WPKUGae5FQg&amp;s=03\">https://x.com/dotey/status/1865658660703068195?t=9OG5PDRYFx5WPKUGae5FQg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1939256722b39736": {
+    "id": "1939256722b39736",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "宝玉 (@dotey) posted at 6:56 PM on Tue, Dec 03, 2024: Claude 新的 MCP 协议的超酷案例，用户直接从 Claude 客户端发消息，就可以对微信群的历史总结、查询。比如你早上起来一看群里上千条消息，就给 Claude 发一条消息：“他们一大早在聊啥？”，于是 Claude 就访问 MCP Server 去查询最新的消息，并总结回复给你。 这种",
+    "internal_date": "1733326960000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 4 Dec 2024 07:42:40 -0800",
+      "subject": "Post from 宝玉 (@dotey)"
+    },
+    "plain_text": "宝玉 (@dotey) posted at 6:56 PM on Tue, Dec 03, 2024:\r\nClaude 新的 MCP 协议的超酷案例，用户直接从 Claude\r\n客户端发消息，就可以对微信群的历史总结、查询。比如你早上起来一看群里上千条消息，就给 Claude 发一条消息：“他们一大早在聊啥？”，于是\r\nClaude 就访问 MCP Server 去查询最新的消息，并总结回复给你。\r\n\r\n这种 MCP\r\n(\r\nhttps://x.com/dotey/status/1864141603096678658?t=J4H0DCMMFEZrkZcWcidePQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">宝玉 (@dotey) posted at 6:56 PM on Tue, Dec 03, 2024:<br>Claude 新的 MCP 协议的超酷案例，用户直接从 Claude 客户端发消息，就可以对微信群的历史总结、查询。比如你早上起来一看群里上千条消息，就给 Claude 发一条消息：“他们一大早在聊啥？”，于是 Claude 就访问 MCP Server 去查询最新的消息，并总结回复给你。<br><br>这种 MCP<br>(<a href=\"https://x.com/dotey/status/1864141603096678658?t=J4H0DCMMFEZrkZcWcidePQ&amp;s=03\">https://x.com/dotey/status/1864141603096678658?t=J4H0DCMMFEZrkZcWcidePQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1937fa3373dc97e1": {
+    "id": "1937fa3373dc97e1",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Dörr (@tom_doerr) posted at 9:49 PM on Fri, Nov 29, 2024: &quot;The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.&quot;",
+    "internal_date": "1733013223000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 30 Nov 2024 16:33:43 -0800",
+      "subject": "Post from Tom Dörr (@tom_doerr)"
+    },
+    "plain_text": "Tom Dörr (@tom_doerr) posted at 9:49 PM on Fri, Nov 29, 2024:\r\n\"The open-source LLMOps platform: prompt playground, prompt management, LLM\r\nevaluation, and LLM Observability all in one place.\" https://t.co/ShiUzBlcuo\r\n(\r\nhttps://x.com/tom_doerr/status/1862735724006523039?t=27wXm3TgjFO1w6TGGxWDVg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Dörr (@tom_doerr) posted at 9:49 PM on Fri, Nov 29, 2024:<br>&quot;The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.&quot; <a href=\"https://t.co/ShiUzBlcuo\">https://t.co/ShiUzBlcuo</a><br>(<a href=\"https://x.com/tom_doerr/status/1862735724006523039?t=27wXm3TgjFO1w6TGGxWDVg&amp;s=03\">https://x.com/tom_doerr/status/1862735724006523039?t=27wXm3TgjFO1w6TGGxWDVg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "193460a549478438": {
+    "id": "193460a549478438",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 11:08 PM on Mon, Nov 18, 2024: LLM 生成文本的四种性格：从保守派到创新者 // LLM 生成文本的四种策略(贪婪、多项式采样、集束搜索、对比搜索)，就像不同性格的写手，通过调节温度、Top-K 等参数，在&quot;严谨-创意&quot;光谱上找到最适合当前任务的平衡点 1. 贪婪策略(Greedy",
+    "internal_date": "1732046902000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 19 Nov 2024 12:08:22 -0800",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 11:08 PM on Mon, Nov 18, 2024:\r\nLLM 生成文本的四种性格：从保守派到创新者\r\n\r\n// LLM 生成文本的四种策略(贪婪、多项式采样、集束搜索、对比搜索)，就像不同性格的写手，通过调节温度、Top-K\r\n等参数，在\"严谨-创意\"光谱上找到最适合当前任务的平衡点\r\n\r\n1. 贪婪策略(Greedy)就像一个谨慎的人：\r\n- 永远选最稳的选项\r\n- https://t.co/6zYys7czFq\r\n(\r\nhttps://x.com/shao__meng/status/1858769277983379519?t=WYlJj5oFYTzhuxuEL5CDMw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 11:08 PM on Mon, Nov 18, 2024:<br>LLM 生成文本的四种性格：从保守派到创新者<br><br>// LLM 生成文本的四种策略(贪婪、多项式采样、集束搜索、对比搜索)，就像不同性格的写手，通过调节温度、Top-K 等参数，在&quot;严谨-创意&quot;光谱上找到最适合当前任务的平衡点<br><br>1. 贪婪策略(Greedy)就像一个谨慎的人：<br>- 永远选最稳的选项<br>- <a href=\"https://t.co/6zYys7czFq\">https://t.co/6zYys7czFq</a><br>(<a href=\"https://x.com/shao__meng/status/1858769277983379519?t=WYlJj5oFYTzhuxuEL5CDMw&amp;s=03\">https://x.com/shao__meng/status/1858769277983379519?t=WYlJj5oFYTzhuxuEL5CDMw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1930f733da07e48b": {
+    "id": "1930f733da07e48b",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Rohan Paul (@rohanpaul_ai) posted at 10:02 AM on Fri, Nov 08, 2024: A good course on Introduction to Foundation Models https://t.co/8YEWg6aflQ (https://x.com/rohanpaul_ai/status/1854947658689134924?t=",
+    "internal_date": "1731131031000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 8 Nov 2024 21:43:51 -0800",
+      "subject": "Post from Rohan Paul (@rohanpaul_ai)"
+    },
+    "plain_text": "Rohan Paul (@rohanpaul_ai) posted at 10:02 AM on Fri, Nov 08, 2024:\r\nA good course on Introduction to Foundation Models https://t.co/8YEWg6aflQ\r\n(\r\nhttps://x.com/rohanpaul_ai/status/1854947658689134924?t=RWcKwZyJfPp72N6StQUXOg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Rohan Paul (@rohanpaul_ai) posted at 10:02 AM on Fri, Nov 08, 2024:<br>A good course on Introduction to Foundation Models <a href=\"https://t.co/8YEWg6aflQ\">https://t.co/8YEWg6aflQ</a><br>(<a href=\"https://x.com/rohanpaul_ai/status/1854947658689134924?t=RWcKwZyJfPp72N6StQUXOg&amp;s=03\">https://x.com/rohanpaul_ai/status/1854947658689134924?t=RWcKwZyJfPp72N6StQUXOg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "192b5400ca9339f7": {
+    "id": "192b5400ca9339f7",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "歸藏(guizang.ai) (@op7418) posted at 0:17 AM on Tue, Oct 22, 2024: Meta 上周开源了一个端到端的语音模型 Spirit LM。 这个太重要了，居然没注意到。 这个模型有两个版本： 基础版： 适合进行一般的语音识别和生成，不包含情感变化。 高表现力版：可以捕捉语音中的情感特征，能够生成包含快乐、愤怒或兴奋等情感的语音。 主要特点有：",
+    "internal_date": "1729617728000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Tue, 22 Oct 2024 10:22:08 -0700",
+      "subject": "Post from 歸藏(guizang.ai) (@op7418)"
+    },
+    "plain_text": "歸藏(guizang.ai) (@op7418) posted at 0:17 AM on Tue, Oct 22, 2024:\r\nMeta 上周开源了一个端到端的语音模型 Spirit LM。\r\n\r\n这个太重要了，居然没注意到。\r\n\r\n这个模型有两个版本：\r\n\r\n基础版： 适合进行一般的语音识别和生成，不包含情感变化。\r\n\r\n高表现力版：可以捕捉语音中的情感特征，能够生成包含快乐、愤怒或兴奋等情感的语音。\r\n\r\n主要特点有：\r\n\r\nSpirit LM https://t.co/KPKitdbJD6\r\n(\r\nhttps://x.com/op7418/status/1848624774785986676?t=GmUamkm_SYS_WzHtuXtqyw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">歸藏(<a href=\"http://guizang.ai\">guizang.ai</a>) (@op7418) posted at 0:17 AM on Tue, Oct 22, 2024:<br>Meta 上周开源了一个端到端的语音模型 Spirit LM。<br><br>这个太重要了，居然没注意到。<br><br>这个模型有两个版本：<br><br>基础版： 适合进行一般的语音识别和生成，不包含情感变化。<br><br>高表现力版：可以捕捉语音中的情感特征，能够生成包含快乐、愤怒或兴奋等情感的语音。<br><br>主要特点有：<br><br>Spirit LM <a href=\"https://t.co/KPKitdbJD6\">https://t.co/KPKitdbJD6</a><br>(<a href=\"https://x.com/op7418/status/1848624774785986676?t=GmUamkm_SYS_WzHtuXtqyw&amp;s=03\">https://x.com/op7418/status/1848624774785986676?t=GmUamkm_SYS_WzHtuXtqyw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "192aff7f75df9191": {
+    "id": "192aff7f75df9191",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "linear uncle (@LinearUncle) posted at 8:43 PM on Sun, Oct 20, 2024: 好久没写推特了，今天分享如何在Mac本地运行千问Qwen2-VL-7B模型💻。 Ollama有些落后，现在LM Studio支持MLX格式模型并自带聊天UI🛠️。 测试了千问的视觉模型的 3 个型号，复杂识别一般，简单场景还行👀。 现在MLX的开源库发展生机勃勃，",
+    "internal_date": "1729529117000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 21 Oct 2024 09:45:17 -0700",
+      "subject": "Post from linear uncle (@LinearUncle)"
+    },
+    "plain_text": "linear uncle (@LinearUncle) posted at 8:43 PM on Sun, Oct 20, 2024:\r\n好久没写推特了，今天分享如何在Mac本地运行千问Qwen2-VL-7B模型💻。\r\n\r\nOllama有些落后，现在LM Studio支持MLX格式模型并自带聊天UI🛠️。\r\n\r\n测试了千问的视觉模型的 3 个型号，复杂识别一般，简单场景还行👀。\r\n\r\n现在MLX的开源库发展生机勃勃，例如mlx-lm, mlx-whisper。\r\n\r\nollama不要偷懒啊！ https://t.co/5AQ5R2a7VO\r\n(\r\nhttps://x.com/LinearUncle/status/1848208380655255719?t=DClXsk6SURi4s_sLyJ71RA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">linear uncle (@LinearUncle) posted at 8:43 PM on Sun, Oct 20, 2024:<br>好久没写推特了，今天分享如何在Mac本地运行千问Qwen2-VL-7B模型💻。<br><br>Ollama有些落后，现在LM Studio支持MLX格式模型并自带聊天UI🛠️。<br><br>测试了千问的视觉模型的 3 个型号，复杂识别一般，简单场景还行👀。<br><br>现在MLX的开源库发展生机勃勃，例如mlx-lm, mlx-whisper。<br><br>ollama不要偷懒啊！ <a href=\"https://t.co/5AQ5R2a7VO\">https://t.co/5AQ5R2a7VO</a><br>(<a href=\"https://x.com/LinearUncle/status/1848208380655255719?t=DClXsk6SURi4s_sLyJ71RA&amp;s=03\">https://x.com/LinearUncle/status/1848208380655255719?t=DClXsk6SURi4s_sLyJ71RA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1928e2aef24d00cb": {
+    "id": "1928e2aef24d00cb",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "TuringPost (@TheTuringPost) posted at 6:11 PM on Mon, Oct 14, 2024: 6. Original paper: https://t.co/fHrj6mSqsN GitHub: https://t.co/iTXMquVHRv Baichuan Inc, @Westlake_Uni, @ZJU_China https://t.co/",
+    "internal_date": "1728962032000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 14 Oct 2024 20:13:52 -0700",
+      "subject": "Post from TuringPost (@TheTuringPost)"
+    },
+    "plain_text": "TuringPost (@TheTuringPost) posted at 6:11 PM on Mon, Oct 14, 2024:\r\n6. Original paper: https://t.co/fHrj6mSqsN\r\nGitHub: https://t.co/iTXMquVHRv\r\n\r\nBaichuan Inc, @Westlake_Uni, @ZJU_China https://t.co/IxwqGV3nEf\r\n(\r\nhttps://x.com/TheTuringPost/status/1845995803862773910?t=Hd_Dsm-YztU1HMhm-oCufg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">TuringPost (@TheTuringPost) posted at 6:11 PM on Mon, Oct 14, 2024:<br>6. Original paper: <a href=\"https://t.co/fHrj6mSqsN\">https://t.co/fHrj6mSqsN</a><br>GitHub: <a href=\"https://t.co/iTXMquVHRv\">https://t.co/iTXMquVHRv</a><br><br>Baichuan Inc, @Westlake_Uni, @ZJU_China <a href=\"https://t.co/IxwqGV3nEf\">https://t.co/IxwqGV3nEf</a><br>(<a href=\"https://x.com/TheTuringPost/status/1845995803862773910?t=Hd_Dsm-YztU1HMhm-oCufg&amp;s=03\">https://x.com/TheTuringPost/status/1845995803862773910?t=Hd_Dsm-YztU1HMhm-oCufg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1923998e7242c0be": {
+    "id": "1923998e7242c0be",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Huang (@tuturetom) posted at 6:35 PM on Fri, Sep 27, 2024: 10 行代码即可基于 Meta 最新的 Llama 3.2 进行后训练？还能使用自己的数据集！⚡️ Huggingface 发布的 trl 开源库支持了 sft_vlm 脚本！支持对 11B 的多模态模型进行微调🔥 微调脚本开源代码 👉 https://t.co/",
+    "internal_date": "1727543176000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 28 Sep 2024 10:06:16 -0700",
+      "subject": "Post from Tom Huang (@tuturetom)"
+    },
+    "plain_text": "Tom Huang (@tuturetom) posted at 6:35 PM on Fri, Sep 27, 2024:\r\n10 行代码即可基于 Meta 最新的 Llama 3.2 进行后训练？还能使用自己的数据集！⚡️\r\n\r\nHuggingface 发布的 trl 开源库支持了 sft_vlm 脚本！支持对 11B 的多模态模型进行微调🔥\r\n\r\n微调脚本开源代码 👉 https://t.co/o1seLclUjc https://t.co/fgrlg5n3GZ\r\n(\r\nhttps://x.com/tuturetom/status/1839841204315566399?t=p5GeGLwnadbQVhVdC-p-iQ&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Huang (@tuturetom) posted at 6:35 PM on Fri, Sep 27, 2024:<br>10 行代码即可基于 Meta 最新的 Llama 3.2 进行后训练？还能使用自己的数据集！⚡️<br><br>Huggingface 发布的 trl 开源库支持了 sft_vlm 脚本！支持对 11B 的多模态模型进行微调🔥<br><br>微调脚本开源代码 👉 <a href=\"https://t.co/o1seLclUjc\">https://t.co/o1seLclUjc</a> <a href=\"https://t.co/fgrlg5n3GZ\">https://t.co/fgrlg5n3GZ</a><br>(<a href=\"https://x.com/tuturetom/status/1839841204315566399?t=p5GeGLwnadbQVhVdC-p-iQ&amp;s=03\">https://x.com/tuturetom/status/1839841204315566399?t=p5GeGLwnadbQVhVdC-p-iQ&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "19239720ee4d8e1a": {
+    "id": "19239720ee4d8e1a",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Kalyan KS (@kalyan_kpl) posted at 7:32 PM on Fri, Sep 27, 2024: 7 LLM Generation Parameters To Know - max_tokens - temperature - top_p - top_k - frequency penalty - presence penalty - stop sequence #",
+    "internal_date": "1727540631000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Sat, 28 Sep 2024 09:23:51 -0700",
+      "subject": "Post from Kalyan KS (@kalyan_kpl)"
+    },
+    "plain_text": "Kalyan KS (@kalyan_kpl) posted at 7:32 PM on Fri, Sep 27, 2024:\r\n7 LLM Generation Parameters To Know\r\n\r\n- max_tokens\r\n- temperature\r\n- top_p\r\n- top_k\r\n- frequency penalty\r\n- presence penalty\r\n- stop sequence\r\n\r\n#llms #parameters #nlproc #textgeneration #deeplearning\r\nhttps://t.co/LEixr3a1Nv\r\n(\r\nhttps://x.com/kalyan_kpl/status/1839855780130107462?t=2b9-a94nPH_3OylvyvALUg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Kalyan KS (@kalyan_kpl) posted at 7:32 PM on Fri, Sep 27, 2024:<br>7 LLM Generation Parameters To Know<br><br>- max_tokens<br>- temperature<br>- top_p<br>- top_k<br>- frequency penalty<br>- presence penalty<br>- stop sequence<br><br>#llms #parameters #nlproc #textgeneration #deeplearning <a href=\"https://t.co/LEixr3a1Nv\">https://t.co/LEixr3a1Nv</a><br>(<a href=\"https://x.com/kalyan_kpl/status/1839855780130107462?t=2b9-a94nPH_3OylvyvALUg&amp;s=03\">https://x.com/kalyan_kpl/status/1839855780130107462?t=2b9-a94nPH_3OylvyvALUg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1923148621b83746": {
+    "id": "1923148621b83746",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Yangqing Jia (@jiayq) posted at 10:59 AM on Thu, Sep 26, 2024: We&#39;ve been amazed by the @OpenAI voice mode experience and the @AIatMeta llama 3.2 release. And how about combining them together?",
+    "internal_date": "1727403680000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Thu, 26 Sep 2024 19:21:20 -0700",
+      "subject": "Post from Yangqing Jia (@jiayq)"
+    },
+    "plain_text": "Yangqing Jia (@jiayq) posted at 10:59 AM on Thu, Sep 26, 2024:\r\nWe've been amazed by the @OpenAI voice mode experience and the @AIatMeta\r\nllama 3.2 release. And how about combining them together?\r\n\r\nExcited to share that the Lepton LLM engine now natively supports voice\r\ninput and output for open source models - with a time to first audio\r\n(\r\nhttps://x.com/jiayq/status/1839364177485607185?t=5sOb9dNlRrCaYBw_ENhI3Q&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Yangqing Jia (@jiayq) posted at 10:59 AM on Thu, Sep 26, 2024:<br>We&#39;ve been amazed by the @OpenAI voice mode experience and the @AIatMeta llama 3.2 release. And how about combining them together?<br><br>Excited to share that the Lepton LLM engine now natively supports voice input and output for open source models - with a time to first audio<br>(<a href=\"https://x.com/jiayq/status/1839364177485607185?t=5sOb9dNlRrCaYBw_ENhI3Q&amp;s=03\">https://x.com/jiayq/status/1839364177485607185?t=5sOb9dNlRrCaYBw_ENhI3Q&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1922fd75f4b1b31a": {
+    "id": "1922fd75f4b1b31a",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "AIGCLINK (@aigclink) posted at 2:15 AM on Thu, Sep 26, 2024: 很有意思的一个项目，用Excel手动实现AI算法练习：ai-by-hand-excel，在Excel里体验AI的魅力 目前包含了softmax、LeakyReLU、反向传播、Transformer 和循环神经网络 (RNN) 等 后面会增加自注意力、多层感知器 (MLP) 和生成",
+    "internal_date": "1727379495000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Thu, 26 Sep 2024 12:38:15 -0700",
+      "subject": "Post from AIGCLINK (@aigclink)"
+    },
+    "plain_text": "AIGCLINK (@aigclink) posted at 2:15 AM on Thu, Sep 26, 2024:\r\n很有意思的一个项目，用Excel手动实现AI算法练习：ai-by-hand-excel，在Excel里体验AI的魅力\r\n\r\n目前包含了softmax、LeakyReLU、反向传播、Transformer 和循环神经网络 (RNN) 等\r\n\r\n后面会增加自注意力、多层感知器 (MLP) 和生成对抗网络 (GAN) 等\r\n\r\ngithub：https://t.co/GcHbjVFi0y\r\n\r\n#AI算法 #AI算法学习 https://t.co/CwvCEPl3e6\r\n(\r\nhttps://x.com/aigclink/status/1839232237558182076?t=eGwR_9gJFCQPSe4I1-hSRg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">AIGCLINK (@aigclink) posted at 2:15 AM on Thu, Sep 26, 2024:<br>很有意思的一个项目，用Excel手动实现AI算法练习：ai-by-hand-excel，在Excel里体验AI的魅力<br><br>目前包含了softmax、LeakyReLU、反向传播、Transformer 和循环神经网络 (RNN) 等<br><br>后面会增加自注意力、多层感知器 (MLP) 和生成对抗网络 (GAN) 等<br><br>github：<a href=\"https://t.co/GcHbjVFi0y\">https://t.co/GcHbjVFi0y</a><br><br>#AI算法 #AI算法学习 <a href=\"https://t.co/CwvCEPl3e6\">https://t.co/CwvCEPl3e6</a><br>(<a href=\"https://x.com/aigclink/status/1839232237558182076?t=eGwR_9gJFCQPSe4I1-hSRg&amp;s=03\">https://x.com/aigclink/status/1839232237558182076?t=eGwR_9gJFCQPSe4I1-hSRg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1922d0a8e8c01cc0": {
+    "id": "1922d0a8e8c01cc0",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 5:21 PM on Wed, Sep 25, 2024: Llama 3.2 视觉模型最新应用方向: Napkins https://t.co/xmBywgvBLW 是一个开源的线框图到应用生成器, 它的核心功能是接收用户上传的线框图或草图, 然后利用 AI 技术将其转换为可运行的 Web 应用程序, 大大加速原型设计和开发过程。",
+    "internal_date": "1727332520000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 25 Sep 2024 23:35:20 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 5:21 PM on Wed, Sep 25, 2024:\r\nLlama 3.2 视觉模型最新应用方向: Napkins\r\n\r\nhttps://t.co/xmBywgvBLW 是一个开源的线框图到应用生成器, 它的核心功能是接收用户上传的线框图或草图, 然后利用 AI\r\n技术将其转换为可运行的 Web 应用程序, 大大加速原型设计和开发过程。\r\n\r\n技术栈:\r\n- Meta Llama 3.1 405B 作为主要语言模型\r\n- Meta Llama https://t.co/3TCEDzHsMk\r\n(\r\nhttps://x.com/shao__meng/status/1839097896970629193?t=1WaM4Y6LNVAU_KPX7yJNCA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 5:21 PM on Wed, Sep 25, 2024:<br>Llama 3.2 视觉模型最新应用方向: Napkins<br><br><a href=\"https://t.co/xmBywgvBLW\">https://t.co/xmBywgvBLW</a> 是一个开源的线框图到应用生成器, 它的核心功能是接收用户上传的线框图或草图, 然后利用 AI 技术将其转换为可运行的 Web 应用程序, 大大加速原型设计和开发过程。<br><br>技术栈:<br>- Meta Llama 3.1 405B 作为主要语言模型<br>- Meta Llama <a href=\"https://t.co/3TCEDzHsMk\">https://t.co/3TCEDzHsMk</a><br>(<a href=\"https://x.com/shao__meng/status/1839097896970629193?t=1WaM4Y6LNVAU_KPX7yJNCA&amp;s=03\">https://x.com/shao__meng/status/1839097896970629193?t=1WaM4Y6LNVAU_KPX7yJNCA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1922d0a64f799829": {
+    "id": "1922d0a64f799829",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Huang (@tuturetom) posted at 7:00 PM on Wed, Sep 25, 2024: Meta 正在定义 LLM 时代的 PyTorch？⚡️🤯🤯 宣布正式开源 Llama Stack，短时间飙升 648 Star 🔥 Llama Stack 将 LLM 应用构建生成周期的所有组件打包，包括训练、微调、产品评估、观测、Agent &amp; Memory、合成",
+    "internal_date": "1727332510000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 25 Sep 2024 23:35:10 -0700",
+      "subject": "Post from Tom Huang (@tuturetom)"
+    },
+    "plain_text": "Tom Huang (@tuturetom) posted at 7:00 PM on Wed, Sep 25, 2024:\r\nMeta 正在定义 LLM 时代的 PyTorch？⚡️🤯🤯 宣布正式开源 Llama Stack，短时间飙升 648 Star 🔥\r\n\r\nLlama Stack 将 LLM 应用构建生成周期的所有组件打包，包括训练、微调、产品评估、观测、Agent &\r\nMemory、合成数据生成等，并支持 9+ 提供商💪\r\n\r\n源代码 👉 https://t.co/fcsGWb7JMm\r\n(\r\nhttps://x.com/tuturetom/status/1839122960948539415?t=53Rk8TcILjSGEQR4RLlWsA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Huang (@tuturetom) posted at 7:00 PM on Wed, Sep 25, 2024:<br>Meta 正在定义 LLM 时代的 PyTorch？⚡️🤯🤯 宣布正式开源 Llama Stack，短时间飙升 648 Star 🔥<br><br>Llama Stack 将 LLM 应用构建生成周期的所有组件打包，包括训练、微调、产品评估、观测、Agent &amp; Memory、合成数据生成等，并支持 9+ 提供商💪<br><br>源代码 👉 <a href=\"https://t.co/fcsGWb7JMm\">https://t.co/fcsGWb7JMm</a><br>(<a href=\"https://x.com/tuturetom/status/1839122960948539415?t=53Rk8TcILjSGEQR4RLlWsA&amp;s=03\">https://x.com/tuturetom/status/1839122960948539415?t=53Rk8TcILjSGEQR4RLlWsA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1922d09f40b85f3c": {
+    "id": "1922d09f40b85f3c",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Kai-Fu Lee (@kaifulee) posted at 9:01 PM on Wed, Sep 25, 2024: What just happened at OpenAI??? Here is my favorite &quot;reporter&quot; reporting and summarizing recent events. https://t.co/I3rsBQm2mE",
+    "internal_date": "1727332481000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 25 Sep 2024 23:34:41 -0700",
+      "subject": "Post from Kai-Fu Lee (@kaifulee)"
+    },
+    "plain_text": "Kai-Fu Lee (@kaifulee) posted at 9:01 PM on Wed, Sep 25, 2024:\r\nWhat just happened at OpenAI???  Here is my favorite \"reporter\" reporting\r\nand summarizing recent events.\r\n\r\nhttps://t.co/I3rsBQm2mE\r\n(\r\nhttps://x.com/kaifulee/status/1839153300572352921?t=HRwn6Q0-mb9SyfpL-agMhA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Kai-Fu Lee (@kaifulee) posted at 9:01 PM on Wed, Sep 25, 2024:<br>What just happened at OpenAI???  Here is my favorite &quot;reporter&quot; reporting and summarizing recent events.<br><br><a href=\"https://t.co/I3rsBQm2mE\">https://t.co/I3rsBQm2mE</a><br>(<a href=\"https://x.com/kaifulee/status/1839153300572352921?t=HRwn6Q0-mb9SyfpL-agMhA&amp;s=03\">https://x.com/kaifulee/status/1839153300572352921?t=HRwn6Q0-mb9SyfpL-agMhA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1922cfe391bc3ff1": {
+    "id": "1922cfe391bc3ff1",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Huang (@tuturetom) posted at 7:07 PM on Wed, Sep 25, 2024: Llama Stack 技术架构一览 ⚡️ 新一轮 LLMOps &amp; Infra 开始角逐 🤔 Llama Stack 开源地址 👉 https://t.co/fcsGWb7JMm https://t.co/fnBu4Swfbn (https://x.com/",
+    "internal_date": "1727331712000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 25 Sep 2024 23:21:52 -0700",
+      "subject": "Post from Tom Huang (@tuturetom)"
+    },
+    "plain_text": "Tom Huang (@tuturetom) posted at 7:07 PM on Wed, Sep 25, 2024:\r\nLlama Stack 技术架构一览 ⚡️ 新一轮 LLMOps & Infra 开始角逐 🤔\r\n\r\nLlama Stack 开源地址 👉 https://t.co/fcsGWb7JMm https://t.co/fnBu4Swfbn\r\n(\r\nhttps://x.com/tuturetom/status/1839124585670947023?t=9To-rc9HKkCHYft-JBqQvw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Huang (@tuturetom) posted at 7:07 PM on Wed, Sep 25, 2024:<br>Llama Stack 技术架构一览 ⚡️ 新一轮 LLMOps &amp; Infra 开始角逐 🤔<br><br>Llama Stack 开源地址 👉 <a href=\"https://t.co/fcsGWb7JMm\">https://t.co/fcsGWb7JMm</a> <a href=\"https://t.co/fnBu4Swfbn\">https://t.co/fnBu4Swfbn</a><br>(<a href=\"https://x.com/tuturetom/status/1839124585670947023?t=9To-rc9HKkCHYft-JBqQvw&amp;s=03\">https://x.com/tuturetom/status/1839124585670947023?t=9To-rc9HKkCHYft-JBqQvw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "1922a965beb632df": {
+    "id": "1922a965beb632df",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Jim Fan (@DrJimFan) posted at 11:42 AM on Wed, Sep 25, 2024: I just pulled the numbers on vision-language benchmarks for Llama-3.2-11B (vision). Surprisingly, the open-source community at large isn",
+    "internal_date": "1727291350000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Wed, 25 Sep 2024 12:09:10 -0700",
+      "subject": "Post from Jim Fan (@DrJimFan)"
+    },
+    "plain_text": "Jim Fan (@DrJimFan) posted at 11:42 AM on Wed, Sep 25, 2024:\r\nI just pulled the numbers on vision-language benchmarks for Llama-3.2-11B\r\n(vision). Surprisingly, the open-source community at large isn't behind in\r\nthe lightweight model class! Pixtral, Qwen2-VL, Molmo, and InternVL2 all\r\nstand strong. OSS AI models have never been stronger.\r\n\r\nThe https://t.co/NQaVVggNcU\r\n(\r\nhttps://x.com/DrJimFan/status/1839012622441787430?t=T3bmOCbh0H26HRaPM7SAiw&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Jim Fan (@DrJimFan) posted at 11:42 AM on Wed, Sep 25, 2024:<br>I just pulled the numbers on vision-language benchmarks for Llama-3.2-11B (vision). Surprisingly, the open-source community at large isn&#39;t behind in the lightweight model class! Pixtral, Qwen2-VL, Molmo, and InternVL2 all stand strong. OSS AI models have never been stronger.<br><br>The <a href=\"https://t.co/NQaVVggNcU\">https://t.co/NQaVVggNcU</a><br>(<a href=\"https://x.com/DrJimFan/status/1839012622441787430?t=T3bmOCbh0H26HRaPM7SAiw&amp;s=03\">https://x.com/DrJimFan/status/1839012622441787430?t=T3bmOCbh0H26HRaPM7SAiw&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "19222379902e02e8": {
+    "id": "19222379902e02e8",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Huang (@tuturetom) posted at 7:02 PM on Sun, Sep 22, 2024: 阿里最近发布的 QWen 2.5 70B 有点牛逼🐂🍺 在 LiveBench Coding 榜单上已经拿下第二！超越 gpt-4o 和最近发布的半成品 O1-preview 🤪 LiveBench 是英伟达，NYU，@ylecun 等人发起的权威榜单，评定有挑战性任务的模型",
+    "internal_date": "1727150923000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 23 Sep 2024 21:08:43 -0700",
+      "subject": "Post from Tom Huang (@tuturetom)"
+    },
+    "plain_text": "Tom Huang (@tuturetom) posted at 7:02 PM on Sun, Sep 22, 2024:\r\n阿里最近发布的 QWen 2.5 70B 有点牛逼🐂🍺 在 LiveBench Coding 榜单上已经拿下第二！超越 gpt-4o\r\n和最近发布的半成品 O1-preview 🤪\r\n\r\nLiveBench 是英伟达，NYU，@ylecun 等人发起的权威榜单，评定有挑战性任务的模型得分\r\n\r\n榜单地址 👉 https://t.co/7Z2FixtvB2 https://t.co/SYVWB1lZ0r\r\n(\r\nhttps://x.com/tuturetom/status/1838036239603397071?t=UIO_Wv1KHiBCJK-1SuznSg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Huang (@tuturetom) posted at 7:02 PM on Sun, Sep 22, 2024:<br>阿里最近发布的 QWen 2.5 70B 有点牛逼🐂🍺 在 LiveBench Coding 榜单上已经拿下第二！超越 gpt-4o 和最近发布的半成品 O1-preview 🤪<br><br>LiveBench 是英伟达，NYU，@ylecun 等人发起的权威榜单，评定有挑战性任务的模型得分  <br><br>榜单地址 👉 <a href=\"https://t.co/7Z2FixtvB2\">https://t.co/7Z2FixtvB2</a> <a href=\"https://t.co/SYVWB1lZ0r\">https://t.co/SYVWB1lZ0r</a><br>(<a href=\"https://x.com/tuturetom/status/1838036239603397071?t=UIO_Wv1KHiBCJK-1SuznSg&amp;s=03\">https://x.com/tuturetom/status/1838036239603397071?t=UIO_Wv1KHiBCJK-1SuznSg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "19221f2c71f8d36e": {
+    "id": "19221f2c71f8d36e",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "meng shao (@shao__meng) posted at 4:54 PM on Mon, Sep 23, 2024: 从 LLM 到 LRM: OpenAI O1 模型在 PlanBench 上的规划能力评估 最新 LLMs 仍然无法规划, 大型推理模型 (LRM, OpenAI o1) 可以吗? 一起看看 👇 LLMs 的规划表现: - 最新的 LLMs 在普通 Blocksworld",
+    "internal_date": "1727146412000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Mon, 23 Sep 2024 19:53:32 -0700",
+      "subject": "Post from meng shao (@shao__meng)"
+    },
+    "plain_text": "meng shao (@shao__meng) posted at 4:54 PM on Mon, Sep 23, 2024:\r\n从 LLM 到 LRM: OpenAI O1 模型在 PlanBench 上的规划能力评估\r\n\r\n最新 LLMs 仍然无法规划, 大型推理模型 (LRM, OpenAI o1) 可以吗? 一起看看 👇\r\n\r\nLLMs 的规划表现:\r\n- 最新的 LLMs 在普通 Blocksworld 上有所进步, 最佳模型 (LLaMA 3.1 405B) 达到 62.5% 的准确率\r\n- 但在混淆版本 (Mystery Blocksworld) https://t.co/8YZg0v2yK3\r\n(\r\nhttps://x.com/shao__meng/status/1838366411389063616?t=jbXqWLf--KmI0_KDrC2vcg&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">meng shao (@shao__meng) posted at 4:54 PM on Mon, Sep 23, 2024:<br>从 LLM 到 LRM: OpenAI O1 模型在 PlanBench 上的规划能力评估<br><br>最新 LLMs 仍然无法规划, 大型推理模型 (LRM, OpenAI o1) 可以吗? 一起看看 👇<br><br>LLMs 的规划表现:<br>- 最新的 LLMs 在普通 Blocksworld 上有所进步, 最佳模型 (LLaMA 3.1 405B) 达到 62.5% 的准确率<br>- 但在混淆版本 (Mystery Blocksworld) <a href=\"https://t.co/8YZg0v2yK3\">https://t.co/8YZg0v2yK3</a><br>(<a href=\"https://x.com/shao__meng/status/1838366411389063616?t=jbXqWLf--KmI0_KDrC2vcg&amp;s=03\">https://x.com/shao__meng/status/1838366411389063616?t=jbXqWLf--KmI0_KDrC2vcg&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  },
+  "192124fc66236e00": {
+    "id": "192124fc66236e00",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_2953957888904526014",
+      "SENT",
+      "INBOX"
+    ],
+    "snippet": "Tom Huang (@tuturetom) posted at 8:16 PM on Mon, Sep 16, 2024: 275+ 插画，12+ 章节，吴恩达力荐！⚡️完美呈现 LLM 工业级应用，提供完整可运行的代码和 Paper 引用🤯🤯，这本 《实践大语言模型》也太好了🔥 介绍包括语言模型、Prompt Engineering、RAG、多模态、微调等核心工程实践技术，每章提供完整可运行的",
+    "internal_date": "1726884071000",
+    "headers": {
+      "mime-version": "1.0",
+      "date": "Fri, 20 Sep 2024 19:01:11 -0700",
+      "subject": "Post from Tom Huang (@tuturetom)"
+    },
+    "plain_text": "Tom Huang (@tuturetom) posted at 8:16 PM on Mon, Sep 16, 2024:\r\n275+ 插画，12+ 章节，吴恩达力荐！⚡️完美呈现 LLM 工业级应用，提供完整可运行的代码和 Paper 引用🤯🤯，这本\r\n《实践大语言模型》也太好了🔥\r\n\r\n介绍包括语言模型、Prompt Engineering、RAG、多模态、微调等核心工程实践技术，每章提供完整可运行的代码和环境配置\r\n\r\n书籍代码👉 https://t.co/QTcuP31CjZ https://t.co/HY8Q9SJrIw\r\n(\r\nhttps://x.com/tuturetom/status/1835880356475724141?t=KldLH9XhzZ6TVotOPrUbeA&s=03\r\n)\r\n",
+    "html": "<div dir=\"auto\">Tom Huang (@tuturetom) posted at 8:16 PM on Mon, Sep 16, 2024:<br>275+ 插画，12+ 章节，吴恩达力荐！⚡️完美呈现 LLM 工业级应用，提供完整可运行的代码和 Paper 引用🤯🤯，这本 《实践大语言模型》也太好了🔥<br><br>介绍包括语言模型、Prompt Engineering、RAG、多模态、微调等核心工程实践技术，每章提供完整可运行的代码和环境配置<br><br>书籍代码👉 <a href=\"https://t.co/QTcuP31CjZ\">https://t.co/QTcuP31CjZ</a> <a href=\"https://t.co/HY8Q9SJrIw\">https://t.co/HY8Q9SJrIw</a><br>(<a href=\"https://x.com/tuturetom/status/1835880356475724141?t=KldLH9XhzZ6TVotOPrUbeA&amp;s=03\">https://x.com/tuturetom/status/1835880356475724141?t=KldLH9XhzZ6TVotOPrUbeA&amp;s=03</a>) </div>\r\n",
+    "attachments": [],
+    "label_name": "LLM",
+    "label_id": "Label_2953957888904526014"
+  }
+}

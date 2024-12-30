@@ -1,0 +1,1708 @@
+{
+  "192eab2db6236874": {
+    "email_id": "192eab2db6236874",
+    "post_labels": [
+      "LLM/inference"
+    ],
+    "post_content_cn": "Tom Dörr (@tom_doerr) 于2024年10月31日星期四下午5:19发布：\n虽然我确信405B和8GB显存不会以火箭速度运行",
+    "post_content_en": "Tom Dörr (@tom_doerr) posted at 5:19 PM on Thu, Oct 31, 2024:\nThough I'm sure 405B with 8GB vram won't be running at rocket speed",
+    "link_lists": [
+      "https://t.co/1AztdJExTZ",
+      "https://x.com/tom_doerr/status/1852143317636780044?t=xpEu7KWNWjCXmHqHBnTc2g&s=03"
+    ],
+    "post_summary_cn": "Tom Dörr 提到405B和8GB显存不会以极速运行。",
+    "post_summary_en": "Tom Dörr mentioned that 405B with 8GB vram won't run at rocket speed.",
+    "post_datetime": "2024-11-01T19:27:22-07:00",
+    "source_language": "en",
+    "confidence_score": 0.95
+  },
+  "192f3dbdcbf233dd": {
+    "email_id": "192f3dbdcbf233dd",
+    "post_labels": [
+      "LLM/OCR"
+    ],
+    "post_content_cn": "阅读 Datadrifters 在 Medium 上的文章《Llama 3.2-Vision for High-Precision OCR with Ollama》",
+    "post_content_en": "Read “Llama 3.2-Vision for High-Precision OCR with Ollama“ by Datadrifters on Medium",
+    "link_lists": [
+      "https://medium.com/@datadrifters/llama-3-2-vision-for-high-precision-ocr-with-ollama-472222da0ab5"
+    ],
+    "post_summary_cn": "Datadrifters 在 Medium 上发布了一篇关于使用 Llama 3.2-Vision 和 Ollama 进行高精度 OCR 的文章。",
+    "post_summary_en": "Datadrifters published an article on Medium about using Llama 3.2-Vision and Ollama for high-precision OCR.",
+    "post_datetime": "2024-03-11T13:08:45-08:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "192895e02386c8fd": {
+    "email_id": "192895e02386c8fd",
+    "post_labels": [
+      "LLM/OCR"
+    ],
+    "post_content_cn": "Tom Dörr (@tom_doerr) 于2024年10月13日星期日上午11:08发布：OCR工具包",
+    "post_content_en": "Tom Dörr (@tom_doerr) posted at 11:08 AM on Sun, Oct 13, 2024: OCR toolkit",
+    "link_lists": [
+      "https://t.co/ui7ScfoEFD",
+      "https://x.com/tom_doerr/status/1845527077795311623?t=YJ2DVR1JKU6RdtUvBMaN-w&s=03"
+    ],
+    "post_summary_cn": "Tom Dörr 发布了一个关于OCR工具包的帖子。",
+    "post_summary_en": "Tom Dörr posted about an OCR toolkit.",
+    "post_datetime": "2024-10-13T21:51:32-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "192017092e1b4935": {
+    "email_id": "192017092e1b4935",
+    "post_labels": [
+      "LLM",
+      "OCR"
+    ],
+    "post_content_cn": "这个很有意思！基于 QWen2 0.5 B 模型。号称 OCR 2.0，580M 参数的端到端 OCR 模型，拿到了 BLEU 0.972 分数🔥\n\n0.58B 模型，还是端到端的多模态🤔 这个效果有点离谱，感兴趣的可以试试",
+    "post_content_en": "This is very interesting! Based on the QWen2 0.5 B model. It claims to be OCR 2.0, an end-to-end OCR model with 580M parameters, achieving a BLEU score of 0.972🔥\n\nA 0.58B model, and it's end-to-end multimodal🤔 The results are a bit unbelievable, interested parties can give it a try.",
+    "link_lists": [
+      "https://t.co/TxM511I8vV",
+      "https://t.co/WIiiaZEXxY",
+      "https://t.co/YD9kAfMiBS",
+      "https://x.com/tuturetom/status/1835166243323887646?t=G3ScUkhJVkIyx5scb7oj-w&s=03"
+    ],
+    "post_summary_cn": "基于 QWen2 0.5 B 模型的 OCR 2.0，拥有 580M 参数，BLEU 分数达到 0.972，效果惊人。",
+    "post_summary_en": "OCR 2.0 based on the QWen2 0.5 B model, with 580M parameters, achieves a BLEU score of 0.972, with impressive results.",
+    "post_datetime": "2024-09-17T12:23:27-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1922d0d014b9e3ae": {
+    "email_id": "1922d0d014b9e3ae",
+    "post_labels": [
+      "LLM/edge"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 5:12 PM on Wed, Sep 25, 2024:\n高通携手 Meta 推 Llama 3.2: 设备端 AI 的重大突破\n@Qualcomm x @AIatMeta\n\n高通与 Meta 合作, 优化了 Llama 3.2 系列模型, 使它能在搭载骁龙 @Snapdragon 平台的设备上运行, 这一合作旨在推进设备端\nAI 的发展。\n\n高通提供了多种工具和资源, 帮助开发者在骁龙平台上优化和部署 Llama 3.2:\n- Ollama",
+    "post_content_en": "meng shao (@shao__meng) posted at 5:12 PM on Wed, Sep 25, 2024:\nQualcomm collaborates with Meta to launch Llama 3.2: A major breakthrough in on-device AI\n@Qualcomm x @AIatMeta\n\nQualcomm and Meta have collaborated to optimize the Llama 3.2 series models, enabling them to run on devices equipped with the Snapdragon @Snapdragon platform. This collaboration aims to advance the development of on-device AI.\n\nQualcomm provides various tools and resources to help developers optimize and deploy Llama 3.2 on the Snapdragon platform:\n- Ollama",
+    "link_lists": [
+      "https://t.co/yNjiw0hBDs",
+      "https://x.com/shao__meng/status/1839095670571151753?t=3VzOSQaBw1PJSIc8mTGnFw&s=03"
+    ],
+    "post_summary_cn": "高通与 Meta 合作优化 Llama 3.2 模型，使其能在骁龙平台上运行，推动设备端 AI 发展，并提供工具帮助开发者优化和部署。",
+    "post_summary_en": "Qualcomm and Meta collaborate to optimize Llama 3.2 for Snapdragon platforms, advancing on-device AI and providing tools for developers.",
+    "post_datetime": "2024-09-25T23:38:00-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1911a21f6ff55c59": {
+    "email_id": "1911a21f6ff55c59",
+    "post_labels": [
+      "LLM/edge"
+    ],
+    "post_content_cn": "Tom Huang (@tuturetom) posted at 9:12 AM on Sat, Aug 03, 2024:\n直接在树莓派上运行端侧向量数据库并进行端侧的 「语义相似度匹配」🤯🤯\n\nSQLite-vec 也太酷了！兼容 OpenAI Embedding 接口的实现，支持离线 Embedding",
+    "post_content_en": "Tom Huang (@tuturetom) posted at 9:12 AM on Sat, Aug 03, 2024:\nRun a vector database directly on the Raspberry Pi and perform on-device \"semantic similarity matching\" 🤯🤯\n\nSQLite-vec is so cool! It is compatible with the OpenAI Embedding interface and supports offline Embedding",
+    "link_lists": [
+      "https://t.co/jccppCPBX6",
+      "https://x.com/tuturetom/status/1819768397900681355?t=scoy-2K5x_I5bxaZ4Qomzg&s=03"
+    ],
+    "post_summary_cn": "Tom Huang 在树莓派上运行端侧向量数据库并进行语义相似度匹配，介绍了支持离线 Embedding 的 SQLite-vec。",
+    "post_summary_en": "Tom Huang runs a vector database on the Raspberry Pi for semantic similarity matching and introduces SQLite-vec, which supports offline Embedding.",
+    "post_datetime": "2024-03-08T14:25:15-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192eab0114bb7dc3": {
+    "email_id": "192eab0114bb7dc3",
+    "post_labels": [
+      "LLM/meeting"
+    ],
+    "post_content_cn": "AIGCLINK (@aigclink) posted at 0:32 AM on Fri, Nov 01, 2024:\n一款基于Langflow、Groq、OpenAI构建的智能会议分析助手：meetingmind，它可以用30秒分析一小时的会议，自动生成会议记录和关键信息\n\n特点：\n1、提供仪表板查看分析结果\n2、支持音频录制和文件上传，自动转录\n3、自动提取关键信息，任务、决策、问题、洞察、截止日期、参与者、后续行动、风险和议程等",
+    "post_content_en": "AIGCLINK (@aigclink) posted at 0:32 AM on Fri, Nov 01, 2024:\nAn intelligent meeting analysis assistant built on Langflow, Groq, and OpenAI: meetingmind, which can analyze a one-hour meeting in 30 seconds, automatically generating meeting minutes and key information.\n\nFeatures:\n1. Provides a dashboard to view analysis results\n2. Supports audio recording and file upload, automatically transcribing\n3. Automatically extracts key information such as tasks, decisions, issues, insights, deadlines, participants, follow-ups, risks, and agendas",
+    "link_lists": [
+      "https://t.co/5qHx8eY9Pi",
+      "https://x.com/aigclink/status/1852252263877873898?t=HVSOB8RG7YQ2AKgKTfRMlQ&s=03"
+    ],
+    "post_summary_cn": "AIGCLINK发布了一款基于Langflow、Groq、OpenAI的智能会议分析助手meetingmind，能在30秒内分析一小时会议，自动生成会议记录和关键信息，支持音频录制、文件上传和自动转录，并提取任务、决策、问题等关键信息。",
+    "post_summary_en": "AIGCLINK introduced an intelligent meeting analysis assistant, meetingmind, built on Langflow, Groq, and OpenAI. It can analyze a one-hour meeting in 30 seconds, automatically generating meeting minutes and key information. It supports audio recording, file upload, automatic transcription, and extracts key information such as tasks, decisions, and issues.",
+    "post_datetime": "2024-01-11T19:24:20-07:00",
+    "source_language": "cn",
+    "confidence_score": 1.0
+  },
+  "192fad0282d9a104": {
+    "email_id": "192fad0282d9a104",
+    "post_labels": [
+      "LLM/annotation"
+    ],
+    "post_content_cn": "Tom Dörr (@tom_doerr) 于2024年11月4日星期一上午7:39发布：\n\"Label Studio 是一个多类型数据标注和注释工具，具有标准化输出格式\"",
+    "post_content_en": "Tom Dörr (@tom_doerr) posted at 7:39 AM on Mon, Nov 04, 2024:\n\"Label Studio is a multi-type data labeling and annotation tool with standardized output format\"",
+    "link_lists": [
+      "https://t.co/l8jmkviFfd",
+      "https://x.com/tom_doerr/status/1853462058387583234?t=v0RtFooqGnIyJ327Ggzo0w&s=03"
+    ],
+    "post_summary_cn": "Tom Dörr 介绍了 Label Studio，一个多类型数据标注和注释工具，具有标准化输出格式。",
+    "post_summary_en": "Tom Dörr introduced Label Studio, a multi-type data labeling and annotation tool with standardized output format.",
+    "post_datetime": "2024-04-11T21:33:20-08:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "1936c211dd9acd6f": {
+    "email_id": "1936c211dd9acd6f",
+    "post_labels": [
+      "LLM/front-end"
+    ],
+    "post_content_cn": "AIGCLINK (@aigclink) posted at 6:13 PM on Tue, Nov 26, 2024:\n蚂蚁集团开源的一个可以快速构建AI聊天界面的工具包：Ant Design\nX，用它可以快速搭建出类似ChatGPT那种专业的对话界面，且可以轻松接入AI模型\n\n不用从零开始写代码，界面设计已经做好了，直接用就行\n支持自定义样式\n\n它可以用于各种需要和AI对话的应用，比如智能客服系统、AI助手、智能问答系统等",
+    "post_content_en": "AIGCLINK (@aigclink) posted at 6:13 PM on Tue, Nov 26, 2024:\nAnt Group has open-sourced a toolkit called Ant Design X that can quickly build AI chat interfaces. It can be used to quickly create professional dialogue interfaces similar to ChatGPT and can easily integrate AI models.\n\nNo need to write code from scratch; the interface design is already done and can be used directly.\nSupports custom styles.\n\nIt can be used in various applications that require AI dialogue, such as intelligent customer service systems, AI assistants, and intelligent Q&A systems.",
+    "link_lists": [
+      "https://t.co/XqYqi9nbSN",
+      "https://x.com/aigclink/status/1861594072743583942?t=-W8h4dOt5c3ZoQy7L4EEQg&s=03"
+    ],
+    "post_summary_cn": "蚂蚁集团开源了Ant Design X工具包，可快速构建类似ChatGPT的AI聊天界面，支持自定义样式，适用于智能客服、AI助手等应用。",
+    "post_summary_en": "Ant Group has open-sourced the Ant Design X toolkit, which can quickly build AI chat interfaces similar to ChatGPT, supports custom styles, and is suitable for applications like intelligent customer service and AI assistants.",
+    "post_datetime": "2024-11-26T21:38:50-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "19074e4198617737": {
+    "email_id": "19074e4198617737",
+    "post_labels": [
+      "LLM/front-end"
+    ],
+    "post_content_cn": "阅读Om Kamath在Medium上的文章《Did Google Just Kill Streamlit?》",
+    "post_content_en": "Read “Did Google Just Kill Streamlit?“ by Om Kamath on Medium",
+    "link_lists": [
+      "https://medium.com/google-cloud/did-google-just-kill-streamlit-76f719d9e275"
+    ],
+    "post_summary_cn": "Om Kamath在Medium上发布了一篇关于Google是否扼杀了Streamlit的文章。",
+    "post_summary_en": "Om Kamath published an article on Medium discussing whether Google has killed Streamlit.",
+    "post_datetime": "2024-02-07T12:20:25-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "1905f6b02ef2f58e": {
+    "email_id": "1905f6b02ef2f58e",
+    "post_labels": [
+      "LLM/front-end"
+    ],
+    "post_content_cn": "阅读Preston Blackburn在Medium上的文章“Streamlit vs HTMX — LLM Streaming Chatbots”",
+    "post_content_en": "Read “Streamlit vs HTMX — LLM Streaming Chatbots“ by Preston Blackburn on Medium",
+    "link_lists": [
+      "https://medium.com/@prestonblckbrn/streamlit-vs-htmx-llm-streaming-chatbots-783708e3cddb"
+    ],
+    "post_summary_cn": "Preston Blackburn在Medium上发表了关于Streamlit与HTMX在LLM流式聊天机器人中应用的文章。",
+    "post_summary_en": "Preston Blackburn published an article on Medium comparing Streamlit and HTMX in the context of LLM streaming chatbots.",
+    "post_datetime": "2024-06-28T08:16:06-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "18fe678380223406": {
+    "email_id": "18fe678380223406",
+    "post_labels": [
+      "LLM/front-end",
+      "LLM"
+    ],
+    "post_content_cn": "Jintao Zhang (@zhangjintao9020) 于2024年6月4日星期二上午5:50发布：\nGoogle 开源了个基于 Python 的 UI 框架 Mesop, 有点类似于 streamlit 和 Gradio 之类的组件。其中的示例看起来就是 Gemini 的样子了。这类组件可能更多就是为了能让人快速构建一个使用 #LLM API 的应用吧",
+    "post_content_en": "Jintao Zhang (@zhangjintao9020) posted at 5:50 AM on Tue, Jun 04, 2024:\nGoogle has open-sourced a Python-based UI framework called Mesop, which is somewhat similar to components like streamlit and Gradio. The examples look like Gemini. These components are probably more for quickly building applications that use #LLM APIs.",
+    "link_lists": [
+      "https://t.co/yWksBInzPh",
+      "https://x.com/zhangjintao9020/status/1797974187375821287?t=drGARnhWrdR5g0HPLsPeLg&s=03"
+    ],
+    "post_summary_cn": "Google 开源了一个基于 Python 的 UI 框架 Mesop，类似于 streamlit 和 Gradio，主要用于快速构建使用 #LLM API 的应用。",
+    "post_summary_en": "Google has open-sourced a Python-based UI framework called Mesop, similar to streamlit and Gradio, mainly for quickly building applications that use #LLM APIs.",
+    "post_datetime": "2024-04-06T20:36:30-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "193070131f9b93fb": {
+    "email_id": "193070131f9b93fb",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "阅读Leon Eversberg博士在Medium上的文章《如何从文档创建RAG评估数据集》。",
+    "post_content_en": "Read “How to Create a RAG Evaluation Dataset From Documents“ by Dr. Leon Eversberg on Medium.",
+    "link_lists": [
+      "https://towardsdatascience.com/how-to-create-a-rag-evaluation-dataset-from-documents-140daa3cbe71"
+    ],
+    "post_summary_cn": "Leon Eversberg博士在Medium上分享了如何从文档创建RAG评估数据集的方法。",
+    "post_summary_en": "Dr. Leon Eversberg shares a method on Medium for creating a RAG evaluation dataset from documents.",
+    "post_datetime": "2024-07-11T06:22:20-08:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "192def19a6b15af6": {
+    "email_id": "192def19a6b15af6",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "Braintrust (@braintrustdata) 于2024年10月29日星期二上午9:17发布。",
+    "post_content_en": "Braintrust (@braintrustdata) posted at 9:17 AM on Tue, Oct 29, 2024.",
+    "link_lists": [
+      "https://t.co/fdU8HG6Lql",
+      "https://x.com/braintrustdata/status/1851297307775623465?t=xtQh7SFyixLynAebI9FVMg&s=03"
+    ],
+    "post_summary_cn": "Braintrust (@braintrustdata) 在2024年10月29日发布了一条消息。",
+    "post_summary_en": "Braintrust (@braintrustdata) posted a message on October 29, 2024.",
+    "post_datetime": "2024-10-30T12:40:29-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "192deef375b504b3": {
+    "email_id": "192deef375b504b3",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "Jason Wei (@_jasonwei) 于2024年10月30日星期三上午10:45发布：\n很高兴开源一个新的幻觉评估工具SimpleQA！\n有一段时间感觉没有一个很好的基准来评估事实性，所以我们创建了一个简单、可靠且易于研究人员使用的评估工具。\nSimpleQA的主要特点：\n1. 非常简单的设置：",
+    "post_content_en": "Jason Wei (@_jasonwei) posted at 10:45 AM on Wed, Oct 30, 2024:\nExcited to open-source a new hallucinations eval called SimpleQA!\nFor a while it felt like there was no great benchmark for factuality, and so we created an eval that was simple, reliable, and easy-to-use for researchers.\nMain features of SimpleQA:\n1. Very simple setup:",
+    "link_lists": [
+      "https://t.co/ffsC9yshiF",
+      "https://x.com/_jasonwei/status/1851681730845118799?t=LOpHX_GGQJDKXjzpVIgunA&s=03"
+    ],
+    "post_summary_cn": "Jason Wei宣布开源新的幻觉评估工具SimpleQA，旨在提供一个简单、可靠且易于使用的基准来评估事实性。",
+    "post_summary_en": "Jason Wei announced the open-source release of SimpleQA, a new hallucinations evaluation tool designed to provide a simple, reliable, and easy-to-use benchmark for assessing factuality.",
+    "post_datetime": "2024-10-30T12:37:52-07:00",
+    "source_language": "en",
+    "confidence_score": 0.95
+  },
+  "192d6bd3eb6f9a0d": {
+    "email_id": "192d6bd3eb6f9a0d",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 0:31 AM on Mon, Oct 28, 2024:\n让 AI 更懂指令: RAG 系统的智能对齐方案\n\n这个项目包含了论文、数据和代码实现, 主要是 RAG 领域的指令对齐管道系统和自动评估基准测试系统:\n※ VIF-RAG: 一个创新的指令对齐管道系统\n※ FollowRAG: 一个自动评估基准测试系统\n\n主要内容:\n- VIF-RAG 是首个自动化、可扩展、可验证的数据合成管道",
+    "post_content_en": "meng shao (@shao__meng) posted at 0:31 AM on Mon, Oct 28, 2024:\nMaking AI Understand Instructions Better: Intelligent Alignment Solutions for RAG Systems\n\nThis project includes papers, data, and code implementations, mainly focusing on instruction alignment pipeline systems and automatic evaluation benchmark systems in the RAG field:\n※ VIF-RAG: An innovative instruction alignment pipeline system\n※ FollowRAG: An automatic evaluation benchmark system\n\nMain content:\n- VIF-RAG is the first automated, scalable, and verifiable data synthesis pipeline",
+    "link_lists": [
+      "https://t.co/fiviPvzQSv",
+      "https://x.com/shao__meng/status/1850802644761391420?t=imDLlCeUMOP_I-6jnNJ7Qg&s=03"
+    ],
+    "post_summary_cn": "meng shao 发布了一个关于 RAG 系统的智能对齐方案的项目，包含 VIF-RAG 和 FollowRAG 两个主要系统，旨在提高 AI 对指令的理解。",
+    "post_summary_en": "meng shao posted a project on intelligent alignment solutions for RAG systems, including VIF-RAG and FollowRAG, aimed at improving AI's understanding of instructions.",
+    "post_datetime": "2024-10-28T22:26:20-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192d185f6bde68e6": {
+    "email_id": "192d185f6bde68e6",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 5:20 AM on Sun, Oct 27, 2024:\nRAGChecker: 细粒度 RAG 诊断评估框架\n\n@AmazonScience 开源的一个专门用于评估 RAG 系统的综合性自动评估框架, 提供了一套完整的指标和工具, 用于深入分析 RAG 性能。\n\n※ 主要特色功能 ※\n\n全面的评估体系:\n- 整体指标: 评估完整 RAG 流程\n- 诊断性指标: 分别针对检索组件和生成组件\n- 细粒度评估:",
+    "post_content_en": "meng shao (@shao__meng) posted at 5:20 AM on Sun, Oct 27, 2024:\nRAGChecker: Fine-grained RAG Diagnostic Evaluation Framework\n\n@AmazonScience has open-sourced a comprehensive automatic evaluation framework specifically designed for evaluating RAG systems, providing a complete set of metrics and tools for in-depth analysis of RAG performance.\n\n※ Main Features ※\n\nComprehensive evaluation system:\n- Overall metrics: Evaluate the entire RAG process\n- Diagnostic metrics: Specifically for retrieval and generation components\n- Fine-grained evaluation:",
+    "link_lists": [
+      "https://t.co/0qX6oZOO5j",
+      "https://x.com/shao__meng/status/1850512837711659211?t=gMoftwD44-YANOdjqYhHow&s=03"
+    ],
+    "post_summary_cn": "meng shao 介绍了由 @AmazonScience 开源的 RAGChecker，这是一个用于评估 RAG 系统的综合性自动评估框架，提供全面的评估体系，包括整体指标、诊断性指标和细粒度评估。",
+    "post_summary_en": "meng shao introduced RAGChecker, an open-source comprehensive automatic evaluation framework by @AmazonScience for assessing RAG systems, offering a complete evaluation system including overall metrics, diagnostic metrics, and fine-grained evaluation.",
+    "post_datetime": "2024-10-27T22:07:50-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192c6fb5e9da181b": {
+    "email_id": "192c6fb5e9da181b",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 5:16 PM on Thu, Oct 24, 2024:\n子问题覆盖驱动的 RAG 系统优化\n\n来自 @SFResearch 的论文提出了一个新颖的评估框架, 主要聚焦于 \"子问题覆盖率\" 这个维度来评估 RAG 系统, 主要内容:\n- 将复杂问题分解为核心、背景和后续三类子问题\n- 提出了一个基于子问题覆盖的细粒度评估协议",
+    "post_content_en": "meng shao (@shao__meng) posted at 5:16 PM on Thu, Oct 24, 2024:\nSubproblem Coverage-Driven RAG System Optimization\n\nA paper from @SFResearch proposes a novel evaluation framework, focusing on the dimension of \"subproblem coverage\" to evaluate RAG systems. The main points are:\n- Decomposing complex problems into core, background, and follow-up subproblems\n- Proposing a fine-grained evaluation protocol based on subproblem coverage",
+    "link_lists": [
+      "https://t.co/9lLn0EAFhe",
+      "https://x.com/shao__meng/status/1849605989894672821?t=Lo2Sv_lmVyNroW9J2HA6BA&s=03"
+    ],
+    "post_summary_cn": "meng shao (@shao__meng) 发布了一篇关于 RAG 系统优化的帖子，介绍了 @SFResearch 提出的基于子问题覆盖率的评估框架，包括将复杂问题分解为三类子问题并提出细粒度评估协议。",
+    "post_summary_en": "meng shao (@shao__meng) posted about RAG system optimization, introducing a novel evaluation framework from @SFResearch that focuses on subproblem coverage, including decomposing complex problems into three types of subproblems and proposing a fine-grained evaluation protocol.",
+    "post_datetime": "2024-10-25T21:00:16-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192c1d52c1896f13": {
+    "email_id": "192c1d52c1896f13",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 5:16 PM on Thu, Oct 24, 2024:\n子问题覆盖驱动的 RAG 系统优化\n\n来自 @SFResearch 的论文提出了一个新颖的评估框架, 主要聚焦于 \"子问题覆盖率\" 这个维度来评估 RAG 系统, 主要内容:\n- 将复杂问题分解为核心、背景和后续三类子问题\n- 提出了一个基于子问题覆盖的细粒度评估协议",
+    "post_content_en": "meng shao (@shao__meng) posted at 5:16 PM on Thu, Oct 24, 2024:\nSubproblem Coverage-Driven RAG System Optimization\n\nA paper from @SFResearch proposes a novel evaluation framework, focusing on the dimension of \"subproblem coverage\" to evaluate RAG systems, main content:\n- Decompose complex problems into core, background, and follow-up subproblems\n- Propose a fine-grained evaluation protocol based on subproblem coverage",
+    "link_lists": [
+      "https://t.co/9lLn0EAFhe",
+      "https://x.com/shao__meng/status/1849605989894672821?t=-AZKGS_2LX-TgL5Vwtde-A&s=03"
+    ],
+    "post_summary_cn": "meng shao 分享了一篇关于 RAG 系统优化的论文，该论文提出了一个基于子问题覆盖率的评估框架，将复杂问题分解为三类子问题，并提出了细粒度的评估协议。",
+    "post_summary_en": "meng shao shared a paper on RAG system optimization, which proposes an evaluation framework based on subproblem coverage, decomposing complex problems into three types of subproblems and proposing a fine-grained evaluation protocol.",
+    "post_datetime": "2024-10-24T21:00:27-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192bd0e74d6cf141": {
+    "email_id": "192bd0e74d6cf141",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 5:07 PM on Wed, Oct 23, 2024:\nRAG 评估工程实践: Ragas 指标体系与 Comet Opik 集成\n@Cometml @ragas_io\n\n这篇文档主要介绍了如何将 Ragas 与 Opik 平台结合使用来监控和评估 RAG pipeline.\n\n两种评估方法\n\n1. 对追踪(Traces)进行评分\n- 适用于生产环境中的实时评估\n- 可以追踪单个查询的完整处理流程\n- 能够实时获取评分结果",
+    "post_content_en": "meng shao (@shao__meng) posted at 5:07 PM on Wed, Oct 23, 2024:\nRAG Evaluation Engineering Practice: Ragas Metrics System and Comet Opik Integration\n@Cometml @ragas_io\n\nThis document mainly introduces how to use Ragas with the Opik platform to monitor and evaluate the RAG pipeline.\n\nTwo evaluation methods\n\n1. Scoring Traces\n- Suitable for real-time evaluation in production environments\n- Can track the complete processing flow of a single query\n- Able to obtain scoring results in real-time",
+    "link_lists": [
+      "https://t.co/sFPDbPHxdG",
+      "https://x.com/shao__meng/status/1849241214635356232?t=QNGdK49fbYqo_uH17Agg6A&s=03"
+    ],
+    "post_summary_cn": "本文介绍了如何将Ragas与Opik平台结合使用，以监控和评估RAG pipeline。主要讨论了两种评估方法，特别是对追踪进行评分的方法，适用于生产环境中的实时评估。",
+    "post_summary_en": "This document introduces how to use Ragas with the Opik platform to monitor and evaluate the RAG pipeline. It mainly discusses two evaluation methods, particularly the scoring of traces, which is suitable for real-time evaluation in production environments.",
+    "post_datetime": "2024-10-23T22:44:54-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192b5441bf9af40a": {
+    "email_id": "192b5441bf9af40a",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 11:51 PM on Mon, Oct 21, 2024:\nRagas v0.2 发布: 从 RAG 迈向全方位 LLM 应用评估\n\nLLM 应用评估框架 Ragas @ragas_io 于 2023 年中期开源, 最初目标是为 RAG 应用提供评估工具, 一年后 LLM\n应用已经发展超越了 RAG 的范畴。\n\nRagas v0.2 开始扩展以支持更广泛的 LLM 应用评估需求, 特别是 Agentic 工作流, 主要更新 👇👇",
+    "post_content_en": "meng shao (@shao__meng) posted at 11:51 PM on Mon, Oct 21, 2024:\nRagas v0.2 Released: From RAG to Comprehensive LLM Application Evaluation\n\nThe LLM application evaluation framework Ragas @ragas_io was open-sourced in mid-2023, initially aimed at providing evaluation tools for RAG applications. A year later, LLM\napplications have evolved beyond the scope of RAG.\n\nRagas v0.2 has begun to expand to support broader LLM application evaluation needs, particularly Agentic workflows, with major updates 👇👇",
+    "link_lists": [
+      "https://t.co/IZErsBN7b3",
+      "https://x.com/shao__meng/status/1848618137044062224?t=pJXbYaZEkh5ZXy-xxvD42A&s=03"
+    ],
+    "post_summary_cn": "Ragas v0.2 发布，扩展了 LLM 应用评估框架，支持更广泛的需求，特别是 Agentic 工作流。",
+    "post_summary_en": "Ragas v0.2 has been released, expanding the LLM application evaluation framework to support broader needs, particularly Agentic workflows.",
+    "post_datetime": "2024-10-22T10:26:34-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "191f8f965132937e": {
+    "email_id": "191f8f965132937e",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation",
+      "LLM/RAG"
+    ],
+    "post_content_cn": "orange.ai (@oran_ge) 于 2024年9月15日 6:42 AM 发布：\nRAG 和 Long Context 之争，终于有了量化的结论：\n\n为长上下文语言模型时代的 RAG 辩护",
+    "post_content_en": "orange.ai (@oran_ge) posted at 6:42 AM on Sun, Sep 15, 2024:\nThe debate between RAG and Long Context has finally reached a quantified conclusion:\n\nIn Defense of RAG in the Era of Long-Context Language Models",
+    "link_lists": [
+      "https://t.co/5tEacB9LJn",
+      "https://t.co/djTITRMcVh",
+      "https://x.com/oran_ge/status/1835313228416696371?t=j1_1XWSUaHH7SdzQuV3huA&s=03"
+    ],
+    "post_summary_cn": "orange.ai 发布了一篇关于 RAG 和长上下文语言模型之间争论的量化结论，为 RAG 在长上下文语言模型时代的应用进行了辩护。",
+    "post_summary_en": "orange.ai posted a quantified conclusion on the debate between RAG and Long Context, defending the use of RAG in the era of long-context language models.",
+    "post_datetime": "2024-09-15T20:56:19-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1915f7118677a8ed": {
+    "email_id": "1915f7118677a8ed",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "Kalyan KS (@kalyan_kpl) 于2024年8月16日星期五上午9:47发布：\nRAGChecker - 诊断RAG系统\n\nRAGChecker框架\n\nRAGChecker是一个用于检索增强生成（RAG）系统的细粒度评估框架。\n\n该框架包括检索和生成模块的诊断指标。\n\n改进的评估准确性",
+    "post_content_en": "Kalyan KS (@kalyan_kpl) posted at 9:47 AM on Fri, Aug 16, 2024:\nRAGChecker - Diagnosing RAG Systems\n\nRAGChecker Framework\n\nRAGChecker is a fine-grained evaluation framework for Retrieval-Augmented Generation (RAG) systems.\n\nThis framework includes diagnostic metrics for both retrieval and generation modules.\n\nImproved Evaluation Accuracy",
+    "link_lists": [
+      "https://t.co/MnBLtV1GVE",
+      "https://x.com/kalyan_kpl/status/1824488109637243094?t=Gln7pJSw5qA7Y8CSa4Tygw&s=03"
+    ],
+    "post_summary_cn": "Kalyan KS介绍了RAGChecker，一个用于诊断和评估检索增强生成（RAG）系统的细粒度框架，包括检索和生成模块的诊断指标。",
+    "post_summary_en": "Kalyan KS introduced RAGChecker, a fine-grained framework for diagnosing and evaluating Retrieval-Augmented Generation (RAG) systems, including diagnostic metrics for both retrieval and generation modules.",
+    "post_datetime": "2024-08-17T01:25:34-07:00",
+    "source_language": "en",
+    "confidence_score": 0.95
+  },
+  "1915e8ff7f829004": {
+    "email_id": "1915e8ff7f829004",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "elvis (@omarsar0) 于2024年8月16日星期五上午7:56发布：\nRAGChecker：一个用于诊断RAG中检索和生成模块的细粒度评估框架。\n\n显示RAGChecker与人类判断有更好的相关性。\n\n报告了RAG架构设计选择中的几个揭示性见解和权衡。",
+    "post_content_en": "elvis (@omarsar0) posted at 7:56 AM on Fri, Aug 16, 2024:\nRAGChecker: a fine-grained evaluation framework for diagnosing retrieval\nand generation modules in RAG.\n\nShows that RAGChecker has better correlations with human judgment.\n\nReports several revealing insightful patterns and trade-offs in design\nchoices of RAG architectures.",
+    "link_lists": [
+      "https://t.co/ZgwCJQszVM",
+      "https://x.com/omarsar0/status/1824460245051081216?t=OCzDcZdcdJqpdueMzu5xnw&s=03"
+    ],
+    "post_summary_cn": "elvis (@omarsar0) 发布了一个名为RAGChecker的细粒度评估框架，用于诊断RAG中的检索和生成模块。该框架与人类判断有更好的相关性，并揭示了RAG架构设计选择中的一些见解和权衡。",
+    "post_summary_en": "elvis (@omarsar0) introduced RAGChecker, a fine-grained evaluation framework for diagnosing retrieval and generation modules in RAG. It shows better correlations with human judgment and reveals insightful patterns and trade-offs in RAG architecture design choices.",
+    "post_datetime": "2024-08-16T21:19:40-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "1913b8985d0a921e": {
+    "email_id": "1913b8985d0a921e",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "Kalyan KS (@kalyan_kpl) 于2024年8月9日星期五上午9:11发布：\nWalledEval - LLM安全评估工具包\n\nWalledEval是一个全面的AI安全测试工具包，旨在评估大型语言模型（LLMs）。\n\n该工具包具有多功能性，适用于各种模型。\n\n它可以评估开放权重模型和通过API访问的模型。",
+    "post_content_en": "Kalyan KS (@kalyan_kpl) posted at 9:11 AM on Fri, Aug 09, 2024:\nWalledEval - LLM Safety Evaluation Toolkit\n\nWalledEval is a comprehensive AI safety testing toolkit designed to evaluate large language models (LLMs).\n\nThe toolkit is versatile, accommodating a wide range of models.\n\nIt can evaluate both open-weight models and those accessed via API.",
+    "link_lists": [
+      "https://t.co/e4VRmnDYxa",
+      "https://x.com/kalyan_kpl/status/1821942405970772397?t=wBmtMR3AafpOGZ457r7fiQ&s=03"
+    ],
+    "post_summary_cn": "Kalyan KS介绍了WalledEval，一个用于评估大型语言模型（LLMs）的AI安全测试工具包，适用于多种模型。",
+    "post_summary_en": "Kalyan KS introduced WalledEval, an AI safety testing toolkit for evaluating large language models (LLMs), suitable for a variety of models.",
+    "post_datetime": "2024-10-08T02:05:55-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "1913b886d4cbc848": {
+    "email_id": "1913b886d4cbc848",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "Kalyan KS (@kalyan_kpl) 于2024年8月8日晚上11:57发布：\nRAGEval - 用于自动生成LLM评估数据集的新框架\n\n现有RAG基准的局限性\n\n当前的RAG基准主要评估LLM回答一般知识问题的能力。\n\n它们无法有效评估RAG系统在",
+    "post_content_en": "Kalyan KS (@kalyan_kpl) posted at 11:57 PM on Thu, Aug 08, 2024:\nRAGEval - Novel framework for automatically generating LLM evaluation datasets\n\nLimitations of existing RAG benchmarks\n\nCurrent RAG benchmarks primarily assess LLMs' ability to answer general knowledge questions.\n\nThey don't effectively evaluate RAG systems' performance across",
+    "link_lists": [
+      "https://t.co/CocwzlCkRM",
+      "https://x.com/kalyan_kpl/status/1821803072177516736?t=JkUU25223YbEsNAAGZYLCQ&s=03"
+    ],
+    "post_summary_cn": "Kalyan KS介绍了RAGEval，一个用于自动生成LLM评估数据集的新框架，并指出了现有RAG基准的局限性。",
+    "post_summary_en": "Kalyan KS introduced RAGEval, a novel framework for automatically generating LLM evaluation datasets, and highlighted the limitations of existing RAG benchmarks.",
+    "post_datetime": "2024-10-08T02:04:43-07:00",
+    "source_language": "en",
+    "confidence_score": 0.95
+  },
+  "1906a75dc2188234": {
+    "email_id": "1906a75dc2188234",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "Simon (@YRSM_Simon) posted at 6:23 PM on Sat, May 11, 2024:\n本周，我们继续测评各 ai search 产品的准确率。\n\n本次测评，重点关注各产品在《复杂查询》下的表现，即多语言环境下的多实体或多目标的查询。例如，\n\n- 臺灣2022年GDP總量相比2012年增加了多少美元？\n- Which movie is longer, Hamlet or Gone with the Wind",
+    "post_content_en": "Simon (@YRSM_Simon) posted at 6:23 PM on Sat, May 11, 2024:\nThis week, we continue to evaluate the accuracy of various AI search products.\n\nThis evaluation focuses on the performance of each product in 'complex queries,' which are multi-entity or multi-objective queries in a multilingual environment. For example,\n\n- How much did Taiwan's GDP increase in 2022 compared to 2012 in US dollars?\n- Which movie is longer, Hamlet or Gone with the Wind",
+    "link_lists": [
+      "https://t.co/Ymv6Qm5SX5",
+      "https://x.com/YRSM_Simon/status/1789466458772378085?t=U5NqRxmd3Uoc6AdTMxPyrA&s=03"
+    ],
+    "post_summary_cn": "本周继续测评各AI搜索产品的准确率，重点关注多语言环境下的复杂查询表现。",
+    "post_summary_en": "This week, we continue to evaluate the accuracy of various AI search products, focusing on complex queries in a multilingual environment.",
+    "post_datetime": "2024-06-30T11:43:49-07:00",
+    "source_language": "cn",
+    "confidence_score": 1.0
+  },
+  "1902f3def2a9b305": {
+    "email_id": "1902f3def2a9b305",
+    "post_labels": [
+      "LLM",
+      "RAG",
+      "evaluation"
+    ],
+    "post_content_cn": "LangChain (@LangChainAI) 于2024年6月18日星期二上午11:18发布：\n代理评估🤖：评估代理的端到端性能\n\n将LLM驱动的自动化代理投入生产具有挑战性。随着工具调用LLM和代理编排工具的改进，开发人员需要系统的方法来评估代理性能。\n我们添加了一个教程，…",
+    "post_content_en": "LangChain (@LangChainAI) posted at 11:18 AM on Tue, Jun 18, 2024:\nAgent evaluations 🤖: Evaluating an agent's end-to-end performance\n\nProductionizing LLM-powered automated agents is challenging. With improved tool-calling LLMs and agent orchestration tools, developers need systematic ways to evaluate agent performance.\nWe've added a tutorial,…",
+    "link_lists": [
+      "https://t.co/1bhUjNJC1n",
+      "https://x.com/LangChainAI/status/1803130164718739573?t=e0Wk2D1cpq0M7CH98raNTg&s=03"
+    ],
+    "post_summary_cn": "LangChain发布关于LLM驱动的自动化代理的端到端性能评估的教程。",
+    "post_summary_en": "LangChain posted a tutorial on evaluating the end-to-end performance of LLM-powered automated agents.",
+    "post_datetime": "2024-06-18T23:45:08-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "193c3827ce66e248": {
+    "email_id": "193c3827ce66e248",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "Will (@FinanceYF5) posted at 7:43 PM on Fri, Dec 13, 2024: 以下是近期AI代理领域发生的所有事情 🧵",
+    "post_content_en": "Will (@FinanceYF5) posted at 7:43 PM on Fri, Dec 13, 2024: Here is everything that has happened recently in the field of AI agents 🧵",
+    "link_lists": [
+      "https://t.co/GAieNzErQC",
+      "https://x.com/FinanceYF5/status/1867777385653055823?t=-VF3zdFhHVkhUsIv_esTeQ&s=03"
+    ],
+    "post_summary_cn": "Will (@FinanceYF5) 发布了关于近期AI代理领域的所有动态。",
+    "post_summary_en": "Will (@FinanceYF5) posted about all recent developments in the field of AI agents.",
+    "post_datetime": "2024-12-13T20:52:08-08:00",
+    "source_language": "cn",
+    "confidence_score": 1.0
+  },
+  "193c0c0092687f54": {
+    "email_id": "193c0c0092687f54",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "Tom Dörr (@tom_doerr) 于2024年12月11日星期三上午11:09发布：\nWren AI 是一个开源的 SQL AI 代理，可以将自然语言问题转换为 SQL 查询，与各种数据库和 LLM 集成，并提供用于数据分析和查询生成的用户界面。",
+    "post_content_en": "Tom Dörr (@tom_doerr) posted at 11:09 AM on Wed, Dec 11, 2024:\nWren AI is an open-source SQL AI agent that converts natural language questions into SQL queries, integrates with various databases and LLMs, and provides a user interface for data analysis and query generation.",
+    "link_lists": [
+      "https://t.co/nGehrQTWjk",
+      "https://x.com/tom_doerr/status/1866923282081124684?t=QW9PMhOH-UrPYwUTUV0URg&s=03"
+    ],
+    "post_summary_cn": "Tom Dörr 介绍了 Wren AI，一个开源的 SQL AI 代理，能够将自然语言转换为 SQL 查询，并与多种数据库和 LLM 集成，提供数据分析和查询生成的用户界面。",
+    "post_summary_en": "Tom Dörr introduced Wren AI, an open-source SQL AI agent that converts natural language into SQL queries, integrates with various databases and LLMs, and offers a user interface for data analysis and query generation.",
+    "post_datetime": "2024-12-13T08:00:32-08:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "193bcbdddee5d289": {
+    "email_id": "193bcbdddee5d289",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "Daily Dose of Data Science (@DailyDoseOfDS_) 于2024年12月12日星期四上午5:09发布：\n使用DSPy微调RAG，清晰解释：",
+    "post_content_en": "Daily Dose of Data Science (@DailyDoseOfDS_) posted at 5:09 AM on Thu, Dec 12, 2024:\nFinetuning RAG using DSPy, clearly explained:",
+    "link_lists": [
+      "https://t.co/MKuLx5Y9hN",
+      "https://x.com/DailyDoseOfDS_/status/1867195101002584355?t=1TzYsZRk8CivgPBFniY6XQ&s=03"
+    ],
+    "post_summary_cn": "Daily Dose of Data Science发布了一条关于使用DSPy微调RAG的帖子。",
+    "post_summary_en": "Daily Dose of Data Science posted about finetuning RAG using DSPy.",
+    "post_datetime": "2024-12-12T13:19:40-08:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "193b913a081e63aa": {
+    "email_id": "193b913a081e63aa",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "Michael Ryan (@michaelryan207) 于2024年12月10日星期二上午8:34发布：\n使用@_rchaves_的LangWatch可视化您的语言程序优化！\n超级酷的界面，用于查看和优化语言程序，使用#DSPy！\nMIPROv2在发布视频中亮相👀",
+    "post_content_en": "Michael Ryan (@michaelryan207) posted at 8:34 AM on Tue, Dec 10, 2024:\nVisualize your Language Program Optimization with @_rchaves_’s LangWatch!\nSuper cool interface for viewing and optimizing Language Programs with\n#DSPy!\nMIPROv2 makes an appearance in the launch video 👀",
+    "link_lists": [
+      "https://x.com/michaelryan207/status/1866521952086823138?t=T0g8-8g-S3S1hJt2zql8iQ&s=03"
+    ],
+    "post_summary_cn": "Michael Ryan介绍了使用LangWatch进行语言程序优化的可视化工具，并提到MIPROv2在发布视频中亮相。",
+    "post_summary_en": "Michael Ryan introduced LangWatch, a tool for visualizing language program optimization, and mentioned MIPROv2 appearing in the launch video.",
+    "post_datetime": "2024-11-12T20:14:50-08:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "1939c788ff081e3a": {
+    "email_id": "1939c788ff081e3a",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "idoubi (@idoubicc) posted at 6:57 PM on Thu, Dec 05, 2024: 上了一个 MCP Servers 应用商店，欢迎来查找和提交好玩的 MCP Servers👇",
+    "post_content_en": "idoubi (@idoubicc) posted at 6:57 PM on Thu, Dec 05, 2024: Launched an MCP Servers app store, welcome to find and submit fun MCP Servers👇",
+    "link_lists": [
+      "https://t.co/uZVqggsjnN",
+      "https://x.com/idoubicc/status/1864866694302437503?t=FxEeLb8EArA3-tZsJL71NA&s=03"
+    ],
+    "post_summary_cn": "idoubi 发布了一个 MCP Servers 应用商店，邀请大家查找和提交有趣的 MCP Servers。",
+    "post_summary_en": "idoubi launched an MCP Servers app store, inviting everyone to find and submit fun MCP Servers.",
+    "post_datetime": "2024-06-12T06:56:07-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "19337a37aa365f6b": {
+    "email_id": "19337a37aa365f6b",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 1:21 AM on Sat, Nov 16, 2024:\nAI Agents 技术栈全景：从 LLM 到 Agents 的技术演进\n\n// @Letta_AI 团队发布的深度分析，AI Agents 正从简单的 LLM\n应用演变为集状态管理、工具调用和自主决策于一体的完整技术栈，这一演进过程正重塑 AI 应用的开发模式，并将推动下一代 AI 服务的标准化部署\n\n// AI Agents 的演进：\n- 2022-2023",
+    "post_content_en": "meng shao (@shao__meng) posted at 1:21 AM on Sat, Nov 16, 2024:\nAI Agents Technology Stack Overview: The Evolution from LLM to Agents\n\n// @Letta_AI team's in-depth analysis, AI Agents are evolving from simple LLM\napplications to a complete technology stack integrating state management, tool invocation, and autonomous decision-making. This evolution is reshaping the development model of AI applications and will promote the standardized deployment of next-generation AI services.\n\n// The Evolution of AI Agents:\n- 2022-2023",
+    "link_lists": [
+      "https://t.co/guBG6CKIZu",
+      "https://x.com/shao__meng/status/1857715647217807712?t=AavHyWDG2LcGCamFiLegNw&s=03"
+    ],
+    "post_summary_cn": "meng shao (@shao__meng) 发布了关于 AI Agents 技术栈的演进分析，指出 AI Agents 正从简单的 LLM 应用发展为集状态管理、工具调用和自主决策于一体的完整技术栈，这将重塑 AI 应用的开发模式并推动下一代 AI 服务的标准化部署。",
+    "post_summary_en": "meng shao (@shao__meng) posted an analysis on the evolution of AI Agents technology stack, highlighting that AI Agents are evolving from simple LLM applications to a complete technology stack integrating state management, tool invocation, and autonomous decision-making. This evolution will reshape the development model of AI applications and promote the standardized deployment of next-generation AI services.",
+    "post_datetime": "2024-11-16T17:01:20-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "193378cb0ed494b3": {
+    "email_id": "193378cb0ed494b3",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "elvis (@omarsar0) 于2024年11月15日星期五凌晨4:30发布：\n基于基础模型的代理可观测性的AgentOps分类法\n\n新研究分析了AgentOps平台和工具，强调了确保基于基础模型的自主代理可靠性所需的全面可观测性和可追溯性功能。",
+    "post_content_en": "elvis (@omarsar0) posted at 4:30 AM on Fri, Nov 15, 2024:\nA Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents\n\nNew research analyzes AgentOps platforms and tools, highlighting the need for comprehensive observability and traceability features to ensure reliability in foundation model-based autonomous agents.",
+    "link_lists": [
+      "https://t.co/pHmey3pcWC",
+      "https://x.com/omarsar0/status/1857400667318702118?t=7ZAi5P3KyezavFd_EkQpxw&s=03"
+    ],
+    "post_summary_cn": "elvis (@omarsar0) 发布了一篇关于基于基础模型的代理可观测性的AgentOps分类法的研究，强调了全面可观测性和可追溯性功能的重要性。",
+    "post_summary_en": "elvis (@omarsar0) posted research on a taxonomy of AgentOps for enabling observability of foundation model-based agents, emphasizing the importance of comprehensive observability and traceability features.",
+    "post_datetime": "2024-11-16T16:36:26-08:00",
+    "source_language": "en",
+    "confidence_score": 0.95
+  },
+  "193378b7a8487a78": {
+    "email_id": "193378b7a8487a78",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 6:40 AM on Fri, Nov 15, 2024:\n提示词工程全景图：AI 提示词设计与管理的系统框架\n\n// 来自 AWS GenAI Lead @ordax\n分享的框架图全面涵盖了提示词工程的各个环节，从设计、优化到部署和维护，是一个系统性的方法论参考，对于想要系统学习和应用提示工程的朋友们来说是很有价值的指导。\n\n1. 提示设计(Prompt Design)",
+    "post_content_en": "meng shao (@shao__meng) posted at 6:40 AM on Fri, Nov 15, 2024:\nPanorama of Prompt Engineering: A Systematic Framework for AI Prompt Design and Management\n\n// From AWS GenAI Lead @ordax\nThe shared framework comprehensively covers all aspects of prompt engineering, from design, optimization to deployment and maintenance. It is a systematic methodological reference and a valuable guide for those who want to systematically learn and apply prompt engineering.\n\n1. Prompt Design",
+    "link_lists": [
+      "https://t.co/tWyLPjL6JR",
+      "https://x.com/shao__meng/status/1857433449298296956?t=84ziroLJ2ApfnPjWerMx5w&s=03"
+    ],
+    "post_summary_cn": "meng shao 分享了来自 AWS GenAI Lead @ordax 的提示词工程全景图，涵盖了从设计、优化到部署和维护的系统性方法论，对学习和应用提示工程的人具有重要参考价值。",
+    "post_summary_en": "meng shao shared a panorama of prompt engineering from AWS GenAI Lead @ordax, covering a systematic methodology from design, optimization to deployment and maintenance, which is a valuable reference for those learning and applying prompt engineering.",
+    "post_datetime": "2024-11-16T16:35:07-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "19330972819b334c": {
+    "email_id": "19330972819b334c",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "阅读Mehul Gupta在Medium上的文章“Magentic-One, AutoGen, LangGraph, CrewAI, or OpenAI Swarm: Which Multi-AI Agent Framework is Best?”",
+    "post_content_en": "Read “Magentic-One, AutoGen, LangGraph, CrewAI, or OpenAI Swarm: Which Multi-AI Agent Framework is Best?“ by Mehul Gupta on Medium",
+    "link_lists": [
+      "https://medium.com/data-science-in-your-pocket/magentic-one-autogen-langgraph-crewai-or-openai-swarm-which-multi-ai-agent-framework-is-best-6629d8bd9509"
+    ],
+    "post_summary_cn": "Mehul Gupta在Medium上发布了一篇文章，探讨了Magentic-One、AutoGen、LangGraph、CrewAI和OpenAI Swarm等多AI代理框架的优劣。",
+    "post_summary_en": "Mehul Gupta published an article on Medium discussing the pros and cons of multi-AI agent frameworks such as Magentic-One, AutoGen, LangGraph, CrewAI, and OpenAI Swarm.",
+    "post_datetime": "2024-11-15T08:10:31-08:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "1932deb53555c3b8": {
+    "email_id": "1932deb53555c3b8",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "Harrison Chase (@hwchase17) 于2024年11月14日星期四下午1:14发布：\n顶级代理用例：\n\n- 研究和总结\n- 个人助理\n- 客户服务\n- 代码生成\n\n有趣的是，大多数新兴的代理初创公司似乎都集中在客户服务和编码领域。",
+    "post_content_en": "Harrison Chase (@hwchase17) posted at 1:14 PM on Thu, Nov 14, 2024:\nTop agent use cases:\n\n- research and summarization\n- personal assistant\n- customer service\n- code gen\n\ninteresting that most agent startups popping up seem to be in customer service and coding",
+    "link_lists": [
+      "https://t.co/4oqJmPNBj3",
+      "https://t.co/lbRa1PRCEE",
+      "https://x.com/hwchase17/status/1857170293061742743?t=3bVDdniynzynGTo4GkNNuw&s=03"
+    ],
+    "post_summary_cn": "Harrison Chase讨论了顶级代理的用例，包括研究、个人助理、客户服务和代码生成，并指出新兴的代理初创公司主要集中在客户服务和编码领域。",
+    "post_summary_en": "Harrison Chase discusses top agent use cases, including research, personal assistant, customer service, and code generation, noting that most emerging agent startups focus on customer service and coding.",
+    "post_datetime": "2024-11-14T19:43:36-08:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "1932bb33822de5e4": {
+    "email_id": "1932bb33822de5e4",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 3:18 PM on Wed, Nov 13, 2024:\n告别 RPA: 智能自动化的新纪元\n作者 - @kimberlywtan(@a16z)\n\n// 随着 AI 技术的成熟，特别是 LLM 的出现，新一代智能自动化正在取代传统的 RPA\n流程自动化工具，这不仅能真正实现企业内部运营的全面自动化，更开创了一个估值超过2500亿美元的全新创业蓝海市场\n\n// 传统 RPA 的局限性\n- 虽然像 UiPath",
+    "post_content_en": "meng shao (@shao__meng) posted at 3:18 PM on Wed, Nov 13, 2024:\nFarewell RPA: The New Era of Intelligent Automation\nAuthor - @kimberlywtan(@a16z)\n\n// With the maturity of AI technology, especially the emergence of LLMs, a new generation of intelligent automation is replacing traditional RPA\nprocess automation tools, which not only truly achieves comprehensive automation of internal operations within enterprises but also opens up a new entrepreneurial blue ocean market valued at over $250 billion.\n\n// Limitations of Traditional RPA\n- Although like UiPath",
+    "link_lists": [
+      "https://t.co/xX72THYqj7",
+      "https://x.com/shao__meng/status/1856839145412596001?t=54tsROvBBai9YvjKWLMgWA&s=03"
+    ],
+    "post_summary_cn": "随着AI技术的成熟，特别是LLM的出现，新一代智能自动化正在取代传统的RPA流程自动化工具，开创了一个估值超过2500亿美元的全新创业蓝海市场。传统RPA存在局限性。",
+    "post_summary_en": "With the maturity of AI technology, especially the emergence of LLMs, a new generation of intelligent automation is replacing traditional RPA process automation tools, opening up a new entrepreneurial blue ocean market valued at over $250 billion. Traditional RPA has limitations.",
+    "post_datetime": "2024-11-14T09:23:05-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1931cdfadb549992": {
+    "email_id": "1931cdfadb549992",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 8:09 AM on Sun, Nov 10, 2024:\nRD-Agent: 微软开源的研发自动化工具, 专注于数据驱动的 AI 研发流程, 用 AI 来自动化 AI 相关的研发工作\n\n# 核心框架组成\n- \"R\"(Research)模块: 负责提出新想法\n- \"D\"(Development)模块: 负责实现这些想法\n- 支持持续进化: 通过反馈不断改进性能\n\n# 主要应用场景\n- 🤖 数据挖掘Agent:",
+    "post_content_en": "meng shao (@shao__meng) posted at 8:09 AM on Sun, Nov 10, 2024:\nRD-Agent: Microsoft's open-source R&D automation tool, focusing on data-driven AI R&D processes, using AI to automate AI-related R&D work\n\n# Core Framework Components\n- \"R\"(Research) module: Responsible for proposing new ideas\n- \"D\"(Development) module: Responsible for implementing these ideas\n- Supports continuous evolution: Continuously improves performance through feedback\n\n# Main Application Scenarios\n- 🤖 Data Mining Agent:",
+    "link_lists": [
+      "https://t.co/SfeEwdtND4",
+      "https://x.com/shao__meng/status/1855643962679472215?t=_ZstkgKp4YLmBR1AOR7EWQ&s=03"
+    ],
+    "post_summary_cn": "meng shao 介绍了微软开源的 RD-Agent 工具，该工具专注于数据驱动的 AI 研发流程，通过 AI 自动化 AI 相关的研发工作。核心框架包括提出新想法的 \"R\" 模块和实现这些想法的 \"D\" 模块，支持通过反馈不断改进性能。主要应用场景包括数据挖掘 Agent。",
+    "post_summary_en": "meng shao introduced Microsoft's open-source RD-Agent tool, which focuses on data-driven AI R&D processes, using AI to automate AI-related R&D work. The core framework includes the \"R\" module for proposing new ideas and the \"D\" module for implementing these ideas, supporting continuous performance improvement through feedback. Main application scenarios include data mining Agent.",
+    "post_datetime": "2024-11-11T12:17:22-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1931a68971305413": {
+    "email_id": "1931a68971305413",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "Noise (@liangwenhao3) 发布于 2024年11月10日 上午8:59：#AI #数字人 实时语音交互数字人，支持端到端语音方案（GLM-4-Voice - THG）和级联方案（ASR-LLM-TTS-THG）。可自定义形象与音色，无须训练，支持音色克隆，首包延迟低至3s",
+    "post_content_en": "Noise (@liangwenhao3) posted at 8:59 AM on Sun, Nov 10, 2024: #AI #DigitalHuman Real-time voice interactive digital human, supports end-to-end voice solution (GLM-4-Voice - THG) and cascaded solution (ASR-LLM-TTS-THG). Customizable appearance and voice, no training required, supports voice cloning, with initial packet delay as low as 3s",
+    "link_lists": [
+      "https://t.co/8TjVCQzxjV",
+      "https://x.com/liangwenhao3/status/1855656585072177364?t=s45_eqfjOD2qBsySS38kbA&s=03"
+    ],
+    "post_summary_cn": "Noise (@liangwenhao3) 介绍了实时语音交互数字人，支持端到端语音方案和级联方案，可自定义形象与音色，支持音色克隆，首包延迟低至3秒。",
+    "post_summary_en": "Noise (@liangwenhao3) introduced a real-time voice interactive digital human, supporting end-to-end and cascaded voice solutions, customizable appearance and voice, with voice cloning and initial packet delay as low as 3 seconds.",
+    "post_datetime": "2024-11-11T00:48:03-08:00",
+    "source_language": "cn",
+    "confidence_score": 1.0
+  },
+  "19309ff5d98bffba": {
+    "email_id": "19309ff5d98bffba",
+    "post_labels": [
+      "LLM/agent",
+      "LLM/tutorial"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 3:53 PM on Thu, Nov 07, 2024:\nLLM 智能 Agent: 构建具有持久记忆的 AI 系统\n# 掌握如何让 AI Agent 像操作系统般智能管理记忆, 从而构建能持续学习、自主决策的下一代 LLM 应用\n@DeepLearningAI x @Letta_AI\n# 课程讲师: @charlespacker @sarahwooders\n\n# 主要学习内容\n- 学习如何构建具有长期、持久性记忆的 Agent\n- 了解如何将",
+    "post_content_en": "meng shao (@shao__meng) posted at 3:53 PM on Thu, Nov 07, 2024:\nLLM Intelligent Agent: Building AI Systems with Persistent Memory\n# Learn how to make AI Agents manage memory intelligently like an operating system, thereby building the next generation of LLM applications that can continuously learn and make autonomous decisions\n@DeepLearningAI x @Letta_AI\n# Course Instructors: @charlespacker @sarahwooders\n\n# Main Learning Content\n- Learn how to build Agents with long-term, persistent memory\n- Understand how to",
+    "link_lists": [
+      "https://t.co/P0Q5aGUNCg",
+      "https://x.com/shao__meng/status/1854673617898160297?t=rTUcYTD-Uk1OqE2pG4RYzg&s=03"
+    ],
+    "post_summary_cn": "meng shao 发布了一篇关于构建具有持久记忆的 LLM 智能 Agent 的帖子，介绍了如何让 AI Agent 像操作系统般智能管理记忆，从而构建能持续学习、自主决策的下一代 LLM 应用。课程由 @DeepLearningAI 和 @Letta_AI 提供，讲师为 @charlespacker 和 @sarahwooders。主要内容包括学习如何构建具有长期、持久性记忆的 Agent。",
+    "post_summary_en": "meng shao posted about building LLM Intelligent Agents with persistent memory, explaining how to make AI Agents manage memory intelligently like an operating system, thereby building the next generation of LLM applications that can continuously learn and make autonomous decisions. The course is offered by @DeepLearningAI and @Letta_AI, with instructors @charlespacker and @sarahwooders. The main content includes learning how to build Agents with long-term, persistent memory.",
+    "post_datetime": "2024-07-11T20:19:10-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192facf148e7279f": {
+    "email_id": "192facf148e7279f",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "AIGCLINK (@aigclink) 发布于 2024年11月4日 下午5:58：\nAFLOW的代码总算是开源了，手动工作流变自动智能工作流的神器",
+    "post_content_en": "AIGCLINK (@aigclink) posted at 5:58 PM on Mon, Nov 04, 2024:\nThe code for AFLOW has finally been open-sourced, a tool that transforms manual workflows into automated intelligent workflows.",
+    "link_lists": [
+      "https://t.co/gPJJg8T8tV",
+      "https://t.co/HJ2jLZBXaK",
+      "https://x.com/aigclink/status/1853617774901551395?t=CM0vmGkrkh9p2VckZGiMSA&s=03"
+    ],
+    "post_summary_cn": "AFLOW代码已开源，可将手动工作流转变为自动智能工作流。",
+    "post_summary_en": "AFLOW code has been open-sourced, transforming manual workflows into automated intelligent workflows.",
+    "post_datetime": "2024-04-11T21:32:09-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192b7826e44c98d1": {
+    "email_id": "192b7826e44c98d1",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "orange.ai (@oran_ge) posted at 8:25 PM on Tue, Oct 22, 2024:\nDify 发布了 NotebookLM 工作流！\n开发者直接 Copy，不用重复劳动了 😂",
+    "post_content_en": "orange.ai (@oran_ge) posted at 8:25 PM on Tue, Oct 22, 2024:\nDify has released the NotebookLM workflow!\nDevelopers can directly copy it, no need to repeat the work 😂",
+    "link_lists": [
+      "https://x.com/oran_ge/status/1848928586264416551?t=9cL3hXhm7ko9RnEZSizveg&s=03"
+    ],
+    "post_summary_cn": "Dify发布了NotebookLM工作流，开发者可以直接复制使用，无需重复劳动。",
+    "post_summary_en": "Dify has released the NotebookLM workflow, allowing developers to directly copy and use it without repeating the work.",
+    "post_datetime": "2024-10-22T20:53:50-07:00",
+    "source_language": "cn",
+    "confidence_score": 1.0
+  },
+  "192b260433731315": {
+    "email_id": "192b260433731315",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 3:22 AM on Mon, Oct 21, 2024: 从新手到专家: 12 步掌握 AI Agent 开发 文章提供了一个全面的 AI Agent 学习路径, 涵盖从生成式 AI 基础到高级 Agentic RAG 系统的 12 个关键步骤。它为读者提供了理论知识和实践指导, 包括编程基础、大语言模型、提示工程、各种框架的使用，以及从无代码工具到 Python 编程的实际开发经验 👇👇👇",
+    "post_content_en": "meng shao (@shao__meng) posted at 3:22 AM on Mon, Oct 21, 2024: From Novice to Expert: 12 Steps to Master AI Agent Development The article provides a comprehensive learning path for AI Agent, covering 12 key steps from the basics of generative AI to advanced Agentic RAG systems. It offers readers theoretical knowledge and practical guidance, including programming basics, large language models, prompt engineering, the use of various frameworks, and practical development experience from no-code tools to Python programming 👇👇👇",
+    "link_lists": [
+      "https://t.co/6M7RymhsKh",
+      "https://x.com/shao__meng/status/1848308814715437317?t=5-2xeS5KJ5Hx3jemYGO0Ww&s=03"
+    ],
+    "post_summary_cn": "文章介绍了从新手到专家的12步AI Agent开发学习路径，涵盖生成式AI基础到高级Agentic RAG系统，提供理论知识和实践指导。",
+    "post_summary_en": "The article outlines a 12-step learning path for AI Agent development, from the basics of generative AI to advanced Agentic RAG systems, offering both theoretical knowledge and practical guidance.",
+    "post_datetime": "2024-10-21T20:58:27-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192b25ffe5cadfcb": {
+    "email_id": "192b25ffe5cadfcb",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "Ningyu Zhang@ZJU (@zxlzr) 于2024年10月20日星期日上午9:12发布：\n介绍我们的最新论文《基准代理工作流生成》！🚀\n\n🧠 大型语言模型（LLMs）在分解中起着至关重要的作用",
+    "post_content_en": "Ningyu Zhang@ZJU (@zxlzr) posted at 9:12 AM on Sun, Oct 20, 2024:\nIntroducing our latest paper, \"Benchmarking Agentic Workflow Generation\"! 🚀\n\n🧠 Large Language Models (LLMs) play a crucial role in breaking down",
+    "link_lists": [
+      "https://t.co/WtzU8Ep87A",
+      "https://t.co/71cauFyyYJ",
+      "https://t.co/qlWNnNPA9D",
+      "https://t.co/fNGNGYjJUu",
+      "https://t.co/nYLGmb3NOh",
+      "https://x.com/zxlzr/status/1848034469506330759?t=0cEg2uWx_N3z_rnnZcNGbw&s=03"
+    ],
+    "post_summary_cn": "Ningyu Zhang@ZJU (@zxlzr) 发布了最新论文《基准代理工作流生成》，并强调了大型语言模型（LLMs）在其中的重要作用。",
+    "post_summary_en": "Ningyu Zhang@ZJU (@zxlzr) introduced their latest paper, \"Benchmarking Agentic Workflow Generation,\" and highlighted the crucial role of Large Language Models (LLMs).",
+    "post_datetime": "2024-10-21T20:58:09-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "192a239e70ff38c7": {
+    "email_id": "192a239e70ff38c7",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "elvis (@omarsar0) 于2024年10月17日星期四上午8:05发布：\nAgent S 是一个新的开放式代理框架，通过图形用户界面实现与计算机的自主交互。\n\nAgent S 解决了诸如获取知识、长期任务规划和处理动态界面等挑战。\n\n它引入了经验增强的分层",
+    "post_content_en": "elvis (@omarsar0) posted at 8:05 AM on Thu, Oct 17, 2024:\nAgent S is a new open agentic framework that enables autonomous interaction\nwith computers through a GUI.\n\nAgent S tackles challenges such as acquiring knowledge, planning over\nlong-task horizons, and handling dynamic interfaces.\n\nIt introduces experience-augmented hierarchical",
+    "link_lists": [
+      "https://t.co/EMisz54euk",
+      "https://x.com/omarsar0/status/1846930425849303424?t=VjOHRe_EG_x4A6p0Ht7TLw&s=03"
+    ],
+    "post_summary_cn": "elvis (@omarsar0) 介绍了新的开放式代理框架 Agent S，它通过图形用户界面实现与计算机的自主交互，解决了获取知识、长期任务规划和处理动态界面等挑战。",
+    "post_summary_en": "elvis (@omarsar0) introduced Agent S, a new open agentic framework that enables autonomous interaction with computers through a GUI, addressing challenges such as acquiring knowledge, long-term task planning, and handling dynamic interfaces.",
+    "post_datetime": "2024-10-18T17:42:36-07:00",
+    "source_language": "en",
+    "confidence_score": 0.95
+  },
+  "192932fe9e25be66": {
+    "email_id": "192932fe9e25be66",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "Jeffery Kaneda 金田達也 (@JefferyTatsuya) posted at 11:18 PM on Mon, Oct 14, 2024: 我认为swarm还没有一个UI界面，一旦做好了这样的交互，普通用户其实靠自然语言就能做成一群Agent。 而且不需要拖拖放放。会更加的简单。 一句话：LLM-based Agent will eat Rule-based Agent.",
+    "post_content_en": "Jeffery Kaneda 金田達也 (@JefferyTatsuya) posted at 11:18 PM on Mon, Oct 14, 2024: I think swarm does not have a UI interface yet. Once such interaction is established, ordinary users can actually create a group of Agents using natural language. Moreover, there is no need for drag-and-drop. It will be much simpler. In one sentence: LLM-based Agent will eat Rule-based Agent.",
+    "link_lists": [
+      "https://x.com/JefferyTatsuya/status/1846073241619910656?t=jUcp_bYxBrzTeakGvFNCVQ&s=03"
+    ],
+    "post_summary_cn": "Jeffery Kaneda认为swarm目前缺乏UI界面，一旦实现自然语言交互，普通用户将能轻松创建Agent群组，无需拖放操作，更加简便。他总结道：基于LLM的Agent将取代基于规则的Agent。",
+    "post_summary_en": "Jeffery Kaneda believes that swarm currently lacks a UI interface. Once natural language interaction is established, ordinary users will be able to easily create groups of Agents without drag-and-drop, making it much simpler. He concludes: LLM-based Agents will replace rule-based Agents.",
+    "post_datetime": "2024-10-15T19:37:25-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1929325d0bd814d6": {
+    "email_id": "1929325d0bd814d6",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 3:27 AM on Tue, Oct 15, 2024:\n# OpenAI o1 可能改变 AI Agent 架构方式\n\n感谢 @JefferyTatsuya 分享的这篇文章, 探讨了一种新的 AI Agent 架构, 它利用了 OpenAI o1 模型的强大能力,\n为企业决策和复杂问题解决提供新的方法。这种方法结合了自动化的效率和人类智慧的灵活性, 可能对未来的 AI 应用产生重大影响。\n\n# OpenAI o1 模型的",
+    "post_content_en": "meng shao (@shao__meng) posted at 3:27 AM on Tue, Oct 15, 2024:\n# OpenAI o1 may change the way AI Agent architectures are designed\n\nThanks to @JefferyTatsuya for sharing this article, which explores a new AI Agent architecture that leverages the powerful capabilities of the OpenAI o1 model,\nproviding new methods for enterprise decision-making and complex problem-solving. This approach combines the efficiency of automation with the flexibility of human intelligence, potentially having a significant impact on future AI applications.\n\n# OpenAI o1 model",
+    "link_lists": [
+      "https://t.co/vbwX59bXjB",
+      "https://x.com/shao__meng/status/1846135706923814975?t=vtv3RTzdS4tf_mi82BXytQ&s=03"
+    ],
+    "post_summary_cn": "meng shao 分享了一篇关于 OpenAI o1 模型可能改变 AI Agent 架构的文章，探讨了其对企业决策和复杂问题解决的新方法。",
+    "post_summary_en": "meng shao shared an article about how the OpenAI o1 model may change AI Agent architectures, exploring new methods for enterprise decision-making and complex problem-solving.",
+    "post_datetime": "2024-10-15T19:26:23-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1928e0d75a3a86bd": {
+    "email_id": "1928e0d75a3a86bd",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 5:53 PM on Mon, Oct 14, 2024:\nAutoGen 实现 Handoff Multi-Agents @pyautogen\n\nHandoff 模式的核心思想是允许 Agents 将任务委托给其他 Agents, 使用特殊的工具调用来实现, 使用 AutoGen Core\nAPI 来实现 Handoff 模式, 发挥 AutoGen 可扩展性、灵活性和易于集成的优势。\n\n# 实现思想:\n- Multi-Agents 协作:",
+    "post_content_en": "meng shao (@shao__meng) posted at 5:53 PM on Mon, Oct 14, 2024:\nAutoGen implements Handoff Multi-Agents @pyautogen\n\nThe core idea of the Handoff mode is to allow Agents to delegate tasks to other Agents, using special tool calls to achieve this, and leveraging the AutoGen Core\nAPI to implement the Handoff mode, taking advantage of AutoGen's scalability, flexibility, and ease of integration.\n\n# Implementation ideas:\n- Multi-Agents collaboration:",
+    "link_lists": [
+      "https://t.co/StuAo9LoSP",
+      "https://x.com/shao__meng/status/1845991257161847071?t=_rWqa2qoE2mTzlbc0eZhCw&s=03"
+    ],
+    "post_summary_cn": "meng shao 介绍了 AutoGen 的 Handoff 模式，该模式允许 Agents 将任务委托给其他 Agents，利用 AutoGen Core API 实现，充分发挥 AutoGen 的可扩展性、灵活性和易于集成的优势。",
+    "post_summary_en": "meng shao introduced the Handoff mode of AutoGen, which allows Agents to delegate tasks to other Agents, leveraging the AutoGen Core API to fully utilize AutoGen's scalability, flexibility, and ease of integration.",
+    "post_datetime": "2024-10-14T19:41:40-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192223a50551b17f": {
+    "email_id": "192223a50551b17f",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 1:18 AM on Mon, Sep 23, 2024:\nGenAI Agents @NirDiamantAI\n\nGenAI Agents 开发的综合性资源，涵盖了从基础到高级的各种理论结合实现的开源项目。\n\n主要特点：\n- 提供各种难度级别的 GenAI Agents 构建教程\n- 探索多种 Agents 架构和应用\n- 包含实用的、随时可用的 Agents 实现\n- 定期更新最新的 GenAI 进展",
+    "post_content_en": "meng shao (@shao__meng) posted at 1:18 AM on Mon, Sep 23, 2024:\nGenAI Agents @NirDiamantAI\n\nComprehensive resources for GenAI Agents development, covering open-source projects that combine theory and implementation from basic to advanced levels.\n\nMain features:\n- Tutorials for building GenAI Agents at various difficulty levels\n- Exploration of multiple Agent architectures and applications\n- Includes practical, ready-to-use Agent implementations\n- Regular updates on the latest GenAI advancements",
+    "link_lists": [
+      "https://t.co/3f1z0Ak1ST",
+      "https://x.com/shao__meng/status/1838130687322566699?t=wtqigjMDrdZvBz4GY64nbw&s=03"
+    ],
+    "post_summary_cn": "meng shao 分享了关于 GenAI Agents 的综合性资源，包括构建教程、架构探索、实用实现和最新进展。",
+    "post_summary_en": "meng shao shared comprehensive resources on GenAI Agents, including tutorials, architecture exploration, practical implementations, and the latest advancements.",
+    "post_datetime": "2024-09-23T21:11:41-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "191636db3be1214e": {
+    "email_id": "191636db3be1214e",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "AIGCLINK (@aigclink) posted at 6:45 PM on Sat, Aug 17, 2024:\n一款轻量级、结合LLM进行网页数据抓取的工具：parsera\n\n支持多种 LLM\n支持提取多种类型文本数据\n使用LLM识别所需提取的信息\n\n#数据提取 #parsera",
+    "post_content_en": "AIGCLINK (@aigclink) posted at 6:45 PM on Sat, Aug 17, 2024:\nA lightweight tool for web data scraping combined with LLM: parsera\n\nSupports multiple LLMs\nSupports extracting various types of text data\nUses LLM to identify the information to be extracted\n\n#DataExtraction #parsera",
+    "link_lists": [
+      "https://t.co/7RWmke3Of2",
+      "https://t.co/qFWst9lFjx",
+      "https://x.com/aigclink/status/1824985974323229166?t=aSV0TwYqP7TaBJh59Vqlqw&s=03"
+    ],
+    "post_summary_cn": "AIGCLINK发布了一款名为parsera的轻量级工具，结合LLM进行网页数据抓取，支持多种LLM和文本数据提取，使用LLM识别所需信息。",
+    "post_summary_en": "AIGCLINK introduced a lightweight tool called parsera for web data scraping combined with LLM, supporting multiple LLMs and text data extraction, using LLM to identify the required information.",
+    "post_datetime": "2024-08-17T20:00:19-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "19163247db47eef3": {
+    "email_id": "19163247db47eef3",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 5:17 PM on Fri, Aug 16, 2024:\n多模态报告生成 AI Agent @llama_index\n\nLlamaIndex 关于多模态模型的 Cookbook，展示了如何从一组研究报告库中构建一个多模态报告生成 AI Agent，作者是\nLlamaIndex 创始人 Jerry Liu @jerryjliu0\n\n作者使用了一组 ICLR 论文，借助 Llama-Parse 工作流抽象来定义一个 Agent",
+    "post_content_en": "meng shao (@shao__meng) posted at 5:17 PM on Fri, Aug 16, 2024:\nMultimodal Report Generation AI Agent @llama_index\n\nLlamaIndex's Cookbook on multimodal models demonstrates how to build a multimodal report generation AI Agent from a set of research report libraries, authored by\nLlamaIndex founder Jerry Liu @jerryjliu0\n\nThe author used a set of ICLR papers, leveraging the Llama-Parse workflow abstraction to define an Agent",
+    "link_lists": [
+      "https://t.co/CdQfHezrDU",
+      "https://x.com/shao__meng/status/1824601351621578896?t=NNh-IiU5nr4RvUp07tafQA&s=03"
+    ],
+    "post_summary_cn": "meng shao 分享了 LlamaIndex 关于多模态模型的 Cookbook，展示了如何构建多模态报告生成 AI Agent，作者是 LlamaIndex 创始人 Jerry Liu。",
+    "post_summary_en": "meng shao shared LlamaIndex's Cookbook on multimodal models, demonstrating how to build a multimodal report generation AI Agent, authored by LlamaIndex founder Jerry Liu.",
+    "post_datetime": "2024-08-17T18:40:21-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "19114965b27eb33b": {
+    "email_id": "19114965b27eb33b",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "小互 (@imxiaohu) posted at 6:51 AM on Fri, Aug 02, 2024:\nMindSearch：能够模仿人类在网络上寻找和整合信息的AI搜索引擎\n\nMindSearch能够在3分钟内从超过300个网页中收集和整合信息，这相当于人类专家大约3小时的工作量。\n\n在深度、广度和生成响应的准确性三个方面，其在人类专家评估中都超越了； Perplexity AI和 ChatGPT。",
+    "post_content_en": "Xiao Hu (@imxiaohu) posted at 6:51 AM on Fri, Aug 02, 2024:\nMindSearch: An AI search engine capable of mimicking humans in searching and integrating information on the web.\n\nMindSearch can collect and integrate information from over 300 web pages in 3 minutes, which is equivalent to about 3 hours of work for a human expert.\n\nIn terms of depth, breadth, and accuracy of generated responses, it has surpassed Perplexity AI and ChatGPT in human expert evaluations.",
+    "link_lists": [
+      "https://t.co/xIPzlIgCb0",
+      "https://x.com/imxiaohu/status/1819370552848761191?t=2MXWmCp_sbP2DJrJjZP5uA&s=03"
+    ],
+    "post_summary_cn": "小互介绍了MindSearch，一个能够模仿人类在网络上寻找和整合信息的AI搜索引擎。MindSearch在3分钟内可以从超过300个网页中收集和整合信息，相当于人类专家3小时的工作量。在深度、广度和生成响应的准确性方面，MindSearch在人类专家评估中超越了Perplexity AI和ChatGPT。",
+    "post_summary_en": "Xiao Hu introduced MindSearch, an AI search engine that mimics humans in searching and integrating information on the web. MindSearch can collect and integrate information from over 300 web pages in 3 minutes, equivalent to 3 hours of work for a human expert. In terms of depth, breadth, and accuracy of generated responses, MindSearch has surpassed Perplexity AI and ChatGPT in human expert evaluations.",
+    "post_datetime": "2024-02-08T12:34:44-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "190e1066baa11125": {
+    "email_id": "190e1066baa11125",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "AIGCLINK (@aigclink) posted at 3:48 AM on Tue, Jul 23, 2024:\n一个灵活易用的 LLM 路由框架：RouteLLM\nRouteLLM解决了大模型性能强价格贵，价格便宜但性能弱的问题，其能够在推理过程中动态选择更强或更弱的LLM，做到降低成本的同时不影响质量\n\n在MT Bench基准上成本降低 85%，同时可以达到 95% 的 GPT-4 性能\n\n功能:\n1、替代OpenAI",
+    "post_content_en": "AIGCLINK (@aigclink) posted at 3:48 AM on Tue, Jul 23, 2024:\nA flexible and easy-to-use LLM routing framework: RouteLLM\nRouteLLM addresses the issue of high-performance but expensive large models versus cheap but weak models. It dynamically selects stronger or weaker LLMs during inference, reducing costs without compromising quality.\n\nOn the MT Bench benchmark, costs are reduced by 85%, while achieving 95% of GPT-4's performance.\n\nFeatures:\n1. Replacement for OpenAI",
+    "link_lists": [
+      "https://t.co/KwcP0e2RJ5",
+      "https://x.com/aigclink/status/1815700556914331662?t=bIygVtB2QBx9mk9eVC14VA&s=03"
+    ],
+    "post_summary_cn": "RouteLLM是一个灵活易用的LLM路由框架，解决了大模型性能强价格贵的问题，能在推理过程中动态选择LLM，降低成本同时不影响质量。在MT Bench基准上成本降低85%，达到95%的GPT-4性能。",
+    "post_summary_en": "RouteLLM is a flexible and easy-to-use LLM routing framework that addresses the issue of high-performance but expensive large models. It dynamically selects LLMs during inference, reducing costs without compromising quality. On the MT Bench benchmark, costs are reduced by 85%, achieving 95% of GPT-4's performance.",
+    "post_datetime": "2024-07-23T12:16:52-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1905f18e265590c2": {
+    "email_id": "1905f18e265590c2",
+    "post_labels": [
+      "LLM/agent",
+      "LLM"
+    ],
+    "post_content_cn": "Tom Huang (@tuturetom) 于 2024年6月27日 6:31 AM 发布：\nTuGraph、OpenSPG、DB-GPT，感觉集齐了构建 AI Native Agentic Data App 的核心要素！🔥\n\n- DB-GPT：图形化界面管理资源、Embedding、图存储、AWEL（Agentic Workflow 表达语言）、构建\nAgent、兼容开源模型、收集数据集和自动微调",
+    "post_content_en": "Tom Huang (@tuturetom) posted at 6:31 AM on Thu, Jun 27, 2024:\nTuGraph, OpenSPG, DB-GPT, it feels like we have gathered the core elements to build an AI Native Agentic Data App! 🔥\n\n- DB-GPT: Graphical interface for resource management, Embedding, graph storage, AWEL (Agentic Workflow Expression Language), building\nAgent, compatible with open-source models, collecting datasets, and automatic fine-tuning",
+    "link_lists": [
+      "https://t.co/77DjjH15kx",
+      "https://t.co/yuWr76LkJ4",
+      "https://x.com/tuturetom/status/1806319351609606470?t=OR-HKm6gOY9eOsq-QZfSQQ&s=03"
+    ],
+    "post_summary_cn": "Tom Huang 认为 TuGraph、OpenSPG 和 DB-GPT 是构建 AI Native Agentic Data App 的核心要素，并详细介绍了 DB-GPT 的功能。",
+    "post_summary_en": "Tom Huang believes that TuGraph, OpenSPG, and DB-GPT are the core elements for building an AI Native Agentic Data App and detailed the features of DB-GPT.",
+    "post_datetime": "2024-06-28T06:46:27-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1904d72deee53016": {
+    "email_id": "1904d72deee53016",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "AIGCLINK (@aigclink) 于2024年6月24日星期一凌晨2:14发布：\n硅基智能将其DUIX（Dialogue User Interface System）开源了\nDUIX是2D 真人级、AIGC 实时渲染数字人模型！\n\n开发者可自行接入多方大模型、语音识别（ASR）、语音合成（TTS）能力实现数字人实时交互\n\n可在Android和iOS多终端一键部署，DUIX还提供了 14 个数字人模板",
+    "post_content_en": "AIGCLINK (@aigclink) posted at 2:14 AM on Mon, Jun 24, 2024:\nSilicon Intelligence has open-sourced its DUIX (Dialogue User Interface System)\nDUIX is a 2D human-level, AIGC real-time rendering digital human model!\n\nDevelopers can integrate multiple large models, speech recognition (ASR), and speech synthesis (TTS) capabilities to achieve real-time interaction with digital humans\n\nIt can be deployed with one click on multiple terminals including Android and iOS, and DUIX also provides 14 digital human templates",
+    "link_lists": [
+      "https://t.co/oD6KffFCNR",
+      "https://x.com/aigclink/status/1805167554174021830?t=j9DhkQ3qiDz2PSt_KXW1Pg&s=03"
+    ],
+    "post_summary_cn": "硅基智能开源了其DUIX系统，这是一个2D真人级、AIGC实时渲染的数字人模型。开发者可以接入大模型、语音识别和语音合成技术，实现数字人实时交互，并支持在Android和iOS多终端一键部署，提供14个数字人模板。",
+    "post_summary_en": "Silicon Intelligence has open-sourced its DUIX system, a 2D human-level, AIGC real-time rendering digital human model. Developers can integrate large models, speech recognition, and speech synthesis for real-time interaction, with one-click deployment on Android and iOS, offering 14 digital human templates.",
+    "post_datetime": "2024-06-24T20:31:32-07:00",
+    "source_language": "cn",
+    "confidence_score": 1.0
+  },
+  "1901e1d3340e613a": {
+    "email_id": "1901e1d3340e613a",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "ginobefun (@hongming731) posted at 2:26 AM on Fri, Jun 14, 2024: 有点爱上 dify 了，今天自己部署了一套服务，尝试写了几个流程，边开发边调试，相比原先通过代码编排和调试效率高太多了，整个页面非常丝滑，后面会逐步将上的一些自动化流程切换到 dify 上来。",
+    "post_content_en": "ginobefun (@hongming731) posted at 2:26 AM on Fri, Jun 14, 2024: I'm starting to fall in love with dify. Today, I deployed a set of services myself, tried writing a few workflows, and developed while debugging. Compared to the previous method of code orchestration and debugging, the efficiency is much higher. The entire page is very smooth. Later, I will gradually switch some automated workflows to dify.",
+    "link_lists": [
+      "https://t.co/gLQOSl6U7V",
+      "https://t.co/Ww3bDvm4lC",
+      "https://x.com/hongming731/status/1801546636126208043?t=yvRcRVnltN9qqOvmaXPXkg&s=03"
+    ],
+    "post_summary_cn": "ginobefun (@hongming731) 表示对 dify 产生了兴趣，今天自己部署了服务并尝试编写了几个流程，开发调试效率显著提高，页面非常流畅，计划将一些自动化流程切换到 dify。",
+    "post_summary_en": "ginobefun (@hongming731) expressed interest in dify, deployed services today, and tried writing a few workflows. The development and debugging efficiency improved significantly, and the page is very smooth. Plans to switch some automated workflows to dify.",
+    "post_datetime": "2024-06-15T15:55:48-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1901e1be6d4b2dfb": {
+    "email_id": "1901e1be6d4b2dfb",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "Leo Xiang (@leeoxiang) posted at 2:14 AM on Sat, Jun 15, 2024:\n又关注到一批 voice agent 方向的产品，这个方向创业的产品越来越多：\n\n1、\n2、\n3、\n\n需要思考的一个问题是：将来你如何分辨电话那头是真人还是 AI？\n(\n)",
+    "post_content_en": "Leo Xiang (@leeoxiang) posted at 2:14 AM on Sat, Jun 15, 2024:\nI have noticed a batch of products in the voice agent direction, and more and more products are being developed in this area:\n\n1、\n2、\n3、\n\nA question to consider is: How will you distinguish whether the person on the other end of the phone is a real person or AI in the future?\n(\n)",
+    "link_lists": [
+      "https://t.co/puwW1f1grAN",
+      "https://t.co/6ZF2AGHWBp",
+      "https://t.co/3pGCO7mZfP",
+      "https://x.com/leeoxiang/status/1801905998736883917?t=eMp57fTPTRyRO49M_nAlFQ&s=03"
+    ],
+    "post_summary_cn": "Leo Xiang 关注到越来越多的 voice agent 方向产品，并提出了一个值得思考的问题：未来如何分辨电话那头是真人还是 AI。",
+    "post_summary_en": "Leo Xiang has noticed an increasing number of products in the voice agent direction and raises a thought-provoking question: How to distinguish whether the person on the other end of the phone is a real person or AI in the future.",
+    "post_datetime": "2024-06-15T15:54:24-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "18febea25084aa94": {
+    "email_id": "18febea25084aa94",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "阅读Dr. Varshita Sher在Medium上的故事：",
+    "post_content_en": "Read this story from Dr. Varshita Sher on Medium:",
+    "link_lists": [
+      "https://towardsdatascience.com/using-langchain-react-agents-for-answering-multi-hop-questions-in-rag-systems-893208c1847e"
+    ],
+    "post_summary_cn": "Dr. Varshita Sher在Medium上分享了一篇关于使用LangChain React代理在RAG系统中回答多跳问题的故事。",
+    "post_summary_en": "Dr. Varshita Sher shares a story on Medium about using LangChain React agents to answer multi-hop questions in RAG systems.",
+    "post_datetime": "2024-05-06T21:59:01-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "18febcac2a05cf16": {
+    "email_id": "18febcac2a05cf16",
+    "post_labels": [
+      "LLM/agent"
+    ],
+    "post_content_cn": "AIGCLINK (@aigclink) 于2024年6月5日星期三晚上8:50发布：\nCohere的使用指南\n可以全面了解如何在 Cohere 生成式 AI 平台上构建应用，比如Agent、开源软件集成、搜索/嵌入、云服务、检索增强生成（RAG）、摘要以及用例等",
+    "post_content_en": "AIGCLINK (@aigclink) posted at 8:50 PM on Wed, Jun 05, 2024:\nCohere User Guide\nYou can fully understand how to build applications on the Cohere generative AI platform, such as Agent, open source software integration, search/embedding, cloud services, retrieval-augmented generation (RAG), summarization, and use cases.",
+    "link_lists": [
+      "https://t.co/K3bRZBQXKj",
+      "https://t.co/4reZhjQlZ0",
+      "https://x.com/aigclink/status/1798563171000824173?t=7a1Aetqo-DGhQy4obJdRnQ&s=03"
+    ],
+    "post_summary_cn": "AIGCLINK发布了Cohere的使用指南，详细介绍了如何在Cohere生成式AI平台上构建各种应用。",
+    "post_summary_en": "AIGCLINK posted a Cohere user guide, detailing how to build various applications on the Cohere generative AI platform.",
+    "post_datetime": "2024-05-06T21:24:44-07:00",
+    "source_language": "cn",
+    "confidence_score": 1.0
+  },
+  "191177442664eb60": {
+    "email_id": "191177442664eb60",
+    "post_labels": [
+      "NLP"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 1:12 AM on Sat, Aug 03, 2024:\n🗒txtai  @neumll  8.3k✨\n\ntxtai 是一个用于语义搜索、 LLM 编排和工作流的全能嵌入数据库 (embeddings db)\n\n嵌入数据库是向量索引、图网络和关系数据库的结合体，这使得可以使用 SQL 进行向量搜索、主题建模、RAG 等。\n它可以独立存在，或者作为 LLM prompts 的强大知识源。\n\n🗒txtai 功能总结",
+    "post_content_en": "meng shao (@shao__meng) posted at 1:12 AM on Sat, Aug 03, 2024:\n🗒txtai  @neumll  8.3k✨\n\ntxtai is an all-in-one embeddings database for semantic search, LLM orchestration, and workflows.\n\nAn embeddings database is a combination of vector indexing, graph networks, and relational databases, enabling vector search, topic modeling, RAG, and more using SQL.\nIt can exist independently or serve as a powerful knowledge source for LLM prompts.\n\n🗒txtai feature summary",
+    "link_lists": [
+      "https://t.co/ljDXKwBAyI",
+      "https://x.com/shao__meng/status/1819647434362151110?t=ZH-gMRb8LIdjatDmV2sIWQ&s=03"
+    ],
+    "post_summary_cn": "txtai 是一个全能嵌入数据库，用于语义搜索、LLM 编排和工作流。它结合了向量索引、图网络和关系数据库，支持使用 SQL 进行向量搜索、主题建模和 RAG 等操作。",
+    "post_summary_en": "txtai is an all-in-one embeddings database for semantic search, LLM orchestration, and workflows. It combines vector indexing, graph networks, and relational databases, enabling operations like vector search, topic modeling, and RAG using SQL.",
+    "post_datetime": "2024-03-08T01:56:22-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "190a51629638241f": {
+    "email_id": "190a51629638241f",
+    "post_labels": [
+      "NLP"
+    ],
+    "post_content_cn": "“自定义词形还原”\n\n阅读 Daniel Kristiyanto 在 Medium 上的文章“NLP: 房产租赁列表的文本摘要和关键词提取 — 第1部分”",
+    "post_content_en": "“custom lemmatization”\n\nRead “NLP: Text Summarization and Keyword Extraction on Property Rental Listings — Part 1“ by Daniel Kristiyanto on Medium",
+    "link_lists": [
+      "https://towardsdatascience.com/nlp-text-summarization-and-keyword-extraction-on-property-rental-listings-part-1-f1b760cc7bbb"
+    ],
+    "post_summary_cn": "Daniel Kristiyanto 在 Medium 上发布了一篇关于 NLP 的文章，讨论了房产租赁列表的文本摘要和关键词提取。",
+    "post_summary_en": "Daniel Kristiyanto published an article on Medium about NLP, discussing text summarization and keyword extraction on property rental listings.",
+    "post_datetime": "2024-11-07T20:56:52-07:00",
+    "source_language": "en",
+    "confidence_score": 0.95
+  },
+  "1902723e66f4eac9": {
+    "email_id": "1902723e66f4eac9",
+    "post_labels": [
+      "NLP"
+    ],
+    "post_content_cn": "",
+    "post_content_en": "",
+    "link_lists": [
+      "https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30",
+      "https://medium.com/aimonks/coreference-resolution-in-natural-language-processing-nlp-5ba4f570bffe"
+    ],
+    "post_summary_cn": "",
+    "post_summary_en": "",
+    "post_datetime": "2024-06-17T09:59:42-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "193c2d3e278fae79": {
+    "email_id": "193c2d3e278fae79",
+    "post_labels": [
+      "LLM",
+      "NotebookLM"
+    ],
+    "post_content_cn": "orange.ai (@oran_ge) 发布于 2024年12月13日 星期五 下午5:02：\nNotebookLM 新版试用地址：\n(\n)",
+    "post_content_en": "orange.ai (@oran_ge) posted at 5:02 PM on Fri, Dec 13, 2024:\nNotebookLM new version trial address:\n(\n)",
+    "link_lists": [
+      "https://t.co/mUE4qYfqlx",
+      "https://x.com/oran_ge/status/1867736778087772657?t=yQhn2FDuPCpJ4vukJgqa_Q&s=03"
+    ],
+    "post_summary_cn": "orange.ai 发布了 NotebookLM 新版的试用地址。",
+    "post_summary_en": "orange.ai posted the trial address for the new version of NotebookLM.",
+    "post_datetime": "2024-12-13T17:41:27-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1938f161fa11850b": {
+    "email_id": "1938f161fa11850b",
+    "post_labels": [
+      "LLM",
+      "NotebookLM"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 7:18 PM on Mon, Dec 02, 2024:\nOllama 即将支持 LLM 结构化输出 🎉\n\n在 @github 办公室举办的 @ollama meetup 中，@thanosthinking 宣布 Ollama 即将支持 LLM\n结构化输出，通过 Github 提交记录可以看到 👇👇\n\n1. 新功能\n\n- 支持传入 JSON schema, 并将其转换为语法规则来进行采样\n- 平衡易用性和功能性 - 通过支持 JSON schema",
+    "post_content_en": "meng shao (@shao__meng) posted at 7:18 PM on Mon, Dec 02, 2024:\nOllama will soon support structured output for LLM 🎉\n\nAt the @ollama meetup held at the @github office, @thanosthinking announced that Ollama will soon support structured output for LLM, as can be seen from the Github commit records 👇👇\n\n1. New features\n\n- Support for passing JSON schema and converting it into grammar rules for sampling\n- Balancing ease of use and functionality - by supporting JSON schema",
+    "link_lists": [
+      "https://t.co/8fDxyk74BW",
+      "https://x.com/shao__meng/status/1863784874509017298?t=2f2Tp1_lRUWdsvon6GscZg&s=03"
+    ],
+    "post_summary_cn": "Ollama 即将支持 LLM 结构化输出，支持传入 JSON schema 并将其转换为语法规则来进行采样，平衡易用性和功能性。",
+    "post_summary_en": "Ollama will soon support structured output for LLM, allowing JSON schema to be passed and converted into grammar rules for sampling, balancing ease of use and functionality.",
+    "post_datetime": "2024-03-12T16:33:32-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192d190af5002103": {
+    "email_id": "192d190af5002103",
+    "post_labels": [
+      "LLM/NotebookLM"
+    ],
+    "post_content_cn": "熊布朗 (@Stephen4171127) posted at 9:19 AM on Sun, Oct 27, 2024:\nMeta 发布了一个开源的 NotebookLM\n步骤 1：预处理 PDF。使用 Llama-3.2-1B-Instruct 来预处理 PDF 并保存为 .txt 文件。\n步骤 2：脚本编写。使用 Llama-3.1-70B-Instruct 来从文本中编写播客脚本。\n步骤 3：戏剧化重写。使用 Llama-3.1-8B-Instruct 模型使脚本更加戏剧化。",
+    "post_content_en": "Xiong Brown (@Stephen4171127) posted at 9:19 AM on Sun, Oct 27, 2024:\nMeta has released an open-source NotebookLM\nStep 1: Preprocess PDF. Use Llama-3.2-1B-Instruct to preprocess PDF and save it as a .txt file.\nStep 2: Script writing. Use Llama-3.1-70B-Instruct to write a podcast script from the text.\nStep 3: Dramatic rewriting. Use the Llama-3.1-8B-Instruct model to make the script more dramatic.",
+    "link_lists": [
+      "https://t.co/S4RgHd2Aef",
+      "https://t.co/s2PShRSpMu",
+      "https://x.com/Stephen4171127/status/1850572995426717916?t=SNs3S-cNFzqCF36rOQqCFg&s=03"
+    ],
+    "post_summary_cn": "Meta 发布了一个开源的 NotebookLM，并详细介绍了使用 Llama 系列模型进行 PDF 预处理、脚本编写和戏剧化重写的步骤。",
+    "post_summary_en": "Meta has released an open-source NotebookLM and detailed the steps for PDF preprocessing, script writing, and dramatic rewriting using the Llama series models.",
+    "post_datetime": "2024-10-27T22:19:33-07:00",
+    "source_language": "cn",
+    "confidence_score": 1.0
+  },
+  "19231470fd03d7dc": {
+    "email_id": "19231470fd03d7dc",
+    "post_labels": [
+      "LLM",
+      "NotebookLM"
+    ],
+    "post_content_cn": "AIGCLINK (@aigclink) posted at 7:16 PM on Thu, Sep 26, 2024:\n赞，NotebookLM新增了音频和YouTube支持功能！这么用起来就方便多了～\n\n1、支持添加YouTube链接和音频文件到笔记本中\n2、改进了Audio Overviews的分享功能\n\n可以做为\n视频和讲座分析助手：总结关键概念，并提供内联引用\n音频助手：可以让NotebookLM 在转录的对话中搜索查找特定信息",
+    "post_content_en": "AIGCLINK (@aigclink) posted at 7:16 PM on Thu, Sep 26, 2024:\nGreat, NotebookLM has added support for audio and YouTube! This makes it much more convenient to use.\n\n1. Supports adding YouTube links and audio files to the notebook\n2. Improved the sharing function of Audio Overviews\n\nCan be used as\nVideo and lecture analysis assistant: Summarize key concepts and provide inline references\nAudio assistant: Allows NotebookLM to search for specific information in transcribed conversations",
+    "link_lists": [
+      "https://t.co/SyhYnl30Kx",
+      "https://x.com/aigclink/status/1839489300393869696?t=aBeZDqEwt34C_VTy9wFIwA&s=03"
+    ],
+    "post_summary_cn": "NotebookLM新增了音频和YouTube支持功能，方便用户添加YouTube链接和音频文件，并改进了Audio Overviews的分享功能。可作为视频和讲座分析助手，总结关键概念并提供内联引用；也可作为音频助手，在转录的对话中搜索特定信息。",
+    "post_summary_en": "NotebookLM has added support for audio and YouTube, allowing users to add YouTube links and audio files, and improved the sharing function of Audio Overviews. It can be used as a video and lecture analysis assistant to summarize key concepts and provide inline references, or as an audio assistant to search for specific information in transcribed conversations.",
+    "post_datetime": "2024-09-26T19:19:53-07:00",
+    "source_language": "cn",
+    "confidence_score": 1.0
+  },
+  "19221e49089695d5": {
+    "email_id": "19221e49089695d5",
+    "post_labels": [
+      "LLM",
+      "NotebookLM"
+    ],
+    "post_content_cn": "AIGCLINK (@aigclink) 于 2024年9月23日星期一上午7:56发布：\nPDF转音频工具：PDF2Audio，NotebookLM的开源替代方案\n可以PDF转播客、讲座、讨论、短/长文摘要等\n\n支持上传多个 PDF 文件\n支持不同指令模板，包括播客、讲座、摘要等\n自定义文本生成和音频模型\n支持不同声音选择\n支持自定义音频长度、语气、风格等",
+    "post_content_en": "AIGCLINK (@aigclink) posted at 7:56 AM on Mon, Sep 23, 2024:\nPDF to Audio Tool: PDF2Audio, an open-source alternative to NotebookLM\nCan convert PDFs to podcasts, lectures, discussions, short/long text summaries, etc.\n\nSupports uploading multiple PDF files\nSupports different command templates, including podcasts, lectures, summaries, etc.\nCustom text generation and audio models\nSupports different voice options\nSupports custom audio length, tone, style, etc.",
+    "link_lists": [
+      "https://t.co/lywPfFAHzg",
+      "https://t.co/tdwWRDiYXw",
+      "https://x.com/aigclink/status/1838231005800624372?t=RKGMCNlu7-IljkjW8tB_Tw&s=03"
+    ],
+    "post_summary_cn": "AIGCLINK发布了一个名为PDF2Audio的开源工具，可以将PDF转换为音频，支持多种格式和自定义选项。",
+    "post_summary_en": "AIGCLINK released an open-source tool called PDF2Audio that converts PDFs to audio, supporting various formats and customization options.",
+    "post_datetime": "2024-09-23T19:38:01-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1923996e5a914c84": {
+    "email_id": "1923996e5a914c84",
+    "post_labels": [
+      "LLM/ppt-generation",
+      "life"
+    ],
+    "post_content_cn": "Jeffery Kaneda 金田達也 (@JefferyTatsuya) posted at 11:32 PM on Fri, Sep 27, 2024: 谁还需要office呢😛",
+    "post_content_en": "Jeffery Kaneda Tatsuya Kanda (@JefferyTatsuya) posted at 11:32 PM on Fri, Sep 27, 2024: Who still needs office?😛",
+    "link_lists": [
+      "https://x.com/JefferyTatsuya/status/1839916194243195345?t=8l6rAjSo1TS0jF958oEfMQ&s=03"
+    ],
+    "post_summary_cn": "Jeffery Kaneda 金田達也 (@JefferyTatsuya) 在2024年9月27日晚上11:32发布了一条帖子，质疑谁还需要Office。",
+    "post_summary_en": "Jeffery Kaneda Tatsuya Kanda (@JefferyTatsuya) posted at 11:32 PM on Fri, Sep 27, 2024, questioning who still needs Office.",
+    "post_datetime": "2024-09-28T10:04:05-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "19236767ca6262b0": {
+    "email_id": "19236767ca6262b0",
+    "post_labels": [
+      "LLM/ppt-generation",
+      "LLM"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 4:45 PM on Fri, Sep 27, 2024:\nAI PPT 助手 @KaranVaidya6\n\n基于 Google Sheets 数据构建 PPT 文稿的 AI Agent, 利用了 LlamaIndex\n@llama_index、Composio @composiohq、CrewAI @crewAIInc、AgentOps @AgentOpsAI 和\nChatGPT 等技术\n\n功能包括读取表格、绘制图表、发现关键洞察并创建 PPT 文稿。",
+    "post_content_en": "meng shao (@shao__meng) posted at 4:45 PM on Fri, Sep 27, 2024:\nAI PPT Assistant @KaranVaidya6\n\nAn AI Agent that builds PPT documents based on Google Sheets data, utilizing technologies such as LlamaIndex\n@llama_index, Composio @composiohq, CrewAI @crewAIInc, AgentOps @AgentOpsAI, and\nChatGPT.\n\nFeatures include reading tables, drawing charts, discovering key insights, and creating PPT documents.",
+    "link_lists": [
+      "https://x.com/shao__meng/status/1839813614263517295?t=e24CpHpjE5MqkIz9jt62uA&s=03"
+    ],
+    "post_summary_cn": "meng shao 发布了一个基于 Google Sheets 数据构建 PPT 文稿的 AI 助手，利用了多种技术，包括 LlamaIndex、Composio、CrewAI、AgentOps 和 ChatGPT。该助手能够读取表格、绘制图表、发现关键洞察并创建 PPT 文稿。",
+    "post_summary_en": "meng shao posted about an AI PPT Assistant that builds PPT documents based on Google Sheets data, utilizing technologies such as LlamaIndex, Composio, CrewAI, AgentOps, and ChatGPT. The assistant can read tables, draw charts, discover key insights, and create PPT documents.",
+    "post_datetime": "2024-09-27T19:29:48-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1905f0edb6c42abf": {
+    "email_id": "1905f0edb6c42abf",
+    "post_labels": [
+      "LLM/ppt-generation"
+    ],
+    "post_content_cn": "orange.ai (@oran_ge) posted at 7:53 PM on Wed, Jun 26, 2024:\nFigma 也杀入 PPT 了\nPPT 是海内外通杀的刚需",
+    "post_content_en": "orange.ai (@oran_ge) posted at 7:53 PM on Wed, Jun 26, 2024:\nFigma has also entered the PPT market\nPPT is a universal necessity both domestically and internationally",
+    "link_lists": [
+      "https://x.com/oran_ge/status/1806158860593528922?t=uE6LPFvrGWwSg1ERBn94nQ&s=03"
+    ],
+    "post_summary_cn": "Figma 进入 PPT 市场，PPT 是国内外都需要的工具。",
+    "post_summary_en": "Figma has entered the PPT market, and PPT is a tool needed both domestically and internationally.",
+    "post_datetime": "2024-06-28T06:35:29-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "18f924a987299d8d": {
+    "email_id": "18f924a987299d8d",
+    "post_labels": [
+      "kids"
+    ],
+    "post_content_cn": "飛鳥 (@askaiwy) posted at 5:29 PM on Sat, May 18, 2024:\n《角鲨肝油的知识》\n\n写这篇关于角鲨肝油的介绍的时候，\n光是查资料就用了差不多大半个月的时间。\n其间为了准确查出对应的专业名词，\n中、日、英三国的网站里面反复切换。\n所以，\n诸位一定要有耐心看到最后啊！\n\n首先我们要分清楚，\n鱼油跟鱼肝油的不同。\n鱼油，…",
+    "post_content_en": "Asuka (@askaiwy) posted at 5:29 PM on Sat, May 18, 2024:\n《Knowledge of Shark Liver Oil》\n\nWhen writing this introduction about shark liver oil,\nI spent almost half a month just researching.\nDuring this time, in order to accurately find the corresponding professional terms,\nI repeatedly switched between Chinese, Japanese, and English websites.\nSo,\neveryone must be patient and read to the end!\n\nFirst, we need to distinguish between\nfish oil and fish liver oil.\nFish oil,…",
+    "link_lists": [
+      "https://t.co/eM82FWxyRm",
+      "https://x.com/askaiwy/status/1791989619753640168?t=fkURtChNKqWSXinAmtR7lQ&s=03"
+    ],
+    "post_summary_cn": "飛鳥分享了关于角鲨肝油的知识，强调了鱼油和鱼肝油的区别，并提到为了准确查找专业名词，花费了大量时间在中、日、英三国网站间切换。",
+    "post_summary_en": "Asuka shared knowledge about shark liver oil, emphasizing the difference between fish oil and fish liver oil, and mentioned spending a lot of time switching between Chinese, Japanese, and English websites to accurately find professional terms.",
+    "post_datetime": "2024-05-19T12:18:33-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "18f6fef7ec95cb5c": {
+    "email_id": "18f6fef7ec95cb5c",
+    "post_labels": [
+      "good_material",
+      "kids"
+    ],
+    "post_content_cn": "",
+    "post_content_en": "",
+    "link_lists": [
+      "https://twitter.com/essen_ai/status/1789471688121274678",
+      "https://immersivemath.com/ila/index.html#"
+    ],
+    "post_summary_cn": "推荐一个沉浸式数学网站immersivemath，特别适合有小孩在念书的家长，尤其是海外华人。",
+    "post_summary_en": "Recommends an immersive math website, immersivemath, especially helpful for parents with school-going children, particularly overseas Chinese.",
+    "post_datetime": "2024-12-05T20:11:57-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1922a3e859b891b1": {
+    "email_id": "1922a3e859b891b1",
+    "post_labels": [
+      "LLM/git-project"
+    ],
+    "post_content_cn": "AIGCLINK (@aigclink) 于2024年9月24日星期二晚上7:03发布：\nMarkdown文本转思维导图工具：markmap\n通过解析Markdown语法，实时生成结构化思维导图\n\n轻量级，可与VS Code、Vim/Neovim、Emacs集成\n支持实时渲染、可定制可交互，嵌入性强",
+    "post_content_en": "AIGCLINK (@aigclink) posted at 7:03 PM on Tue, Sep 24, 2024:\nMarkdown to mind map tool: markmap\nBy parsing Markdown syntax, it generates structured mind maps in real-time\n\nLightweight, integrates with VS Code, Vim/Neovim, Emacs\nSupports real-time rendering, customizable, interactive, and highly embeddable",
+    "link_lists": [
+      "https://t.co/lPYJJ0X8mu",
+      "https://t.co/X0FtksjoTV",
+      "https://x.com/aigclink/status/1838761274420900103?t=9f2VNJK7kFQIDpbLp_pG6w&s=03"
+    ],
+    "post_summary_cn": "AIGCLINK发布了一款名为markmap的工具，可将Markdown文本实时转换为结构化思维导图。该工具轻量级，支持与VS Code、Vim/Neovim、Emacs集成，并具有实时渲染、可定制、可交互和强嵌入性等特点。",
+    "post_summary_en": "AIGCLINK introduced a tool called markmap that converts Markdown text into structured mind maps in real-time. The tool is lightweight, integrates with VS Code, Vim/Neovim, Emacs, and features real-time rendering, customization, interactivity, and strong embeddability.",
+    "post_datetime": "2024-09-25T10:33:14-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "191704314e946803": {
+    "email_id": "191704314e946803",
+    "post_labels": [
+      "LLM/git-project"
+    ],
+    "post_content_cn": "一个基于知识图谱的智能问答系统：fact-finder\n利用LLM和 Neo4j 数据库实现自动化查询与回答，实现了从用户问题到自然语言答案的自动化转换过程\n\n特点：\n1、基于知识图谱：使用Neo4j 数据库存储和管理知识图谱，并利用它来回答问题",
+    "post_content_en": "A knowledge graph-based intelligent Q&A system: fact-finder\nUtilizes LLM and Neo4j database to achieve automated querying and answering, realizing the automated conversion process from user questions to natural language answers.\n\nFeatures:\n1. Knowledge graph-based: Uses Neo4j database to store and manage the knowledge graph, and leverages it to answer questions.",
+    "link_lists": [
+      "https://t.co/MdTaBB3CBf",
+      "https://x.com/aigclink/status/1825808691075100687?t=wjaCDJi7PUSj_VlUZeYnug&s=03"
+    ],
+    "post_summary_cn": "介绍了一个基于知识图谱的智能问答系统fact-finder，利用LLM和Neo4j数据库实现自动化查询与回答。",
+    "post_summary_en": "Introduces a knowledge graph-based intelligent Q&A system, fact-finder, which utilizes LLM and Neo4j database for automated querying and answering.",
+    "post_datetime": "2024-08-20T07:48:50-07:00",
+    "source_language": "cn",
+    "confidence_score": 1.0
+  },
+  "1916db2af63b5ffa": {
+    "email_id": "1916db2af63b5ffa",
+    "post_labels": [
+      "LLM",
+      "git-project"
+    ],
+    "post_content_cn": "Tom Huang (@tuturetom) posted at 6:13 PM on Sun, Aug 18, 2024:\n更快，同时性能损失降到最低？800 行代码轻量级 GraphRAG 来了 ⚡️ 🤯🤯\n\nnano-GraphRAG 抽离 GraphRAG 最核心实现并允许你替换 LLM、Embedding\n模块，提供异步和类型安全的实现，非常适合研究学习 GraphRAG 源码并适配自身业务🔥",
+    "post_content_en": "Tom Huang (@tuturetom) posted at 6:13 PM on Sun, Aug 18, 2024:\nFaster, with minimal performance loss? The lightweight GraphRAG with 800 lines of code is here ⚡️ 🤯🤯\n\nnano-GraphRAG extracts the core implementation of GraphRAG and allows you to replace the LLM and Embedding\nmodules, providing asynchronous and type-safe implementations, making it ideal for studying GraphRAG source code and adapting it to your own business🔥",
+    "link_lists": [
+      "https://t.co/FpWEV0viyU",
+      "https://t.co/eohTiVAaUJ",
+      "https://x.com/tuturetom/status/1825340242578317732?t=1QSmehD__de6w8LbAkBr-g&s=03"
+    ],
+    "post_summary_cn": "Tom Huang 发布了一个轻量级的 GraphRAG 实现，仅需 800 行代码，性能损失最小，适合研究和业务适配。",
+    "post_summary_en": "Tom Huang released a lightweight GraphRAG implementation with only 800 lines of code, minimizing performance loss, ideal for research and business adaptation.",
+    "post_datetime": "2024-08-19T19:51:54-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "193b3651694b78cf": {
+    "email_id": "193b3651694b78cf",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "宝玉 (@dotey) posted at 11:24 PM on Sat, Dec 07, 2024:\n很多人还不知道 AIStudio 可以免费体验 Gemini 的",
+    "post_content_en": "Baoyu (@dotey) posted at 11:24 PM on Sat, Dec 07, 2024:\nMany people still don't know that AIStudio offers a free trial of Gemini.",
+    "link_lists": [
+      "https://t.co/nitrFrnNP9",
+      "https://x.com/dotey/status/1865658660703068195?t=9OG5PDRYFx5WPKUGae5FQg&s=03"
+    ],
+    "post_summary_cn": "宝玉提醒大家AIStudio提供Gemini的免费体验。",
+    "post_summary_en": "Baoyu reminds everyone that AIStudio offers a free trial of Gemini.",
+    "post_datetime": "2024-10-12T17:46:08-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1939256722b39736": {
+    "email_id": "1939256722b39736",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "宝玉 (@dotey) posted at 6:56 PM on Tue, Dec 03, 2024:\nClaude 新的 MCP 协议的超酷案例，用户直接从 Claude\n客户端发消息，就可以对微信群的历史总结、查询。比如你早上起来一看群里上千条消息，就给 Claude 发一条消息：“他们一大早在聊啥？”，于是\nClaude 就访问 MCP Server 去查询最新的消息，并总结回复给你。",
+    "post_content_en": "Baoyu (@dotey) posted at 6:56 PM on Tue, Dec 03, 2024:\nA super cool case of Claude's new MCP protocol, where users can directly send messages from the Claude client to summarize and query the history of WeChat groups. For example, when you wake up in the morning and see thousands of messages in the group, you can send a message to Claude: 'What were they talking about this morning?' Then Claude will access the MCP Server to query the latest messages and summarize them for you.",
+    "link_lists": [
+      "https://x.com/dotey/status/1864141603096678658?t=J4H0DCMMFEZrkZcWcidePQ&s=03"
+    ],
+    "post_summary_cn": "Claude的新MCP协议允许用户通过客户端直接查询和总结微信群的历史消息。",
+    "post_summary_en": "Claude's new MCP protocol allows users to directly query and summarize the history of WeChat group messages through the client.",
+    "post_datetime": "2024-04-12T07:42:40-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1937fa3373dc97e1": {
+    "email_id": "1937fa3373dc97e1",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "Tom Dörr (@tom_doerr) 于2024年11月29日星期五晚上9:49发布：\n“开源的LLMOps平台：提示游乐场、提示管理、LLM评估和LLM可观察性一站式服务。”",
+    "post_content_en": "Tom Dörr (@tom_doerr) posted at 9:49 PM on Fri, Nov 29, 2024:\n\"The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.\"",
+    "link_lists": [
+      "https://t.co/ShiUzBlcuo",
+      "https://x.com/tom_doerr/status/1862735724006523039?t=27wXm3TgjFO1w6TGGxWDVg&s=03"
+    ],
+    "post_summary_cn": "Tom Dörr 发布了一个开源的LLMOps平台，集成了提示游乐场、提示管理、LLM评估和LLM可观察性功能。",
+    "post_summary_en": "Tom Dörr announced an open-source LLMOps platform that integrates prompt playground, prompt management, LLM evaluation, and LLM Observability.",
+    "post_datetime": "2024-11-30T16:33:43-08:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "193460a549478438": {
+    "email_id": "193460a549478438",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 11:08 PM on Mon, Nov 18, 2024:\nLLM 生成文本的四种性格：从保守派到创新者\n\n// LLM 生成文本的四种策略(贪婪、多项式采样、集束搜索、对比搜索)，就像不同性格的写手，通过调节温度、Top-K\n等参数，在\"严谨-创意\"光谱上找到最适合当前任务的平衡点\n\n1. 贪婪策略(Greedy)就像一个谨慎的人：\n- 永远选最稳的选项",
+    "post_content_en": "meng shao (@shao__meng) posted at 11:08 PM on Mon, Nov 18, 2024:\nFour personalities of LLM-generated text: From conservatives to innovators\n\n// Four strategies for LLM-generated text (greedy, polynomial sampling, beam search, contrastive search), like writers with different personalities, find the most suitable balance for the current task on the \"rigorous-creative\" spectrum by adjusting parameters such as temperature and Top-K\n\n1. The greedy strategy is like a cautious person:\n- Always choose the safest option",
+    "link_lists": [
+      "https://t.co/6zYys7czFq",
+      "https://x.com/shao__meng/status/1858769277983379519?t=WYlJj5oFYTzhuxuEL5CDMw&s=03"
+    ],
+    "post_summary_cn": "meng shao 讨论了LLM生成文本的四种策略，包括贪婪、多项式采样、集束搜索和对比搜索，这些策略通过调节参数在严谨与创意之间找到平衡。",
+    "post_summary_en": "meng shao discussed four strategies for LLM-generated text, including greedy, polynomial sampling, beam search, and contrastive search, which find a balance between rigor and creativity by adjusting parameters.",
+    "post_datetime": "2024-11-19T12:08:22-08:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1930f733da07e48b": {
+    "email_id": "1930f733da07e48b",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "Rohan Paul (@rohanpaul_ai) 于2024年11月8日星期五上午10:02发布：\n关于基础模型介绍的好课程",
+    "post_content_en": "Rohan Paul (@rohanpaul_ai) posted at 10:02 AM on Fri, Nov 08, 2024:\nA good course on Introduction to Foundation Models",
+    "link_lists": [
+      "https://t.co/8YEWg6aflQ",
+      "https://x.com/rohanpaul_ai/status/1854947658689134924?t=RWcKwZyJfPp72N6StQUXOg&s=03"
+    ],
+    "post_summary_cn": "Rohan Paul 推荐了一门关于基础模型介绍的课程。",
+    "post_summary_en": "Rohan Paul recommended a course on Introduction to Foundation Models.",
+    "post_datetime": "2024-08-11T21:43:51-08:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "192b5400ca9339f7": {
+    "email_id": "192b5400ca9339f7",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "歸藏(guizang.ai) (@op7418) posted at 0:17 AM on Tue, Oct 22, 2024:\nMeta 上周开源了一个端到端的语音模型 Spirit LM。\n\n这个太重要了，居然没注意到。\n\n这个模型有两个版本：\n\n基础版： 适合进行一般的语音识别和生成，不包含情感变化。\n\n高表现力版：可以捕捉语音中的情感特征，能够生成包含快乐、愤怒或兴奋等情感的语音。\n\n主要特点有：\n\nSpirit LM\n(\n)",
+    "post_content_en": "Guizang (guizang.ai) (@op7418) posted at 0:17 AM on Tue, Oct 22, 2024:\nMeta open-sourced an end-to-end speech model called Spirit LM last week.\n\nThis is so important, I can't believe I missed it.\n\nThe model has two versions:\n\nBasic version: Suitable for general speech recognition and generation, without emotional variations.\n\nHigh expressiveness version: Can capture emotional characteristics in speech and generate speech with emotions such as happiness, anger, or excitement.\n\nMain features include:\n\nSpirit LM\n(\n)",
+    "link_lists": [
+      "https://t.co/KPKitdbJD6",
+      "https://x.com/op7418/status/1848624774785986676?t=GmUamkm_SYS_WzHtuXtqyw&s=03"
+    ],
+    "post_summary_cn": "Meta 上周开源了端到端语音模型 Spirit LM，包含基础版和高表现力版，后者能生成带情感的语音。",
+    "post_summary_en": "Meta open-sourced the end-to-end speech model Spirit LM last week, which includes a basic version and a high expressiveness version capable of generating emotional speech.",
+    "post_datetime": "2024-10-22T10:22:08-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192aff7f75df9191": {
+    "email_id": "192aff7f75df9191",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "linear uncle (@LinearUncle) posted at 8:43 PM on Sun, Oct 20, 2024:\n好久没写推特了，今天分享如何在Mac本地运行千问Qwen2-VL-7B模型💻。\n\nOllama有些落后，现在LM Studio支持MLX格式模型并自带聊天UI🛠️。\n\n测试了千问的视觉模型的 3 个型号，复杂识别一般，简单场景还行👀。\n\n现在MLX的开源库发展生机勃勃，例如mlx-lm, mlx-whisper。\n\nollama不要偷懒啊！",
+    "post_content_en": "linear uncle (@LinearUncle) posted at 8:43 PM on Sun, Oct 20, 2024:\nIt's been a while since I last tweeted. Today, I'll share how to run the Qwen2-VL-7B model locally on a Mac💻.\n\nOllama is a bit outdated. Now, LM Studio supports MLX format models and comes with a chat UI🛠️.\n\nTested three models of Qwen's visual model. Complex recognition is average, but simple scenes are okay👀.\n\nThe MLX open-source libraries are thriving, such as mlx-lm, mlx-whisper.\n\nOllama, don't be lazy!",
+    "link_lists": [
+      "https://t.co/5AQ5R2a7VO",
+      "https://x.com/LinearUncle/status/1848208380655255719?t=DClXsk6SURi4s_sLyJ71RA&s=03"
+    ],
+    "post_summary_cn": "Linear Uncle分享了在Mac本地运行Qwen2-VL-7B模型的方法，提到LM Studio支持MLX格式模型并自带聊天UI。测试了千问视觉模型的三个型号，复杂识别一般，简单场景还行。MLX开源库发展迅速，如mlx-lm和mlx-whisper。",
+    "post_summary_en": "Linear Uncle shared how to run the Qwen2-VL-7B model locally on a Mac, mentioning that LM Studio supports MLX format models and comes with a chat UI. Tested three models of Qwen's visual model, with complex recognition being average and simple scenes being okay. MLX open-source libraries are thriving, such as mlx-lm and mlx-whisper.",
+    "post_datetime": "2024-10-21T09:45:17-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1928e2aef24d00cb": {
+    "email_id": "1928e2aef24d00cb",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "TuringPost (@TheTuringPost) 发布于 2024年10月14日星期一 下午6:11:\nBaichuan Inc, @Westlake_Uni, @ZJU_China",
+    "post_content_en": "TuringPost (@TheTuringPost) posted at 6:11 PM on Mon, Oct 14, 2024:\nBaichuan Inc, @Westlake_Uni, @ZJU_China",
+    "link_lists": [
+      "https://t.co/fHrj6mSqsN",
+      "https://t.co/iTXMquVHRv",
+      "https://t.co/IxwqGV3nEf",
+      "https://x.com/TheTuringPost/status/1845995803862773910?t=Hd_Dsm-YztU1HMhm-oCufg&s=03"
+    ],
+    "post_summary_cn": "TuringPost 在2024年10月14日发布了一条关于Baichuan Inc、西湖大学和浙江大学的帖子。",
+    "post_summary_en": "TuringPost posted about Baichuan Inc, Westlake University, and Zhejiang University on October 14, 2024.",
+    "post_datetime": "2024-10-14T20:13:52-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "1923998e7242c0be": {
+    "email_id": "1923998e7242c0be",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "Tom Huang (@tuturetom) 于 2024 年 9 月 27 日星期五下午 6:35 发布：\n10 行代码即可基于 Meta 最新的 Llama 3.2 进行后训练？还能使用自己的数据集！⚡️\n\nHuggingface 发布的 trl 开源库支持了 sft_vlm 脚本！支持对 11B 的多模态模型进行微调🔥",
+    "post_content_en": "Tom Huang (@tuturetom) posted at 6:35 PM on Fri, Sep 27, 2024:\nJust 10 lines of code to perform post-training based on Meta's latest Llama 3.2? You can even use your own dataset! ⚡️\n\nHuggingface's trl open-source library now supports the sft_vlm script! Supports fine-tuning of 11B multimodal models🔥",
+    "link_lists": [
+      "https://t.co/o1seLclUjc",
+      "https://t.co/fgrlg5n3GZ",
+      "https://x.com/tuturetom/status/1839841204315566399?t=p5GeGLwnadbQVhVdC-p-iQ&s=03"
+    ],
+    "post_summary_cn": "Tom Huang 发布了一条关于使用 10 行代码基于 Meta 的 Llama 3.2 进行后训练的消息，并提到 Huggingface 的 trl 开源库支持对 11B 多模态模型进行微调。",
+    "post_summary_en": "Tom Huang posted about using just 10 lines of code for post-training based on Meta's Llama 3.2, and mentioned that Huggingface's trl open-source library supports fine-tuning of 11B multimodal models.",
+    "post_datetime": "2024-09-28T10:06:16-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "19239720ee4d8e1a": {
+    "email_id": "19239720ee4d8e1a",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "Kalyan KS (@kalyan_kpl) 于2024年9月27日晚上7:32发布：\n7个需要了解的LLM生成参数\n\n- max_tokens\n- temperature\n- top_p\n- top_k\n- frequency penalty\n- presence penalty\n- stop sequence\n\n#llms #parameters #nlproc #textgeneration #deeplearning",
+    "post_content_en": "Kalyan KS (@kalyan_kpl) posted at 7:32 PM on Fri, Sep 27, 2024:\n7 LLM Generation Parameters To Know\n\n- max_tokens\n- temperature\n- top_p\n- top_k\n- frequency penalty\n- presence penalty\n- stop sequence\n\n#llms #parameters #nlproc #textgeneration #deeplearning",
+    "link_lists": [
+      "https://t.co/LEixr3a1Nv",
+      "https://x.com/kalyan_kpl/status/1839855780130107462?t=2b9-a94nPH_3OylvyvALUg&s=03"
+    ],
+    "post_summary_cn": "Kalyan KS 分享了7个需要了解的LLM生成参数，包括max_tokens、temperature、top_p、top_k、frequency penalty、presence penalty和stop sequence。",
+    "post_summary_en": "Kalyan KS shared 7 key LLM generation parameters to know, including max_tokens, temperature, top_p, top_k, frequency penalty, presence penalty, and stop sequence.",
+    "post_datetime": "2024-09-28T09:23:51-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "1923148621b83746": {
+    "email_id": "1923148621b83746",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "Yangqing Jia (@jiayq) 于2024年9月26日星期四上午10:59发布：\n我们对@OpenAI的语音模式体验和@AIatMeta的llama 3.2发布感到非常惊讶。那么将它们结合起来会怎样呢？\n\n很高兴分享Lepton LLM引擎现在原生支持开源模型的语音输入和输出 - 首次音频生成时间",
+    "post_content_en": "Yangqing Jia (@jiayq) posted at 10:59 AM on Thu, Sep 26, 2024:\nWe've been amazed by the @OpenAI voice mode experience and the @AIatMeta llama 3.2 release. And how about combining them together?\n\nExcited to share that the Lepton LLM engine now natively supports voice input and output for open source models - with a time to first audio",
+    "link_lists": [
+      "https://x.com/jiayq/status/1839364177485607185?t=5sOb9dNlRrCaYBw_ENhI3Q&s=03"
+    ],
+    "post_summary_cn": "Yangqing Jia对OpenAI的语音模式和Meta的llama 3.2发布表示赞赏，并分享了Lepton LLM引擎现在支持开源模型的语音输入和输出。",
+    "post_summary_en": "Yangqing Jia expressed admiration for OpenAI's voice mode and Meta's llama 3.2 release, and shared that the Lepton LLM engine now supports voice input and output for open source models.",
+    "post_datetime": "2024-09-26T19:21:20-07:00",
+    "source_language": "en",
+    "confidence_score": 0.95
+  },
+  "1922fd75f4b1b31a": {
+    "email_id": "1922fd75f4b1b31a",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "AIGCLINK (@aigclink) 于2024年9月26日星期四凌晨2:15发布：\n很有意思的一个项目，用Excel手动实现AI算法练习：ai-by-hand-excel，在Excel里体验AI的魅力\n\n目前包含了softmax、LeakyReLU、反向传播、Transformer 和循环神经网络 (RNN) 等\n\n后面会增加自注意力、多层感知器 (MLP) 和生成对抗网络 (GAN) 等\n\n#AI算法 #AI算法学习",
+    "post_content_en": "AIGCLINK (@aigclink) posted at 2:15 AM on Thu, Sep 26, 2024:\nA very interesting project, manually implementing AI algorithm exercises in Excel: ai-by-hand-excel, experience the charm of AI in Excel.\n\nCurrently includes softmax, LeakyReLU, backpropagation, Transformer, and Recurrent Neural Networks (RNN), etc.\n\nLater, self-attention, Multi-Layer Perceptron (MLP), and Generative Adversarial Networks (GAN) will be added.\n\n#AI algorithms #AI algorithm learning",
+    "link_lists": [
+      "https://t.co/GcHbjVFi0y",
+      "https://t.co/CwvCEPl3e6",
+      "https://x.com/aigclink/status/1839232237558182076?t=eGwR_9gJFCQPSe4I1-hSRg&s=03"
+    ],
+    "post_summary_cn": "AIGCLINK发布了一个有趣的项目，通过Excel手动实现AI算法练习，目前包含多种算法，未来将增加更多功能。",
+    "post_summary_en": "AIGCLINK posted an interesting project manually implementing AI algorithm exercises in Excel, currently including various algorithms, with more features to be added in the future.",
+    "post_datetime": "2024-09-26T12:38:15-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1922d0a8e8c01cc0": {
+    "email_id": "1922d0a8e8c01cc0",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 5:21 PM on Wed, Sep 25, 2024:\nLlama 3.2 视觉模型最新应用方向: Napkins\n\n是一个开源的线框图到应用生成器, 它的核心功能是接收用户上传的线框图或草图, 然后利用 AI\n技术将其转换为可运行的 Web 应用程序, 大大加速原型设计和开发过程。\n\n技术栈:\n- Meta Llama 3.1 405B 作为主要语言模型\n- Meta Llama",
+    "post_content_en": "meng shao (@shao__meng) posted at 5:21 PM on Wed, Sep 25, 2024:\nLlama 3.2 Visual Model Latest Application Direction: Napkins\n\nIt is an open-source wireframe-to-application generator. Its core function is to receive user-uploaded wireframes or sketches and then use AI\ntechnology to convert them into runnable web applications, greatly accelerating the prototyping and development process.\n\nTech Stack:\n- Meta Llama 3.1 405B as the main language model\n- Meta Llama",
+    "link_lists": [
+      "https://t.co/xmBywgvBLW",
+      "https://t.co/3TCEDzHsMk",
+      "https://x.com/shao__meng/status/1839097896970629193?t=1WaM4Y6LNVAU_KPX7yJNCA&s=03"
+    ],
+    "post_summary_cn": "meng shao (@shao__meng) 发布了关于 Llama 3.2 视觉模型在 Napkins 应用中的最新进展。该应用是一个开源的线框图到应用生成器，利用 AI 技术将线框图或草图转换为可运行的 Web 应用程序，加速原型设计和开发过程。技术栈包括 Meta Llama 3.1 405B 作为主要语言模型。",
+    "post_summary_en": "meng shao (@shao__meng) posted about the latest application direction of the Llama 3.2 visual model in Napkins. The application is an open-source wireframe-to-application generator that uses AI technology to convert wireframes or sketches into runnable web applications, speeding up the prototyping and development process. The tech stack includes Meta Llama 3.1 405B as the main language model.",
+    "post_datetime": "2024-09-25T23:35:20-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1922d0a64f799829": {
+    "email_id": "1922d0a64f799829",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "Tom Huang (@tuturetom) posted at 7:00 PM on Wed, Sep 25, 2024:\nMeta 正在定义 LLM 时代的 PyTorch？⚡️🤯🤯 宣布正式开源 Llama Stack，短时间飙升 648 Star 🔥\n\nLlama Stack 将 LLM 应用构建生成周期的所有组件打包，包括训练、微调、产品评估、观测、Agent &\nMemory、合成数据生成等，并支持 9+ 提供商💪",
+    "post_content_en": "Tom Huang (@tuturetom) posted at 7:00 PM on Wed, Sep 25, 2024:\nIs Meta defining PyTorch for the LLM era? ⚡️🤯🤯 Announced the official open-source of Llama Stack, which skyrocketed 648 Stars in a short time 🔥\n\nLlama Stack packages all components of the LLM application build lifecycle, including training, fine-tuning, product evaluation, observation, Agent &\nMemory, synthetic data generation, etc., and supports 9+ providers💪",
+    "link_lists": [
+      "https://t.co/fcsGWb7JMm",
+      "https://x.com/tuturetom/status/1839122960948539415?t=53Rk8TcILjSGEQR4RLlWsA&s=03"
+    ],
+    "post_summary_cn": "Meta 宣布开源 Llama Stack，该工具包将 LLM 应用构建生成周期的所有组件打包，支持 9+ 提供商，短时间内获得 648 Star。",
+    "post_summary_en": "Meta announced the open-source of Llama Stack, which packages all components of the LLM application build lifecycle, supports 9+ providers, and gained 648 Stars in a short time.",
+    "post_datetime": "2024-09-25T23:35:10-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1922d09f40b85f3c": {
+    "email_id": "1922d09f40b85f3c",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "Kai-Fu Lee (@kaifulee) 于2024年9月25日星期三晚上9:01发布：\nOpenAI刚刚发生了什么？？？ 这是我最喜欢的“记者”报道和总结最近的事件。",
+    "post_content_en": "Kai-Fu Lee (@kaifulee) posted at 9:01 PM on Wed, Sep 25, 2024:\nWhat just happened at OpenAI??? Here is my favorite 'reporter' reporting and summarizing recent events.",
+    "link_lists": [
+      "https://t.co/I3rsBQm2mE",
+      "https://x.com/kaifulee/status/1839153300572352921?t=HRwn6Q0-mb9SyfpL-agMhA&s=03"
+    ],
+    "post_summary_cn": "李开复在2024年9月25日晚上9:01发布了一条关于OpenAI最近事件的帖子，并推荐了他最喜欢的记者的报道。",
+    "post_summary_en": "Kai-Fu Lee posted on September 25, 2024, at 9:01 PM about recent events at OpenAI and recommended his favorite reporter's coverage.",
+    "post_datetime": "2024-09-25T23:34:41-07:00",
+    "source_language": "en",
+    "confidence_score": 1.0
+  },
+  "1922cfe391bc3ff1": {
+    "email_id": "1922cfe391bc3ff1",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "Tom Huang (@tuturetom) posted at 7:07 PM on Wed, Sep 25, 2024:\nLlama Stack 技术架构一览 ⚡️ 新一轮 LLMOps & Infra 开始角逐 🤔",
+    "post_content_en": "Tom Huang (@tuturetom) posted at 7:07 PM on Wed, Sep 25, 2024:\nLlama Stack technical architecture overview ⚡️ A new round of LLMOps & Infra competition begins 🤔",
+    "link_lists": [
+      "https://t.co/fcsGWb7JMm",
+      "https://t.co/fnBu4Swfbn",
+      "https://x.com/tuturetom/status/1839124585670947023?t=9To-rc9HKkCHYft-JBqQvw&s=03"
+    ],
+    "post_summary_cn": "Tom Huang 发布了关于 Llama Stack 技术架构的帖子，并提到新一轮 LLMOps & Infra 的竞争已经开始。",
+    "post_summary_en": "Tom Huang posted about the Llama Stack technical architecture and mentioned that a new round of LLMOps & Infra competition has begun.",
+    "post_datetime": "2024-09-25T23:21:52-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "1922a965beb632df": {
+    "email_id": "1922a965beb632df",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "Jim Fan (@DrJimFan) 于2024年9月25日星期三上午11:42发布：\n我刚刚查看了Llama-3.2-11B（视觉）在视觉语言基准测试中的表现。令人惊讶的是，开源社区在轻量级模型类别中并不落后！Pixtral、Qwen2-VL、Molmo和InternVL2都表现强劲。开源AI模型从未如此强大。",
+    "post_content_en": "Jim Fan (@DrJimFan) posted at 11:42 AM on Wed, Sep 25, 2024:\nI just pulled the numbers on vision-language benchmarks for Llama-3.2-11B (vision). Surprisingly, the open-source community at large isn't behind in the lightweight model class! Pixtral, Qwen2-VL, Molmo, and InternVL2 all stand strong. OSS AI models have never been stronger.",
+    "link_lists": [
+      "https://t.co/NQaVVggNcU",
+      "https://x.com/DrJimFan/status/1839012622441787430?t=T3bmOCbh0H26HRaPM7SAiw&s=03"
+    ],
+    "post_summary_cn": "Jim Fan分享了Llama-3.2-11B在视觉语言基准测试中的表现，指出开源社区在轻量级模型类别中表现强劲，Pixtral、Qwen2-VL、Molmo和InternVL2等模型表现突出。",
+    "post_summary_en": "Jim Fan shared the performance of Llama-3.2-11B on vision-language benchmarks, noting that the open-source community is strong in the lightweight model class, with Pixtral, Qwen2-VL, Molmo, and InternVL2 performing well.",
+    "post_datetime": "2024-09-25T12:09:10-07:00",
+    "source_language": "en",
+    "confidence_score": 0.95
+  },
+  "19222379902e02e8": {
+    "email_id": "19222379902e02e8",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "Tom Huang (@tuturetom) posted at 7:02 PM on Sun, Sep 22, 2024:\n阿里最近发布的 QWen 2.5 70B 有点牛逼🐂🍺 在 LiveBench Coding 榜单上已经拿下第二！超越 gpt-4o\n和最近发布的半成品 O1-preview 🤪\n\nLiveBench 是英伟达，NYU，@ylecun 等人发起的权威榜单，评定有挑战性任务的模型得分",
+    "post_content_en": "Tom Huang (@tuturetom) posted at 7:02 PM on Sun, Sep 22, 2024:\nAli recently released QWen 2.5 70B, which is quite impressive 🐂🍺. It has already secured the second place on the LiveBench Coding leaderboard, surpassing gpt-4o\nand the recently released semi-finished product O1-preview 🤪\n\nLiveBench is an authoritative leaderboard initiated by NVIDIA, NYU, @ylecun, and others, evaluating model scores on challenging tasks.",
+    "link_lists": [
+      "https://t.co/7Z2FixtvB2",
+      "https://t.co/SYVWB1lZ0r",
+      "https://x.com/tuturetom/status/1838036239603397071?t=UIO_Wv1KHiBCJK-1SuznSg&s=03"
+    ],
+    "post_summary_cn": "阿里发布的 QWen 2.5 70B 在 LiveBench Coding 榜单上排名第二，超越了 gpt-4o 和 O1-preview。LiveBench 是由英伟达、NYU 和 @ylecun 等发起的权威榜单。",
+    "post_summary_en": "Ali's QWen 2.5 70B has ranked second on the LiveBench Coding leaderboard, surpassing gpt-4o and O1-preview. LiveBench is an authoritative leaderboard initiated by NVIDIA, NYU, and @ylecun.",
+    "post_datetime": "2024-09-23T21:08:43-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "19221f2c71f8d36e": {
+    "email_id": "19221f2c71f8d36e",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "meng shao (@shao__meng) posted at 4:54 PM on Mon, Sep 23, 2024:\n从 LLM 到 LRM: OpenAI O1 模型在 PlanBench 上的规划能力评估\n\n最新 LLMs 仍然无法规划, 大型推理模型 (LRM, OpenAI o1) 可以吗? 一起看看 👇\n\nLLMs 的规划表现:\n- 最新的 LLMs 在普通 Blocksworld 上有所进步, 最佳模型 (LLaMA 3.1 405B) 达到 62.5% 的准确率\n- 但在混淆版本 (Mystery Blocksworld)",
+    "post_content_en": "meng shao (@shao__meng) posted at 4:54 PM on Mon, Sep 23, 2024:\nFrom LLM to LRM: Evaluation of OpenAI O1 Model's Planning Capability on PlanBench\n\nLatest LLMs still cannot plan, can large reasoning models (LRM, OpenAI o1) do it? Let's take a look 👇\n\nPlanning performance of LLMs:\n- The latest LLMs have made progress on the standard Blocksworld, with the best model (LLaMA 3.1 405B) achieving 62.5% accuracy\n- But on the confusing version (Mystery Blocksworld)",
+    "link_lists": [
+      "https://t.co/8YZg0v2yK3",
+      "https://x.com/shao__meng/status/1838366411389063616?t=jbXqWLf--KmI0_KDrC2vcg&s=03"
+    ],
+    "post_summary_cn": "meng shao 讨论了从 LLM 到 LRM 的转变，特别是 OpenAI O1 模型在 PlanBench 上的规划能力评估。最新的 LLMs 在普通 Blocksworld 上有所进步，但在混淆版本上表现不佳。",
+    "post_summary_en": "meng shao discussed the transition from LLM to LRM, specifically evaluating the planning capability of the OpenAI O1 model on PlanBench. The latest LLMs have improved on the standard Blocksworld but perform poorly on the confusing version.",
+    "post_datetime": "2024-09-23T19:53:32-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  },
+  "192124fc66236e00": {
+    "email_id": "192124fc66236e00",
+    "post_labels": [
+      "LLM"
+    ],
+    "post_content_cn": "Tom Huang (@tuturetom) 于 2024 年 9 月 16 日星期一晚上 8:16 发布：\n275+ 插画，12+ 章节，吴恩达力荐！⚡️完美呈现 LLM 工业级应用，提供完整可运行的代码和 Paper 引用🤯🤯，这本\n《实践大语言模型》也太好了🔥\n\n介绍包括语言模型、Prompt Engineering、RAG、多模态、微调等核心工程实践技术，每章提供完整可运行的代码和环境配置",
+    "post_content_en": "Tom Huang (@tuturetom) posted at 8:16 PM on Mon, Sep 16, 2024:\n275+ illustrations, 12+ chapters, highly recommended by Andrew Ng! ⚡️ Perfectly presents industrial-level applications of LLM, providing complete runnable code and paper references 🤯🤯, this book\n\"Practical Large Language Models\" is amazing 🔥\n\nIntroduces core engineering practices including language models, Prompt Engineering, RAG, multimodal, fine-tuning, etc., with complete runnable code and environment configuration for each chapter",
+    "link_lists": [
+      "https://t.co/QTcuP31CjZ",
+      "https://t.co/HY8Q9SJrIw",
+      "https://x.com/tuturetom/status/1835880356475724141?t=KldLH9XhzZ6TVotOPrUbeA&s=03"
+    ],
+    "post_summary_cn": "Tom Huang 推荐了一本名为《实践大语言模型》的书籍，该书包含 275+ 插画和 12+ 章节，由吴恩达力荐。书中详细介绍了语言模型、Prompt Engineering、RAG、多模态、微调等核心工程实践技术，并提供了完整可运行的代码和环境配置。",
+    "post_summary_en": "Tom Huang recommended a book titled \"Practical Large Language Models,\" which includes 275+ illustrations and 12+ chapters, highly recommended by Andrew Ng. The book details core engineering practices such as language models, Prompt Engineering, RAG, multimodal, fine-tuning, etc., and provides complete runnable code and environment configuration.",
+    "post_datetime": "2024-09-20T19:01:11-07:00",
+    "source_language": "cn",
+    "confidence_score": 0.95
+  }
+}
